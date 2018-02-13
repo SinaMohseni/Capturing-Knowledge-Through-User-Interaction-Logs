@@ -1,0 +1,11418 @@
+[
+ {
+  "DocNum": "", 
+  "tags": [
+   "January, 2014"
+  ], 
+  "ClassNum": [
+   0
+  ], 
+  "stepHeight": 7, 
+  "Time": 48, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Jan 2014"
+  ], 
+  "ClassNum": [
+   0
+  ], 
+  "stepHeight": 7, 
+  "Time": 73, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 149", 
+  "tags": [
+   "sanjorge", 
+   "public", 
+   "international", 
+   "sten", 
+   "company"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 103, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 149", 
+  "tags": [
+   "sanjorge", 
+   "public", 
+   "international", 
+   "sten", 
+   "company"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 104, 
+  "Duration": 0.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 149", 
+  "tags": [
+   "sanjorge", 
+   "public", 
+   "international", 
+   "sten", 
+   "company"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 105, 
+  "Duration": 1.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 149", 
+  "tags": [
+   "sanjorge", 
+   "public", 
+   "international", 
+   "sten", 
+   "company"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 105, 
+  "Duration": 1.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 151", 
+  "tags": [
+   "pok", 
+   "gastech", 
+   "groups", 
+   "kronos", 
+   "responsibility"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 107, 
+  "Duration": 0.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 151", 
+  "tags": [
+   "pok", 
+   "gastech", 
+   "groups", 
+   "kronos", 
+   "responsibility"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 108, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 151", 
+  "tags": [
+   "pok", 
+   "gastech", 
+   "groups", 
+   "kronos", 
+   "responsibility"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 108, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 26", 
+  "tags": [
+   "kronos", 
+   "abila", 
+   "siopa", 
+   "district", 
+   "vandalize"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 110, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 26", 
+  "tags": [
+   "kronos", 
+   "abila", 
+   "siopa", 
+   "district", 
+   "vandalize"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 110, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 26", 
+  "tags": [
+   "kronos", 
+   "abila", 
+   "siopa", 
+   "district", 
+   "vandalize"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 110, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 51", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 112, 
+  "Duration": 1.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 51", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 112, 
+  "Duration": 1.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 113, 
+  "Duration": 0.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 114, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 114, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 76", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 117, 
+  "Duration": 1.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 76", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 117, 
+  "Duration": 1.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 101", 
+  "tags": [
+   "gastech", 
+   "pok", 
+   "kronos", 
+   "gathering", 
+   "building"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 119, 
+  "Duration": 2.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 101", 
+  "tags": [
+   "gastech", 
+   "pok", 
+   "kronos", 
+   "gathering", 
+   "building"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 119, 
+  "Duration": 2.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 122, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 122, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 127, 
+  "Duration": 1.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 129, 
+  "Duration": 2.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 129, 
+  "Duration": 2.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 132, 
+  "Duration": 1.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 134, 
+  "Duration": 212.6, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 134, 
+  "Duration": 127.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "The local organizations of news received a note of ransom of the claiming responsibility and to require POK $20 million the company"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 263, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 263, 
+  "Duration": 30.7, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Tethan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 296, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 297, 
+  "Duration": 4.9, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "abila", 
+   "police", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 303, 
+  "Duration": 0.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "abila", 
+   "police", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 304, 
+  "Duration": 3.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "abila", 
+   "police", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 304, 
+  "Duration": 3.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 309, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 309, 
+  "Duration": 2.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "limousine", 
+   "blog", 
+   "abila", 
+   "approximately", 
+   "sentinel"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 312, 
+  "Duration": 3.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 316, 
+  "Duration": 14.1, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 334, 
+  "Duration": 6.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 340, 
+  "Duration": 2.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 340, 
+  "Duration": 2.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 344, 
+  "Duration": 227.7, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 348, 
+  "Duration": 0.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 349, 
+  "Duration": 0.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 354, 
+  "Duration": 13.1, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "the personnel of the ministry of Tethan of the Foreign Affairs arrived in Kronos to help the police force in research."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 366, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 368, 
+  "Duration": 0.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 369, 
+  "Duration": 20.3, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 370, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 370, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   " 21 January 2014"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 395, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 395, 
+  "Duration": 49.4, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   " A fire alarm went off, and the execs were discovered missing shortly after that."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 446, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 446, 
+  "Duration": 42.6, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 492, 
+  "Duration": 16.6, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 510, 
+  "Duration": 10.3, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "fire alarm"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 522, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 522, 
+  "Duration": 1.4, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 525, 
+  "Duration": 2.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 527, 
+  "Duration": 2.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 79", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "kidnapped", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 530, 
+  "Duration": 8.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 79", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "kidnapped", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 542, 
+  "Duration": 1.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 545, 
+  "Duration": 6.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 553, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 79", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "kidnapped", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 554, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "tomorrow", 
+   "meet", 
+   "set", 
+   "morning", 
+   "public"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 555, 
+  "Duration": 0.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 556, 
+  "Duration": 10.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 566, 
+  "Duration": 3.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 566, 
+  "Duration": 3.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 570, 
+  "Duration": 44.0, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 573, 
+  "Duration": 1.9, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 574, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 574, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 575, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 576, 
+  "Duration": 0.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 577, 
+  "Duration": 19.0, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 577, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 577, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "10:50 AM:"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 597, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 597, 
+  "Duration": 5.0, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 604, 
+  "Duration": 5.0, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "bomb threat."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 612, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 615, 
+  "Duration": 2.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 615, 
+  "Duration": 2.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "bomb threat"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 629, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb threat"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 636, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 640, 
+  "Duration": 2.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 642, 
+  "Duration": 2.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 642, 
+  "Duration": 2.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 647, 
+  "Duration": 113.9, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 648, 
+  "Duration": 36.6, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 687, 
+  "Duration": 40.3, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "people Maha Salo 20 January 2014 "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 730, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 730, 
+  "Duration": 18.6, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 749, 
+  "Duration": 4.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   " bomb threat. 20 Jan 2014"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 756, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 756, 
+  "Duration": 1.6, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Maha Salo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 774, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 5", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "kidnapped", 
+   "employees", 
+   "offices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 781, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 5", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "kidnapped", 
+   "employees", 
+   "offices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 781, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 10", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "modernizations", 
+   "accardi", 
+   "captain"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 782, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 10", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "modernizations", 
+   "accardi", 
+   "captain"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 783, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 10", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "modernizations", 
+   "accardi", 
+   "captain"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 783, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 13", 
+  "tags": [
+   "gastech", 
+   "away", 
+   "explosion", 
+   "cato", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 784, 
+  "Duration": 1.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 17", 
+  "tags": [
+   "arrived", 
+   "black", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 786, 
+  "Duration": 1.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 70", 
+  "tags": [
+   "kronos", 
+   "abila", 
+   "protectors", 
+   "death", 
+   "call"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 787, 
+  "Duration": 0.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 67", 
+  "tags": [
+   "pok", 
+   "force", 
+   "police", 
+   "abila", 
+   "members"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 788, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 63", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "public", 
+   "gas", 
+   "drilling"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 789, 
+  "Duration": 0.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 65", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "important", 
+   "people"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 790, 
+  "Duration": 5.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 799, 
+  "Duration": 1.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 55", 
+  "tags": [
+   "juliana", 
+   "elodis", 
+   "poisoned", 
+   "caused", 
+   "death"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 800, 
+  "Duration": 7.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 807, 
+  "Duration": 1.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 63", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "public", 
+   "gas", 
+   "drilling"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 810, 
+  "Duration": 6.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 818, 
+  "Duration": 3.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 818, 
+  "Duration": 3.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 824, 
+  "Duration": 114.6, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 846, 
+  "Duration": 14.5, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 847, 
+  "Duration": 1.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 847, 
+  "Duration": 1.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 853, 
+  "Duration": 2.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 853, 
+  "Duration": 2.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 865, 
+  "Duration": 12.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 878, 
+  "Duration": 0.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 879, 
+  "Duration": 0.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 882, 
+  "Duration": 7.1, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 891, 
+  "Duration": 0.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 897, 
+  "Duration": 26.3, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "someone should locate the caterers from the executive breakfast?"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 925, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 926, 
+  "Duration": 10.0, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   " newfound wealth might provide a motive."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 937, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "carterers"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 957, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "executive breakfast"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 987, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "executive breakfast"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 993, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "caterers"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1007, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 79", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "kidnapped", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1010, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1011, 
+  "Duration": 2.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1014, 
+  "Duration": 2.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1014, 
+  "Duration": 2.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 1016, 
+  "Duration": 113.4, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1016, 
+  "Duration": 3.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1018, 
+  "Duration": 1.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1018, 
+  "Duration": 1.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1024, 
+  "Duration": 2.0, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1027, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1027, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1031, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1031, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 1040, 
+  "Duration": 15.8, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "20 Jan 2014"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1054, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 1056, 
+  "Duration": 1.7, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1060, 
+  "Duration": 61.6, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1060, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1060, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   " the caterers for the breakfast meeting, who were dressed all in black, have been released."
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 1123, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1133, 
+  "Duration": 0.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1133, 
+  "Duration": 0.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1141, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1141, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1146, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1146, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1151, 
+  "Duration": 2.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1151, 
+  "Duration": 2.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1155, 
+  "Duration": 2.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1155, 
+  "Duration": 2.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1160, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1160, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1167, 
+  "Duration": 0.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1167, 
+  "Duration": 0.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1168, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1168, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1170, 
+  "Duration": 1.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1170, 
+  "Duration": 1.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1172, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1172, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1174, 
+  "Duration": 4.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1174, 
+  "Duration": 4.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1186, 
+  "Duration": 2.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1186, 
+  "Duration": 2.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1195, 
+  "Duration": 2.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1195, 
+  "Duration": 2.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1205, 
+  "Duration": 1.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1205, 
+  "Duration": 1.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "black"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 1214, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 141", 
+  "tags": [
+   "riot", 
+   "abila", 
+   "pok", 
+   "annual", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1220, 
+  "Duration": 1.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 141", 
+  "tags": [
+   "riot", 
+   "abila", 
+   "pok", 
+   "annual", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1221, 
+  "Duration": 4.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 141", 
+  "tags": [
+   "riot", 
+   "abila", 
+   "pok", 
+   "annual", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1221, 
+  "Duration": 4.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 23", 
+  "tags": [
+   "drug", 
+   "related", 
+   "increased", 
+   "haltings", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1228, 
+  "Duration": 1.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 23", 
+  "tags": [
+   "drug", 
+   "related", 
+   "increased", 
+   "haltings", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1230, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 23", 
+  "tags": [
+   "drug", 
+   "related", 
+   "increased", 
+   "haltings", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1230, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 20", 
+  "tags": [
+   "abila", 
+   "today", 
+   "plane", 
+   "confirmed", 
+   "private"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1233, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 20", 
+  "tags": [
+   "abila", 
+   "today", 
+   "plane", 
+   "confirmed", 
+   "private"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1233, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1237, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1237, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 62", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1242, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 62", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1242, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 57", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "ransom", 
+   "kidnapped", 
+   "employees"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1245, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 80", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "international", 
+   "wfa", 
+   "claiming"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1246, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 80", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "international", 
+   "wfa", 
+   "claiming"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1246, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 103", 
+  "tags": [
+   "blog", 
+   "approximately", 
+   "sentinel", 
+   "important", 
+   "centrum"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1249, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 103", 
+  "tags": [
+   "blog", 
+   "approximately", 
+   "sentinel", 
+   "important", 
+   "centrum"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1249, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1253, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1254, 
+  "Duration": 2.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1254, 
+  "Duration": 2.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1257, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 1258, 
+  "Duration": 255.7, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1258, 
+  "Duration": 72.3, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1259, 
+  "Duration": 2.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1259, 
+  "Duration": 2.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "entrargli"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1336, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1336, 
+  "Duration": 5.9, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1344, 
+  "Duration": 1.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1347, 
+  "Duration": 17.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "government sedan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1365, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1366, 
+  "Duration": 6.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "government"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1374, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1377, 
+  "Duration": 7.1, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 101", 
+  "tags": [
+   "gastech", 
+   "pok", 
+   "kronos", 
+   "gathering", 
+   "building"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1385, 
+  "Duration": 0.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1386, 
+  "Duration": 4.6, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 140", 
+  "tags": [
+   "fire", 
+   "gastech", 
+   "explosion", 
+   "tiskele", 
+   "bend"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1395, 
+  "Duration": 1.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1396, 
+  "Duration": 3.3, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "running", 
+   "phillies", 
+   "chamberlain", 
+   "games", 
+   "inning"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1401, 
+  "Duration": 3.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1405, 
+  "Duration": 1.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 122", 
+  "tags": [
+   "violence", 
+   "kronos", 
+   "peaceful", 
+   "crowd", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1408, 
+  "Duration": 1.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 117", 
+  "tags": [
+   "elodis", 
+   "died", 
+   "car", 
+   "family", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1410, 
+  "Duration": 2.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 118", 
+  "tags": [
+   "karel", 
+   "kronos", 
+   "death", 
+   "guard", 
+   "research"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1412, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 140", 
+  "tags": [
+   "fire", 
+   "gastech", 
+   "explosion", 
+   "tiskele", 
+   "bend"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1413, 
+  "Duration": 1.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 79", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "kidnapped", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1417, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 85", 
+  "tags": [
+   "kronos", 
+   "protesters", 
+   "abila", 
+   "force", 
+   "groups"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 1422, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 60", 
+  "tags": [
+   "contamination", 
+   "elodis", 
+   "black", 
+   "ratio", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1423, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 1423, 
+  "Duration": 1.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 62", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1424, 
+  "Duration": 2.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 1427, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 62", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1428, 
+  "Duration": 2.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 40", 
+  "tags": [
+   "gastech", 
+   "pok", 
+   "construction", 
+   "news", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1432, 
+  "Duration": 2.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1434, 
+  "Duration": 2.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 16", 
+  "tags": [
+   "death", 
+   "karel", 
+   "kronos", 
+   "elian", 
+   "year"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1436, 
+  "Duration": 3.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 57", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "ransom", 
+   "kidnapped", 
+   "employees"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1448, 
+  "Duration": 1.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 58", 
+  "tags": [
+   "abila", 
+   "january", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1449, 
+  "Duration": 4.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 83", 
+  "tags": [
+   "force", 
+   "police", 
+   "crowd", 
+   "riot", 
+   "protestateurs"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1454, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 85", 
+  "tags": [
+   "kronos", 
+   "protesters", 
+   "abila", 
+   "force", 
+   "groups"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 1454, 
+  "Duration": 6.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 1461, 
+  "Duration": 1.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 62", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1462, 
+  "Duration": 0.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 1463, 
+  "Duration": 2.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 122", 
+  "tags": [
+   "violence", 
+   "kronos", 
+   "peaceful", 
+   "crowd", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1466, 
+  "Duration": 4.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1471, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "running", 
+   "phillies", 
+   "chamberlain", 
+   "games", 
+   "inning"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1472, 
+  "Duration": 3.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1480, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1481, 
+  "Duration": 6.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1481, 
+  "Duration": 6.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 1489, 
+  "Duration": 356.2, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1489, 
+  "Duration": 3.3, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1493, 
+  "Duration": 6.0, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "A black government sedan has arrived hardly to the centers of GAStech."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1500, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1500, 
+  "Duration": 1.7, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1503, 
+  "Duration": 7.6, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   " he transports entrargli"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1512, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1514, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "gastech", 
+   "blog", 
+   "important", 
+   "people", 
+   "voices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1514, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1516, 
+  "Duration": 131.5, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "Edvard Vann, GAStech - Kronos the security guard which was questioned and after 6 hours was delivered, the daders behind the events of today indicated became suspicious on the guards of Kronos such as are. \n"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1649, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1649, 
+  "Duration": 111.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "The affirmative reports of a fire on the office are possible as a diversion for the ontvoerders have served or to misfiring during the event have at least contributed."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1762, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1762, 
+  "Duration": 22.0, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 1786, 
+  "Duration": 3.6, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 1791, 
+  "Duration": 47.9, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1792, 
+  "Duration": 2.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1792, 
+  "Duration": 2.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1813, 
+  "Duration": 12.5, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1829, 
+  "Duration": 1.3, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "Kronos were sent around 10:00 this morning local time Kronos to answer to a fire alarm."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1832, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1833, 
+  "Duration": 1.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1849, 
+  "Duration": 4.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1849, 
+  "Duration": 4.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1854, 
+  "Duration": 1.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "blog", 
+   "morning", 
+   "recent"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1854, 
+  "Duration": 1.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 1868, 
+  "Duration": 0.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 1869, 
+  "Duration": 61.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Edvard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1880, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1885, 
+  "Duration": 2.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 55", 
+  "tags": [
+   "juliana", 
+   "elodis", 
+   "poisoned", 
+   "caused", 
+   "death"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1887, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "arrived", 
+   "black", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1889, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1889, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1890, 
+  "Duration": 1.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1891, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1891, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 97", 
+  "tags": [
+   "kronos", 
+   "country", 
+   "taxes", 
+   "projects", 
+   "income"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1892, 
+  "Duration": 6.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Edvard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 1915, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1917, 
+  "Duration": 1.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1919, 
+  "Duration": 4.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1919, 
+  "Duration": 4.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1931, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 1931, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1933, 
+  "Duration": 0.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1933, 
+  "Duration": 0.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 1934, 
+  "Duration": 122.9, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 1934, 
+  "Duration": 75.1, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2010, 
+  "Duration": 25.7, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   " Initial Public Offering "
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 2038, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2038, 
+  "Duration": 14.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   " gave the indication that the Protectors of Kronos were involved or at least suspected as being the perpetrators behind today's events"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 2054, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2058, 
+  "Duration": 0.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2058, 
+  "Duration": 0.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Offering"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 2064, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 70", 
+  "tags": [
+   "kronos", 
+   "abila", 
+   "protectors", 
+   "death", 
+   "call"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2068, 
+  "Duration": 1.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 17", 
+  "tags": [
+   "arrived", 
+   "black", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2070, 
+  "Duration": 0.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2072, 
+  "Duration": 3.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2075, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2075, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2080, 
+  "Duration": 1.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2082, 
+  "Duration": 0.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2082, 
+  "Duration": 0.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 2084, 
+  "Duration": 118.0, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2085, 
+  "Duration": 52.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2095, 
+  "Duration": 3.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2095, 
+  "Duration": 3.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2147, 
+  "Duration": 15.5, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2150, 
+  "Duration": 5.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2150, 
+  "Duration": 5.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2163, 
+  "Duration": 14.5, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "2 September 2013 CENTRUM, Tethys "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 2179, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2179, 
+  "Duration": 8.4, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   ""
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 2189, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2189, 
+  "Duration": 5.4, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "After 52 years of being privately owned"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 2196, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2204, 
+  "Duration": 5.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2204, 
+  "Duration": 5.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2211, 
+  "Duration": 12.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2211, 
+  "Duration": 12.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2225, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2225, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2230, 
+  "Duration": 1.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2230, 
+  "Duration": 1.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "POK"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 2244, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 24", 
+  "tags": [
+   "gastech", 
+   "modernizations", 
+   "black", 
+   "morning", 
+   "present"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2279, 
+  "Duration": 1.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 27", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2286, 
+  "Duration": 0.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 58", 
+  "tags": [
+   "abila", 
+   "january", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2287, 
+  "Duration": 6.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 58", 
+  "tags": [
+   "abila", 
+   "january", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2295, 
+  "Duration": 3.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2302, 
+  "Duration": 1.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2304, 
+  "Duration": 3.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2304, 
+  "Duration": 3.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 2312, 
+  "Duration": 59.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2312, 
+  "Duration": 48.6, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   " was questioned for hours because he shares a family name with several known POK members. "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 2363, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2364, 
+  "Duration": 3.4, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2373, 
+  "Duration": 4.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2373, 
+  "Duration": 4.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2378, 
+  "Duration": 0.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2378, 
+  "Duration": 0.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2380, 
+  "Duration": 1.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2380, 
+  "Duration": 1.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2383, 
+  "Duration": 1.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2383, 
+  "Duration": 1.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2390, 
+  "Duration": 1.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2390, 
+  "Duration": 1.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 119", 
+  "tags": [
+   "force", 
+   "police", 
+   "crowd", 
+   "riot", 
+   "protestateurs"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2396, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "drug", 
+   "caramel", 
+   "cotton", 
+   "bianca", 
+   "designated"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2397, 
+  "Duration": 1.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2399, 
+  "Duration": 4.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 2405, 
+  "Duration": 5.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 58", 
+  "tags": [
+   "abila", 
+   "january", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2411, 
+  "Duration": 2.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 59", 
+  "tags": [
+   "kronos", 
+   "year", 
+   "karel", 
+   "better", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2414, 
+  "Duration": 6.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 58", 
+  "tags": [
+   "abila", 
+   "january", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2421, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 59", 
+  "tags": [
+   "kronos", 
+   "year", 
+   "karel", 
+   "better", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2422, 
+  "Duration": 5.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2428, 
+  "Duration": 1.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2430, 
+  "Duration": 2.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2430, 
+  "Duration": 2.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 2435, 
+  "Duration": 84.7, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2435, 
+  "Duration": 4.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2440, 
+  "Duration": 49.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "four of the GAStech employees whose whereabouts were unconfirmed yesterday were found overnight, leaving ten people who are presumed missing."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 2491, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2521, 
+  "Duration": 9.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2521, 
+  "Duration": 9.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2533, 
+  "Duration": 0.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2533, 
+  "Duration": 0.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2534, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2534, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2537, 
+  "Duration": 1.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2537, 
+  "Duration": 1.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2547, 
+  "Duration": 3.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2551, 
+  "Duration": 12.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2551, 
+  "Duration": 12.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2566, 
+  "Duration": 3.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2574, 
+  "Duration": 0.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2575, 
+  "Duration": 1.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2575, 
+  "Duration": 1.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 6.191278739710474, 
+  "Time": 2581, 
+  "Duration": 196.2, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2581, 
+  "Duration": 1.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2582, 
+  "Duration": 1.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2582, 
+  "Duration": 1.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   ". By year since the death of Karel the guards of Kronos continue the mission to require that the instrument of government of Kronos a policy of transparency in businesses of government, and to hold responsible the alien companies which soiled the natural resources of Kronosian. "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 2738, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2738, 
+  "Duration": 37.4, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2763, 
+  "Duration": 12.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2763, 
+  "Duration": 12.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2779, 
+  "Duration": 7.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2779, 
+  "Duration": 7.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2788, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "taxes", 
+   "health", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2788, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2790, 
+  "Duration": 1.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "new", 
+   "contamination", 
+   "standard"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2790, 
+  "Duration": 1.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2793, 
+  "Duration": 1.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "police", 
+   "gastech", 
+   "abila", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2793, 
+  "Duration": 1.3, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2795, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2795, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2798, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2798, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2800, 
+  "Duration": 0.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2800, 
+  "Duration": 0.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2802, 
+  "Duration": 1.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "force", 
+   "protestors", 
+   "mob", 
+   "pok", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2802, 
+  "Duration": 1.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 2808, 
+  "Duration": 1.3, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 2814, 
+  "Duration": 0.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2816, 
+  "Duration": 0.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2816, 
+  "Duration": 0.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2818, 
+  "Duration": 2.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2818, 
+  "Duration": 2.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2822, 
+  "Duration": 3.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "opening", 
+   "size"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2822, 
+  "Duration": 3.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2827, 
+  "Duration": 4.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "gastech", 
+   "million", 
+   "sanjorge", 
+   "sten", 
+   "ipo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2827, 
+  "Duration": 4.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2833, 
+  "Duration": 8.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2833, 
+  "Duration": 8.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2848, 
+  "Duration": 15.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2848, 
+  "Duration": 15.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2865, 
+  "Duration": 2.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2865, 
+  "Duration": 2.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "contamination"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 2890, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 35", 
+  "tags": [
+   "hospital", 
+   "abila", 
+   "new", 
+   "construction", 
+   "general"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2896, 
+  "Duration": 1.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 35", 
+  "tags": [
+   "hospital", 
+   "abila", 
+   "new", 
+   "construction", 
+   "general"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2897, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 35", 
+  "tags": [
+   "hospital", 
+   "abila", 
+   "new", 
+   "construction", 
+   "general"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2897, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 10", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "modernizations", 
+   "accardi", 
+   "captain"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 2899, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "people", 
+   "work", 
+   "hard", 
+   "speaks"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2900, 
+  "Duration": 0.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "people", 
+   "work", 
+   "hard", 
+   "speaks"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2901, 
+  "Duration": 1.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "people", 
+   "work", 
+   "hard", 
+   "speaks"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2901, 
+  "Duration": 1.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 68", 
+  "tags": [
+   "gastech", 
+   "place", 
+   "celebrating", 
+   "today", 
+   "executive"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2904, 
+  "Duration": 3.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 69", 
+  "tags": [
+   "times", 
+   "gastech", 
+   "sanjorge", 
+   "activity", 
+   "day"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2907, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "arrived", 
+   "black", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2909, 
+  "Duration": 3.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "abila", 
+   "police", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2913, 
+  "Duration": 4.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2917, 
+  "Duration": 1.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2928, 
+  "Duration": 5.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2934, 
+  "Duration": 1.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 83", 
+  "tags": [
+   "force", 
+   "police", 
+   "crowd", 
+   "riot", 
+   "protestateurs"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2935, 
+  "Duration": 6.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2945, 
+  "Duration": 1.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2946, 
+  "Duration": 8.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2946, 
+  "Duration": 8.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 2961, 
+  "Duration": 80.0, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 2961, 
+  "Duration": 59.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3020, 
+  "Duration": 2.1, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3024, 
+  "Duration": 7.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "The POK formed in 1997 from a grassroots action group in response to the pollution of the Elodis water supply and the resultant sickness and deaths of local residents over the subsequent several years."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 3033, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3042, 
+  "Duration": 5.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3042, 
+  "Duration": 5.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 3053, 
+  "Duration": 18.1, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3072, 
+  "Duration": 3.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3072, 
+  "Duration": 3.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "minister"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 3085, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3094, 
+  "Duration": 0.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "people", 
+   "voices", 
+   "taken", 
+   "employees", 
+   "foreign"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3095, 
+  "Duration": 0.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 94", 
+  "tags": [
+   "terrorist", 
+   "force", 
+   "task", 
+   "offices", 
+   "today"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3097, 
+  "Duration": 2.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 44", 
+  "tags": [
+   "tethys", 
+   "modernizations", 
+   "gastech", 
+   "kronos", 
+   "construction"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3099, 
+  "Duration": 4.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 21", 
+  "tags": [
+   "gastech", 
+   "meet", 
+   "people", 
+   "employees", 
+   "black"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3104, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 23", 
+  "tags": [
+   "drug", 
+   "related", 
+   "increased", 
+   "haltings", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3106, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "abila", 
+   "police", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3107, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3108, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "abila", 
+   "police", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3108, 
+  "Duration": 3.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3113, 
+  "Duration": 1.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "elodis", 
+   "scene", 
+   "police", 
+   "died", 
+   "program"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3115, 
+  "Duration": 0.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 122", 
+  "tags": [
+   "violence", 
+   "kronos", 
+   "peaceful", 
+   "crowd", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3116, 
+  "Duration": 12.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3129, 
+  "Duration": 12.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3141, 
+  "Duration": 11.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3141, 
+  "Duration": 11.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3153, 
+  "Duration": 6.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3153, 
+  "Duration": 6.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3163, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3163, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 3170, 
+  "Duration": 0.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3172, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "force", 
+   "abila", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3172, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3177, 
+  "Duration": 0.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 6.025404484814079, 
+  "Time": 3178, 
+  "Duration": 81.0, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3178, 
+  "Duration": 55.3, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   " An update with health 1998 for all the report/ratio will be announced soon on the municipal Web site of Elodis. "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 3235, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3235, 
+  "Duration": 13.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "Levels without precedent of toxins were found in supply water, including phenol, acetic anhydride, wire, and ethylene glycol. 2- The incidence of the chronic disease increased more than 89% of the former years 3- The exceptionally high incidence of cancer became thus about this minister of Nespola health appointed a specialist in oncology at the hospital general in Abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 3252, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3262, 
+  "Duration": 3.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3262, 
+  "Duration": 3.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 6.025404484814079, 
+  "Time": 3311, 
+  "Duration": 0.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3312, 
+  "Duration": 2.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3312, 
+  "Duration": 2.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3315, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3315, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3319, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3319, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3326, 
+  "Duration": 2.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 8", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "kidnapped", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3326, 
+  "Duration": 2.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3331, 
+  "Duration": 3.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3331, 
+  "Duration": 3.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3375, 
+  "Duration": 6.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3375, 
+  "Duration": 6.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 3382, 
+  "Duration": 275.4, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3382, 
+  "Duration": 58.1, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 29", 
+  "tags": [
+   "Of ten years - old Juliana Vann died in 1998, to a sickness which is caused by polluted water of boring GAStech verrichtingen."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 3442, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3442, 
+  "Duration": 172.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3501, 
+  "Duration": 16.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3501, 
+  "Duration": 16.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "Karel spoke eloquently concerning the beginning of the campaign POK as a basis effort for clean water, to the dynamic movement demanding better government transparency and duty of responsibility have become."
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 3616, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3616, 
+  "Duration": 37.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 3659, 
+  "Duration": 0.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3660, 
+  "Duration": 2.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3660, 
+  "Duration": 2.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3664, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "elodis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3664, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3666, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3666, 
+  "Duration": 1.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3671, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3671, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3674, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3674, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3689, 
+  "Duration": 7.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "protesters", 
+   "kronos", 
+   "police", 
+   "arrests", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 1, 
+  "Time": 3689, 
+  "Duration": 7.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3703, 
+  "Duration": 2.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "entrargli", 
+   "black", 
+   "hatches", 
+   "transports", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3703, 
+  "Duration": 2.7, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "riot"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 3732, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "running", 
+   "phillies", 
+   "chamberlain", 
+   "games", 
+   "inning"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3739, 
+  "Duration": 1.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "running", 
+   "phillies", 
+   "chamberlain", 
+   "games", 
+   "inning"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3740, 
+  "Duration": 4.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "running", 
+   "phillies", 
+   "chamberlain", 
+   "games", 
+   "inning"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3740, 
+  "Duration": 4.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3748, 
+  "Duration": 2.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 86", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "ministers", 
+   "update", 
+   "incidents"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3751, 
+  "Duration": 1.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 62", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3752, 
+  "Duration": 1.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 128", 
+  "tags": [
+   "elodis", 
+   "juliana", 
+   "died", 
+   "year", 
+   "poisoned"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3754, 
+  "Duration": 1.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "illumination", 
+   "homeland", 
+   "gerhard", 
+   "limousine", 
+   "droves"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3757, 
+  "Duration": 2.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 86", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "ministers", 
+   "update", 
+   "incidents"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3760, 
+  "Duration": 11.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3774, 
+  "Duration": 2.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3774, 
+  "Duration": 2.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 3776, 
+  "Duration": 28.8, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3777, 
+  "Duration": 21.5, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3797, 
+  "Duration": 5.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3797, 
+  "Duration": 5.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3803, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3803, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3806, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3806, 
+  "Duration": 1.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "GAStech contamination "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 3856, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "contamination "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 3871, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3879, 
+  "Duration": 1.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3879, 
+  "Duration": 1.5, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 3881, 
+  "Duration": 2.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 78", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "elodis", 
+   "vehicles", 
+   "resulted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3884, 
+  "Duration": 1.0, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 3885, 
+  "Duration": 1.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 62", 
+  "tags": [
+   "kronos", 
+   "gastech", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3887, 
+  "Duration": 1.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "people", 
+   "work", 
+   "hard", 
+   "speaks"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3888, 
+  "Duration": 1.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "people", 
+   "work", 
+   "hard", 
+   "speaks"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3890, 
+  "Duration": 0.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "people", 
+   "work", 
+   "hard", 
+   "speaks"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3890, 
+  "Duration": 0.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "arrived", 
+   "black", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3892, 
+  "Duration": 1.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "arrived", 
+   "black", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3894, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "arrived", 
+   "black", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3894, 
+  "Duration": 0.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 97", 
+  "tags": [
+   "kronos", 
+   "country", 
+   "taxes", 
+   "projects", 
+   "income"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3895, 
+  "Duration": 1.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "abila", 
+   "police", 
+   "news", 
+   "kidnapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3897, 
+  "Duration": 1.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3899, 
+  "Duration": 8.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3908, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3908, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 3911, 
+  "Duration": 177.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3911, 
+  "Duration": 61.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   " a blue flame of the Jr of the tri-part that is evocative of a leaf to help to the GAStech position and its products as alternative clean of the fuel"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 3974, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 3974, 
+  "Duration": 40.9, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "GAStech that the international blue flame is a light that hold of the environmental responsibility, and a symbol of a clean business of the energy that moved ahead. "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 4016, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4016, 
+  "Duration": 43.9, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "Sten Sanjorge, Jr declined to directly comment with respect to questions with respect protests and to the contamination of environment."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 4062, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4064, 
+  "Duration": 9.4, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4074, 
+  "Duration": 8.4, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4083, 
+  "Duration": 1.1, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4089, 
+  "Duration": 6.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4089, 
+  "Duration": 6.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4096, 
+  "Duration": 2.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4096, 
+  "Duration": 2.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4180, 
+  "Duration": 2.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "ministers"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4180, 
+  "Duration": 2.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4189, 
+  "Duration": 2.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4189, 
+  "Duration": 2.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4192, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "offices", 
+   "tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4192, 
+  "Duration": 0.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4194, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "personal", 
+   "feared"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4194, 
+  "Duration": 1.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4199, 
+  "Duration": 3.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4199, 
+  "Duration": 3.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 98", 
+  "tags": [
+   "abila", 
+   "scene", 
+   "haneson", 
+   "gastech", 
+   "blog"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4209, 
+  "Duration": 0.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 23", 
+  "tags": [
+   "drug", 
+   "related", 
+   "increased", 
+   "haltings", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4210, 
+  "Duration": 2.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 19", 
+  "tags": [
+   "abila", 
+   "scene", 
+   "haneson", 
+   "gastech", 
+   "blog"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4213, 
+  "Duration": 3.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 18", 
+  "tags": [
+   "illumination", 
+   "homeland", 
+   "jet", 
+   "airport", 
+   "blog"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4217, 
+  "Duration": 1.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 17", 
+  "tags": [
+   "arrived", 
+   "black", 
+   "scene", 
+   "haneson", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4219, 
+  "Duration": 0.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "modernizations", 
+   "scene", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4220, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 11", 
+  "tags": [
+   "appear", 
+   "gastech", 
+   "speaks", 
+   "blog", 
+   "important"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4221, 
+  "Duration": 2.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 10", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "modernizations", 
+   "accardi", 
+   "captain"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4224, 
+  "Duration": 1.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 10", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "modernizations", 
+   "accardi", 
+   "captain"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4226, 
+  "Duration": 1.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 6", 
+  "tags": [
+   "people", 
+   "building", 
+   "fire", 
+   "gastech", 
+   "blog"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4229, 
+  "Duration": 2.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 10", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "modernizations", 
+   "accardi", 
+   "captain"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4231, 
+  "Duration": 7.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 11", 
+  "tags": [
+   "appear", 
+   "gastech", 
+   "speaks", 
+   "blog", 
+   "important"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4241, 
+  "Duration": 3.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4246, 
+  "Duration": 7.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "police", 
+   "employs", 
+   "gastech", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4264, 
+  "Duration": 11.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4277, 
+  "Duration": 2.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4277, 
+  "Duration": 2.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 4280, 
+  "Duration": 239.7, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4280, 
+  "Duration": 96.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4281, 
+  "Duration": 8.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4281, 
+  "Duration": 8.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "People protest because they suffer, because they have no medical aid. We require the government, Terek Kamal, a truck driver, told The Times resign."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 4378, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4379, 
+  "Duration": 3.1, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4392, 
+  "Duration": 72.6, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "Hundreds rural citizens suffer from important sicknesses which are apparently caused by exhibition to GAStech waste streams, although this no official gesubstanti\u00ebrd have been or recognize by or the company or government."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 4466, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4466, 
+  "Duration": 46.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "nitially peaceful, this protest is more and more violent, and both the police force and the citizens is now caught in sometimes fatal cross fire."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 4514, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4515, 
+  "Duration": 3.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4560, 
+  "Duration": 10.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "abila", 
+   "confirmed", 
+   "plane", 
+   "destination", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4560, 
+  "Duration": 10.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "headquaters"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 4586, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "headquater"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 4590, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "head"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 4598, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 121", 
+  "tags": [
+   "kronos", 
+   "pok", 
+   "groups", 
+   "continue", 
+   "environmental"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4606, 
+  "Duration": 3.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4612, 
+  "Duration": 1.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 76", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4614, 
+  "Duration": 2.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 131", 
+  "tags": [
+   "kapelou", 
+   "threat", 
+   "pok", 
+   "letters", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4617, 
+  "Duration": 1.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 127", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4618, 
+  "Duration": 1.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 128", 
+  "tags": [
+   "elodis", 
+   "juliana", 
+   "died", 
+   "year", 
+   "poisoned"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4620, 
+  "Duration": 3.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 78", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "elodis", 
+   "vehicles", 
+   "resulted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4623, 
+  "Duration": 3.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 53", 
+  "tags": [
+   "kronos", 
+   "abila", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4627, 
+  "Duration": 2.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 78", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "elodis", 
+   "vehicles", 
+   "resulted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4629, 
+  "Duration": 1.1, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 3", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4631, 
+  "Duration": 2.4, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 5", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "kidnapped", 
+   "employees", 
+   "offices"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4635, 
+  "Duration": 1.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 41", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "president", 
+   "celebrating"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4637, 
+  "Duration": 1.5, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 16", 
+  "tags": [
+   "death", 
+   "karel", 
+   "kronos", 
+   "elian", 
+   "year"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4638, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 20", 
+  "tags": [
+   "abila", 
+   "today", 
+   "plane", 
+   "confirmed", 
+   "private"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4639, 
+  "Duration": 1.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 127", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4643, 
+  "Duration": 1.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "illumination", 
+   "homeland", 
+   "gerhard", 
+   "limousine", 
+   "droves"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4644, 
+  "Duration": 2.3, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 127", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4647, 
+  "Duration": 11.8, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 127", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 4658, 
+  "Duration": 132.5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 127", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4659, 
+  "Duration": 131.4, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 127", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4659, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 127", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4659, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 127", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4792, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 127", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 4792, 
+  "Duration": 1.8, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4803, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4804, 
+  "Duration": 2.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4804, 
+  "Duration": 2.6, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 4808, 
+  "Duration": 287.9, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4808, 
+  "Duration": 79.0, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4888, 
+  "Duration": 3.7, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "Influenced by international groups such as Wellness for All "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 4893, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4893, 
+  "Duration": 60.8, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "Kronos would notify Tethys who had signed a 1998 anti-terrorism treaty of the decision, "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 4955, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4955, 
+  "Duration": 32.5, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "ed. \nPOK supporters. The POK has denied being responsible for the attack, and accused the Kronos government of staging a frame-up to silence the groups concerns for the people."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 4989, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4989, 
+  "Duration": 2.1, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 4992, 
+  "Duration": 83.3, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5075, 
+  "Duration": 2.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5078, 
+  "Duration": 2.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5080, 
+  "Duration": 2.4, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5083, 
+  "Duration": 11.9, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5083, 
+  "Duration": 10.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5083, 
+  "Duration": 10.2, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5097, 
+  "Duration": 6.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "tiskele", 
+   "bend", 
+   "today", 
+   "ministers", 
+   "gas"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5097, 
+  "Duration": 6.1, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 117", 
+  "tags": [
+   "elodis", 
+   "died", 
+   "car", 
+   "family", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5147, 
+  "Duration": 0.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 118", 
+  "tags": [
+   "karel", 
+   "kronos", 
+   "death", 
+   "guard", 
+   "research"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5148, 
+  "Duration": 4.9, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 117", 
+  "tags": [
+   "elodis", 
+   "died", 
+   "car", 
+   "family", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5153, 
+  "Duration": 2.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 117", 
+  "tags": [
+   "elodis", 
+   "died", 
+   "car", 
+   "family", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5153, 
+  "Duration": 2.0, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 117", 
+  "tags": [
+   "elodis", 
+   "died", 
+   "car", 
+   "family", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 5156, 
+  "Duration": 351.8, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 117", 
+  "tags": [
+   "elodis", 
+   "died", 
+   "car", 
+   "family", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5156, 
+  "Duration": 80.4, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 117", 
+  "tags": [
+   "elodis", 
+   "died", 
+   "car", 
+   "family", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5237, 
+  "Duration": 8.7, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 117", 
+  "tags": [
+   "the guards of Kronos"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 5249, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 117", 
+  "tags": [
+   "elodis", 
+   "died", 
+   "car", 
+   "family", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5249, 
+  "Duration": 18.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "guards of"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 5281, 
+  "Duration": 1.0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 127", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5292, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5293, 
+  "Duration": 1.2, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5295, 
+  "Duration": 2.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5295, 
+  "Duration": 2.4, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 117", 
+  "tags": [
+   "elodis", 
+   "died", 
+   "car", 
+   "family", 
+   "scene"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 1, 
+  "Time": 5299, 
+  "Duration": 2.1, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5303, 
+  "Duration": 0.7, 
+  "InteractionType": "titleView"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 5.0, 
+  "Time": 5305, 
+  "Duration": 203.0, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5305, 
+  "Duration": 1.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5306, 
+  "Duration": 30.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5306, 
+  "Duration": 30.9, 
+  "InteractionType": "movingDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "an official report/ratio released by Sten Sanjorge, president de Jr. and PRESIDENT de international GASTech, condemns the guards of Kronos like illegitimate and organization of terrorist. "
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 5348, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5349, 
+  "Duration": 2.5, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5352, 
+  "Duration": 64.5, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   " Ten protesters of POK were connected with the door of GAStech - Kronos except the entry with the building."
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 5418, 
+  "Duration": 1.0, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5419, 
+  "Duration": 70.2, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "kronos", 
+   "protectors", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5491, 
+  "Duration": 1.3, 
+  "InteractionType": "read"
+ }, 
+ {
+  "DocNum": "Disappearance 141", 
+  "tags": [
+   "riot", 
+   "abila", 
+   "pok", 
+   "annual", 
+   "force"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 1, 
+  "Time": 5498, 
+  "Duration": 0.6, 
+  "InteractionType": "titleView"
+ }
+]

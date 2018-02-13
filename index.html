@@ -10,10 +10,24 @@
 
     <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-      <a href="#">About</a>
-      <a href="#">Services</a>
-      <a href="#">Clients</a>
-      <a href="#">Contact</a>
+      
+      <!-- Time/Topic slider  -->
+      <a class="slidecontainer">
+        Time-Topic Ratio:
+        <p2  style= "position: relative; top: 10px">
+        <input type="range" min="0" max="100" value = "100" id="topic_time_slider" class="slider";>
+        </p2> 
+      </a>
+
+      <a onclick="distanceFunction()" style= "padding-top: 100px"> Cluster Numbers: </a>
+      <a onclick="distanceFunction()"> >> 1 </a>
+      <a onclick="distanceFunction()"> >> 2 </a>
+      <a onclick="distanceFunction()"> >> 3 </a>
+      <a onclick="distanceFunction()"> >> 4 </a>
+      <a onclick="distanceFunction()"> >> 5 </a>
+      <a onclick="distanceFunction()"> >> 6 </a>
+      <!-- <a href="#">Services</a> -->
+
     </div>
 
     <div id="main">
@@ -25,10 +39,66 @@
             <button class="dropbtn">Number of Topics
               <i class="fa fa-caret-down"></i>
             </button>
-            <div class="dropdown-content">
-              <a href="#">Link 1</a>
-              <a href="#">Link 2</a>
-              <a href="#">Link 3</a>
+            <div class="dropdown-content" >
+              
+              <label class="radio_container" style = "margin-top: 10px">
+                <b>
+                3 Topics
+                <input type="radio" name="topics_radio" value=3>
+                <span class="radio"></span>
+                </b>
+              </label>
+
+              <label class="radio_container">
+                <b>
+                4 Topics
+                <input type="radio" name="topics_radio" value=4>
+                <span class="radio"></span>
+                </b>
+              </label>
+
+              <label class="radio_container">
+                <b>
+                5 Topics
+                <input type="radio" name="topics_radio" value=5>
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                6 Topics
+                <input type="radio" name="topics_radio" value=6 checked="checked" >
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                7 Topics
+                <input type="radio" name="topics_radio" value=7>
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                8 Topics
+                <input type="radio" name="topics_radio" value=8>
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                9 Topics
+                <input type="radio" name="topics_radio" value=9>
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                10 Topics
+                <input type="radio" name="topics_radio" value=10>
+                <span class="radio"></span>
+                </b>
+              </label>
             </div>
           </div> 
           <div class="dropdown">
@@ -36,9 +106,51 @@
               <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-              <a href="#">Link 1</a>
-              <a href="#">Link 2</a>
-              <a href="#">Link 3</a>
+
+              <label class="checkmark_container">
+                <a>
+                  <input type="checkbox" checked="checked" value="open">
+                  <span class="checkmark"></span>
+                   Open Documents
+               </a>
+              </label>
+              <label class="checkmark_container">
+                <a>
+                  <input type="checkbox" checked="checked" value="search">
+                  <span class="checkmark"></span>
+                   Search
+               </a>
+              </label>
+              <label class="checkmark_container">
+                <a>
+                  <input type="checkbox" checked="checked" value="highlight">
+                  <span class="checkmark"></span>
+                   Highlight
+               </a>
+              </label>
+              <label class="checkmark_container">
+                <a>
+                  <input type="checkbox" checked="checked" value="write">
+                  <span class="checkmark"></span>
+                   Write Note
+               </a>
+              </label>
+              <label class="checkmark_container">
+                <a>
+                  <input type="checkbox" checked="checked" value="bookmark">
+                  <span class="checkmark"></span>
+                   Bookmark
+               </a>
+              </label>
+              <label class="checkmark_container">
+                <a>
+                  <input type="checkbox" checked="checked" value="new">
+                  <span class="checkmark"></span>
+                   New Note
+               </a>
+              </label>
+              <a href="#">Remove All</a>
+
             </div>
           </div> 
           <div class="dropdown">
@@ -46,9 +158,27 @@
               <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-              <a href="#">Link 1</a>
-              <a href="#">Link 2</a>
-              <a href="#">Link 3</a>
+              <label class="radio_container" style = "margin-top: 10px">
+                <b>
+                Arms Dealing
+                <input type="radio" checked="checked" name="dataset_radio" value= "armsdealing">
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                Terrorist Activity
+                <input type="radio" name="dataset_radio" value= "terroristactivity">
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                Kidnapping at GasTech
+                <input type="radio" name="dataset_radio" value= "kidnapping">
+                <span class="radio"></span>
+                </b>
+              </label>
             </div>
           </div> 
           <div class="dropdown">
@@ -56,15 +186,68 @@
               <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-              <a href="#">Link 1</a>
-              <a href="#">Link 2</a>
-              <a href="#">Link 3</a>
+              <label class="radio_container" style = "margin-top: 10px">
+                <b>
+                P1
+                <input type="radio" name="user_radio" value ="P1" checked="checked">
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                P2
+                <input type="radio" name="user_radio" value ="P2">
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                P3
+                <input type="radio" name="user_radio" value ="P3">
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                P4
+                <input type="radio" name="user_radio" value ="P4">
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                P5
+                <input type="radio" name="user_radio" value ="P5">
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                P6
+                <input type="radio" name="user_radio" value ="P6">
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                P7
+                <input type="radio" name="user_radio" value ="P7">
+                <span class="radio"></span>
+                </b>
+              </label>
+              <label class="radio_container">
+                <b>
+                P8
+                <input type="radio" name="user_radio" value ="P8">
+                <span class="radio"></span>
+                </b>
+              </label>
             </div>
           </div>
+
+          
           <a href="#news">Help</a>
         </div>
-
-
         <div id = "chart1"> </div>
         <div id = "chart2"></div>
     </div>
@@ -79,10 +262,12 @@
         document.getElementById("main").style.marginLeft= "0";
     }
     </script>
-    
 
+
+    
     <script src="./cluster/script/dataplot.js"> </script>
     <script src="./cluster/script/topicsplot.js"> </script>
+    
     <!-- <script src="./words.js"> </script> -->
 
 </body>

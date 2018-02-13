@@ -1,0 +1,5840 @@
+[
+ {
+  "duration": 1.0, 
+  "Text": "So the diseas was startet in Nigeria in Feb 2011. then spreaded to ..reading all countries..", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 0.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Do we know to name of the disease or it;s just an infection disease?", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 27.400000000000006
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm thinking it's better to starting with the disease to figure out what the disease is first or tto figure out what happend in the Nigeria first. Like how the disease startet in Nigeria", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 55.400000000000006
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I think I would go with the figuring out what the disease is and then try to find out what all about arms dealing that was happening in these countries and see if they took the disease somehow", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 66.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "disease", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 89.4
+ }, 
+ {
+  "duration": 0, 
+  "Text": " (Looking for causes of the disease) (type 1) [bottom-up]", 
+  "InteractionType": "topic_change", 
+  "ID": "bottom-up", 
+  "time": 89.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 97", 
+  "time": 97.2
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 97", 
+  "time": 97.9
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 98", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 98", 
+  "time": 99.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 112.7
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 31", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 31", 
+  "time": 113.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Ok so I'm going to start reading about Nigeria and see what happened in Nigeria in the first place", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 115.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 79", 
+  "time": 117.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 79", 
+  "time": 118.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "opening the first document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 119.4
+ }, 
+ {
+  "duration": 195.0, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 79", 
+  "time": 120.5
+ }, 
+ {
+  "duration": 55.4, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 79", 
+  "time": 120.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "this is an email from US government", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 140.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "No that not from the US governent. It is from an engineer", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 161.4
+ }, 
+ {
+  "duration": 134.6, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 79", 
+  "time": 176.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "He is talking about the deal he wants to do with the department if energy", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 204.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm trying to see if it's actually related to the department of energy and nothing else. they might talk about energy to hide the talks about illigal weapons and stuff like that", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 216.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "It say's that a forign company was involved with the deal when they were sending the money", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 254.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "[still readung the first document]", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 291.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "FUNSHO KAPOLALUM", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 79", 
+  "time": 312.2
+ }, 
+ {
+  "duration": 2.7, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 79", 
+  "time": 312.3
+ }, 
+ {
+  "duration": 2.0, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 79", 
+  "time": 317.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "[asking how to close the document but keep the highlight part]", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 318.4
+ }, 
+ {
+  "duration": 0.5, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 79", 
+  "time": 320.1
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 79", 
+  "time": 320.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 79", 
+  "time": 321.9
+ }, 
+ {
+  "duration": 7.3, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 79", 
+  "time": 323.5
+ }, 
+ {
+  "duration": 3.1, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 79", 
+  "time": 323.6
+ }, 
+ {
+  "duration": 0, 
+  "Text": " FUNSHO KAPOLALUM", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 79", 
+  "time": 330.8
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 79", 
+  "time": 331.6
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 81", 
+  "time": 334.1
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 81", 
+  "time": 334.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "opening and reading the second document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 335.4
+ }, 
+ {
+  "duration": 98.3, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 81", 
+  "time": 336.2
+ }, 
+ {
+  "duration": 19.6, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 81", 
+  "time": 336.3
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 81", 
+  "time": 336.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm reading another email boyo.. actually that's the same guy because the email addresses are the same", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 352.4
+ }, 
+ {
+  "duration": 2.3, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 81", 
+  "time": 358.2
+ }, 
+ {
+  "duration": 50.7, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 81", 
+  "time": 361.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the same document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 378.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the same document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 399.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 79", 
+  "time": 412.7
+ }, 
+ {
+  "duration": 4.9, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 81", 
+  "time": 413.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the same document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 415.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "gun", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 421.8
+ }, 
+ {
+  "duration": 0, 
+  "Text": " (Looking for Gun dealers in Nigeria and Kenya) (type 2)[bottom-up]", 
+  "InteractionType": "topic_change", 
+  "ID": "bottom-up", 
+  "time": 422.4
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 81", 
+  "time": 433.2
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 97", 
+  "time": 437.7
+ }, 
+ {
+  "duration": 121.3, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 97", 
+  "time": 438.9
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 79", 
+  "time": 440.3
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 81", 
+  "time": 441.8
+ }, 
+ {
+  "duration": 30.4, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 97", 
+  "time": 444.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "i'm reading from a blog It about Africa socaitiy", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 454.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Kenya", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 97", 
+  "time": 475.5
+ }, 
+ {
+  "duration": 22.1, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 97", 
+  "time": 475.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I see several people were arrested in Keniya by the land defense police but I don't know why. oh yeah they have been covered 150 guns!", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 479.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Also recovered were 150 guns", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 97", 
+  "time": 499.5
+ }, 
+ {
+  "duration": 38.4, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 97", 
+  "time": 499.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "So now I want to figure out were thse gus were coming from. Nigeria or . ", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 502.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the documents", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 523.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 547.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "gun", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 554.5
+ }, 
+ {
+  "duration": 1.6, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 97", 
+  "time": 556.4
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 97", 
+  "time": 557.1
+ }, 
+ {
+  "duration": 0, 
+  "Text": " Kenya Also recovered were 150 guns", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 97", 
+  "time": 560.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "moves old document aside", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 560.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 98", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 98", 
+  "time": 562.2
+ }, 
+ {
+  "duration": 42.6, 
+  "Text": "Armsdealing 98", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 98", 
+  "time": 563.5
+ }, 
+ {
+  "duration": 17.3, 
+  "Text": "Armsdealing 98", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 98", 
+  "time": 563.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Picks a new gun document and starts reading", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 566.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "It's a blog wrriting and it's about Kenya too", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 576.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 586.1
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "kenya", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 590.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 98", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 98", 
+  "time": 602.1
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Puts document aside. Picks another one (from kenya search).", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 602.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "gun", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 614.6
+ }, 
+ {
+  "duration": 35.7, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 100", 
+  "time": 616.5
+ }, 
+ {
+  "duration": 3.2, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 100", 
+  "time": 616.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 623.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "trying to search two words at the same time. but no results", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 635.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria gun", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 636.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria + gun", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 640.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 643.6
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 100", 
+  "time": 649.7
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 100", 
+  "time": 650.2
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 84", 
+  "time": 654.1
+ }, 
+ {
+  "duration": 23.3, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 84", 
+  "time": 655.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Since there are many guns documents I'm want to search for Nigeria first and then see if ther is any gun in there", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 657.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "gun", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 659.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 663.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "gun", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 673.4
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 65", 
+  "time": 676.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Picks a document that has both Nigeria and gun", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 677.4
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 65", 
+  "time": 679.6
+ }, 
+ {
+  "duration": 240.3, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 65", 
+  "time": 680.7
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 65", 
+  "time": 680.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 685.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "gun", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 690.2
+ }, 
+ {
+  "duration": 16.7, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 65", 
+  "time": 691.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "so this one is from Newyork timee and it's from Feb 1st 2002 which is similar to start date of desease in Nigeria theother article", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 693.4
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 65", 
+  "time": 713.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "February 1, 2009", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 65", 
+  "time": 715.9
+ }, 
+ {
+  "duration": 94.2, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 65", 
+  "time": 716.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 738.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "It's talking about some international gus smogler in Milan. Says police came to his hotel room and interupted a party and arrested him", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 750.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Now I'm trying to find a connection between Nigeria smogler and the disease", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 780.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 813.8
+ }, 
+ {
+  "duration": 32.6, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 65", 
+  "time": 815.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 832.4
+ }, 
+ {
+  "duration": 5.3, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 97", 
+  "time": 851.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Going back to an old document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 852.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Going back to another old document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 859.4
+ }, 
+ {
+  "duration": 1.7, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 79", 
+  "time": 860.3
+ }, 
+ {
+  "duration": 68.8, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 79", 
+  "time": 862.1
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "returning to reading the current doccument", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 874.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "still reading the same document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 899.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "It's saying that police found several evidences of arms deals. So I think this guy was doing some arms deals between Nigeria and Kenya", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 906.4
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 65", 
+  "time": 918.5
+ }, 
+ {
+  "duration": 0, 
+  "Text": " February 1, 2009", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 65", 
+  "time": 921.0
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 65", 
+  "time": 922.1
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 65", 
+  "time": 926.4
+ }, 
+ {
+  "duration": 5.1, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 79", 
+  "time": 939.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Also connecting to another document. maybe here cause I'm not sure but lets just connect it", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 940.4
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 97", 
+  "time": 945.6
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 65", 
+  "time": 947.5
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 97", 
+  "time": 948.5
+ }, 
+ {
+  "duration": 1.7, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 97", 
+  "time": 950.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "gun", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 960.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Picks a document that has both Nigeria and gun", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 963.4
+ }, 
+ {
+  "duration": 3.8, 
+  "Text": "Armsdealing 91", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 91", 
+  "time": 964.8
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 72", 
+  "time": 969.1
+ }, 
+ {
+  "duration": 1.6, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 72", 
+  "time": 969.9
+ }, 
+ {
+  "duration": 13.2, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 72", 
+  "time": 972.2
+ }, 
+ {
+  "duration": 11.1, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 72", 
+  "time": 972.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "That's the same article. oh. No. times are different. lets see", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 979.4
+ }, 
+ {
+  "duration": 43.8, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 72", 
+  "time": 987.3
+ }, 
+ {
+  "duration": 11.3, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 72", 
+  "time": 987.4
+ }, 
+ {
+  "duration": 32.4, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 65", 
+  "time": 1000.5
+ }, 
+ {
+  "duration": 8.1, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 72", 
+  "time": 1003.4
+ }, 
+ {
+  "duration": 8.7, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 72", 
+  "time": 1011.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1024.1
+ }, 
+ {
+  "duration": 3.2, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 72", 
+  "time": 1025.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Looks most of information are the same", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1032.4
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 72", 
+  "time": 1033.7
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 65", 
+  "time": 1036.4
+ }, 
+ {
+  "duration": 2.4, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 72", 
+  "time": 1037.9
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 72", 
+  "time": 1040.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm still trying to figure out connecting between disease gun deal and Nigreia", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1042.4
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 65", 
+  "time": 1043.6
+ }, 
+ {
+  "duration": 8.0, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 65", 
+  "time": 1044.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "gun", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1072.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1078.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "gun", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1083.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1090.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I can't find any article having both Nigeria and gun", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1092.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "disease", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1099.1
+ }, 
+ {
+  "duration": 0, 
+  "Text": " (Looking for evidence of sickness) (type 3)[bottom-up]", 
+  "InteractionType": "topic_change", 
+  "ID": "bottom-up", 
+  "time": 1099.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "spread", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1108.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "epidimic", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1118.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "We don't know the name of the disease", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1125.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "sickness", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1129.5
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 95", 
+  "time": 1133.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1133.7
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 95", 
+  "time": 1135.3
+ }, 
+ {
+  "duration": 92.8, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1137.6
+ }, 
+ {
+  "duration": 22.5, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1137.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "starts reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1142.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "it's from a guy in Mosco to the same engineer I read about in the beggining or maybe not. the Email address is the same buit nams are different", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1153.4
+ }, 
+ {
+  "duration": 12.0, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 79", 
+  "time": 1160.9
+ }, 
+ {
+  "duration": 0.5, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 79", 
+  "time": 1173.0
+ }, 
+ {
+  "duration": 0, 
+  "Text": " FUNSHO KAPOLALUM", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 79", 
+  "time": 1173.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "checking the names in the old documents.", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1175.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "In the old one the name is capalo but here is George", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1182.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1205.4
+ }, 
+ {
+  "duration": 2.2, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1225.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "yeah. this one is suspicious. the russion guy is addressing pancho with the different name george and they are talking about a deal I'm thinking maybe it's related to the gun deal and the guy is hiding something", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1229.4
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 95", 
+  "time": 1232.5
+ }, 
+ {
+  "duration": 14.1, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1233.5
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1246.2
+ }, 
+ {
+  "duration": 2.3, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 95", 
+  "time": 1250.3
+ }, 
+ {
+  "duration": 3.6, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1253.2
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 95", 
+  "time": 1259.0
+ }, 
+ {
+  "duration": 212.8, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1261.9
+ }, 
+ {
+  "duration": 6.9, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1262.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Dr. George", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1270.9
+ }, 
+ {
+  "duration": 2.3, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 84", 
+  "time": 1271.8
+ }, 
+ {
+  "duration": 199.4, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1274.2
+ }, 
+ {
+  "duration": 14.9, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1274.3
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1287.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Yeah with the same name he is sending email to somebody gauki name", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1290.4
+ }, 
+ {
+  "duration": 9.6, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1291.6
+ }, 
+ {
+  "duration": 6.3, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1301.3
+ }, 
+ {
+  "duration": 6.2, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1309.0
+ }, 
+ {
+  "duration": 5.7, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1315.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "maybe It's replied to the same email let me check the dates. old one is on Feb 2009 and thenew one is from Dec 2009", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1315.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Note", 
+  "InteractionType": "create_note", 
+  "ID": 0, 
+  "time": 1324.1
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Dr. George and Mikhail emailed", 
+  "InteractionType": "writing_notes", 
+  "ID": 0, 
+  "time": 1331.4
+ }, 
+ {
+  "duration": 9.7, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 79", 
+  "time": 1358.6
+ }, 
+ {
+  "duration": 83.9, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1371.0
+ }, 
+ {
+  "duration": 2.6, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1371.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Sees that the guy has paid him", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1406.4
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1457.5
+ }, 
+ {
+  "duration": 1.9, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1458.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Makes a link between new document and an old one", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1462.4
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1475.7
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 85", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 85", 
+  "time": 1480.6
+ }, 
+ {
+  "duration": 231.1, 
+  "Text": "Armsdealing 85", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 85", 
+  "time": 1481.9
+ }, 
+ {
+  "duration": 29.2, 
+  "Text": "Armsdealing 85", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 85", 
+  "time": 1482.0
+ }, 
+ {
+  "duration": 2.4, 
+  "Text": "Armsdealing 85", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 85", 
+  "time": 1485.6
+ }, 
+ {
+  "duration": 1.6, 
+  "Text": "Armsdealing 98", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 98", 
+  "time": 1513.4
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 97", 
+  "time": 1515.2
+ }, 
+ {
+  "duration": 3.2, 
+  "Text": "Armsdealing 97", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 97", 
+  "time": 1516.0
+ }, 
+ {
+  "duration": 1.7, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 100", 
+  "time": 1520.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "reviewing at some old documents", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1521.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 100", 
+  "time": 1524.0
+ }, 
+ {
+  "duration": 3035.4, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 100", 
+  "time": 1524.7
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 100", 
+  "time": 1524.8
+ }, 
+ {
+  "duration": 1.9, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 65", 
+  "time": 1526.4
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 65", 
+  "time": 1528.4
+ }, 
+ {
+  "duration": 2.4, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 65", 
+  "time": 1529.9
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 84", 
+  "time": 1532.8
+ }, 
+ {
+  "duration": 12.0, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1533.7
+ }, 
+ {
+  "duration": 10.6, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1533.8
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 72", 
+  "time": 1546.0
+ }, 
+ {
+  "duration": 26.8, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 72", 
+  "time": 1547.5
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 72", 
+  "time": 1547.6
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 79", 
+  "time": 1549.6
+ }, 
+ {
+  "duration": 0.5, 
+  "Text": "Armsdealing 79", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 79", 
+  "time": 1550.3
+ }, 
+ {
+  "duration": 0, 
+  "Text": " FUNSHO KAPOLALUM", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 79", 
+  "time": 1550.3
+ }, 
+ {
+  "duration": 2.0, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 81", 
+  "time": 1551.1
+ }, 
+ {
+  "duration": 1.9, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1554.0
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 65", 
+  "time": 1556.3
+ }, 
+ {
+  "duration": 0.5, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 65", 
+  "time": 1557.0
+ }, 
+ {
+  "duration": 0, 
+  "Text": " February 1, 2009", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 65", 
+  "time": 1557.1
+ }, 
+ {
+  "duration": 3.9, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 72", 
+  "time": 1557.7
+ }, 
+ {
+  "duration": 8.7, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 72", 
+  "time": 1562.6
+ }, 
+ {
+  "duration": 2.8, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 72", 
+  "time": 1563.1
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "10 March 2009", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 72", 
+  "time": 1572.7
+ }, 
+ {
+  "duration": 0, 
+  "Text": " 10 March 2009", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 72", 
+  "time": 1574.3
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 84", 
+  "time": 1574.8
+ }, 
+ {
+  "duration": 17.3, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1576.0
+ }, 
+ {
+  "duration": 11.7, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 84", 
+  "time": 1576.1
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm trying to highlight the dates so I know how and when each of these happened", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1582.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "2 DECEMBER 2009", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 72", 
+  "time": 1588.7
+ }, 
+ {
+  "duration": 0, 
+  "Text": "", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 84", 
+  "time": 1593.3
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 95", 
+  "time": 1594.5
+ }, 
+ {
+  "duration": 8.7, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1596.1
+ }, 
+ {
+  "duration": 5.6, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 95", 
+  "time": 1596.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "11 February 2009", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 84", 
+  "time": 1603.1
+ }, 
+ {
+  "duration": 0, 
+  "Text": "", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 95", 
+  "time": 1604.8
+ }, 
+ {
+  "duration": 60.0, 
+  "Text": "Armsdealing 85", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 85", 
+  "time": 1610.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Back to reading last found document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1617.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "So I'm seeing some gun dealings here", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1622.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "It seems the guns are AKB and I don't know what AKB47 is", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1647.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1671.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": " 7 DECEMBER 2008", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 85", 
+  "time": 1671.7
+ }, 
+ {
+  "duration": 39.2, 
+  "Text": "Armsdealing 85", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 85", 
+  "time": 1671.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1696.4
+ }, 
+ {
+  "duration": 0, 
+  "Text": "  7 DECEMBER 2008", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 85", 
+  "time": 1713.0
+ }, 
+ {
+  "duration": 1.9, 
+  "Text": "Armsdealing 85", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 85", 
+  "time": 1713.6
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 24", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 24", 
+  "time": 1717.9
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 24", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 24", 
+  "time": 1718.6
+ }, 
+ {
+  "duration": 164.7, 
+  "Text": "Armsdealing 24", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 24", 
+  "time": 1720.3
+ }, 
+ {
+  "duration": 60.3, 
+  "Text": "Armsdealing 24", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 24", 
+  "time": 1720.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "This is a phone call between Dr. george and same russian guy from dubai", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1734.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "oh It's not from Dubai they want to meet there", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1752.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "2 JANUARY 2009", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 85", 
+  "time": 1781.9
+ }, 
+ {
+  "duration": 53.5, 
+  "Text": "Armsdealing 24", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 24", 
+  "time": 1782.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1808.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm still reading emails and phone calls between Dr. George and Mikhail and trying to make connection between dates to maybe order them the oldes converestatioon I found is Dec 2008 but the disease started was Feb 2009 and they decided to meet in dubai which is not one of those countries", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1836.4
+ }, 
+ {
+  "duration": 2.0, 
+  "Text": "Armsdealing 85", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 85", 
+  "time": 1854.7
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 24", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 24", 
+  "time": 1883.0
+ }, 
+ {
+  "duration": 0, 
+  "Text": "", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 24", 
+  "time": 1885.0
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 24", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 24", 
+  "time": 1886.0
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 77", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 77", 
+  "time": 1895.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "closeing the last document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1896.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "weapon", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1902.1
+ }, 
+ {
+  "duration": 0, 
+  "Text": " (Looking for arms  in 2009) (type 2)[bottom-up]", 
+  "InteractionType": "topic_change", 
+  "ID": "bottom-up", 
+  "time": 1905.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1907.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "russia", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 1912.8
+ }, 
+ {
+  "duration": 33.0, 
+  "Text": "Armsdealing 80", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 80", 
+  "time": 1917.6
+ }, 
+ {
+  "duration": 6.2, 
+  "Text": "Armsdealing 80", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 80", 
+  "time": 1917.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "20 September, 2008.", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 24", 
+  "time": 1925.2
+ }, 
+ {
+  "duration": 0, 
+  "Text": "", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 80", 
+  "time": 1950.6
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 80", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 80", 
+  "time": 1951.2
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 77", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 77", 
+  "time": 1953.5
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 77", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 77", 
+  "time": 1954.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Nothing important here I think they started a converestation and all of them in Sept. 2009", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1960.4
+ }, 
+ {
+  "duration": 3.4, 
+  "Text": "Armsdealing 77", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 77", 
+  "time": 1961.0
+ }, 
+ {
+  "duration": 34.5, 
+  "Text": "Armsdealing 77", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 77", 
+  "time": 1964.5
+ }, 
+ {
+  "duration": 5.2, 
+  "Text": "Armsdealing 77", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 77", 
+  "time": 1964.6
+ }, 
+ {
+  "duration": 2.1, 
+  "Text": "Armsdealing 102", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 102", 
+  "time": 1969.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Starts reading a new doccument about Russia", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 1990.4
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 77", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 77", 
+  "time": 1999.7
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 28", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 28", 
+  "time": 2002.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I don't think this is anything important", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2003.4
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 29", 
+  "time": 2003.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "sickness", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2031.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "firearms", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2040.3
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 96", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 96", 
+  "time": 2044.7
+ }, 
+ {
+  "duration": 20.8, 
+  "Text": "Armsdealing 96", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 96", 
+  "time": 2047.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "It's from Saudi Arabia. It's too old though June 2008", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2067.4
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 96", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 96", 
+  "time": 2068.8
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 76", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 76", 
+  "time": 2070.7
+ }, 
+ {
+  "duration": 4.1, 
+  "Text": "Armsdealing 76", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 76", 
+  "time": 2074.4
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 76", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 76", 
+  "time": 2078.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 63", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 63", 
+  "time": 2081.2
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 75", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 75", 
+  "time": 2083.8
+ }, 
+ {
+  "duration": 2.6, 
+  "Text": "Armsdealing 75", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 75", 
+  "time": 2089.8
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 75", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 75", 
+  "time": 2092.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "weapon", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2097.6
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 71", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 71", 
+  "time": 2108.0
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 71", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 71", 
+  "time": 2109.0
+ }, 
+ {
+  "duration": 15.6, 
+  "Text": "Armsdealing 71", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 71", 
+  "time": 2110.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Pick a weapon document with 2009 date and It's about north korea", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2114.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "illegal", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2132.1
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 68", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 68", 
+  "time": 2138.4
+ }, 
+ {
+  "duration": 58.9, 
+  "Text": "Armsdealing 68", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 68", 
+  "time": 2140.2
+ }, 
+ {
+  "duration": 15.6, 
+  "Text": "Armsdealing 68", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 68", 
+  "time": 2140.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "This article is from Jan 2009 and its about illigal smogeling of arms in Kenya", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2157.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading same document. It wasn't any helpfull", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2199.4
+ }, 
+ {
+  "duration": 1.7, 
+  "Text": "Armsdealing 68", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 68", 
+  "time": 2200.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Main problem is that I cann't find anything relate to disease and sickness which is our main goal", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2205.4
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 76", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 76", 
+  "time": 2213.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "iran", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2217.7
+ }, 
+ {
+  "duration": 0, 
+  "Text": " (Looking new information every where) (type 3) [bottom-up]", 
+  "InteractionType": "topic_change", 
+  "ID": "bottom-up", 
+  "time": 2222.4
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 64", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 64", 
+  "time": 2226.8
+ }, 
+ {
+  "duration": 18.4, 
+  "Text": "Armsdealing 64", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 64", 
+  "time": 2229.8
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 61", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 61", 
+  "time": 2249.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "syria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2260.5
+ }, 
+ {
+  "duration": 9.8, 
+  "Text": "Armsdealing 71", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 71", 
+  "time": 2263.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "lagos", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2280.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nigeria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2284.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "There is nothing left from Nigeria that I haven't read already", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2292.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "boyo", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2297.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "mikhail", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2304.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "dombrovski\\", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2318.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "dombrovski", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2325.7
+ }, 
+ {
+  "duration": 1.9, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 65", 
+  "time": 2339.4
+ }, 
+ {
+  "duration": 8.8, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 65", 
+  "time": 2341.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Reviewing some oold documents", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2349.4
+ }, 
+ {
+  "duration": 78.4, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 65", 
+  "time": 2351.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "misky", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2360.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "minskt", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2365.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "minsky", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2366.9
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 69", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 69", 
+  "time": 2370.9
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 69", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 69", 
+  "time": 2373.2
+ }, 
+ {
+  "duration": 54.4, 
+  "Text": "Armsdealing 69", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 69", 
+  "time": 2374.1
+ }, 
+ {
+  "duration": 32.1, 
+  "Text": "Armsdealing 69", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 69", 
+  "time": 2374.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "minsky", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2408.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "lenoid", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2413.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "leonid", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2421.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 69", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 69", 
+  "time": 2426.7
+ }, 
+ {
+  "duration": 0.5, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 65", 
+  "time": 2431.5
+ }, 
+ {
+  "duration": 0, 
+  "Text": " February 1, 2009", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 65", 
+  "time": 2431.5
+ }, 
+ {
+  "duration": 2.2, 
+  "Text": "Armsdealing 69", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 69", 
+  "time": 2433.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Makes a connection between two old documents", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2438.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 88", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 88", 
+  "time": 2449.0
+ }, 
+ {
+  "duration": 4.3, 
+  "Text": "Armsdealing 64", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 64", 
+  "time": 2449.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm out of my ideas right now. So I want to scan all these dialog topic and see if I find anything interesting", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2453.4
+ }, 
+ {
+  "duration": 0, 
+  "Text": " (Looking at the time when disease appeared first) (type 3) [bottom-up]", 
+  "InteractionType": "topic_change", 
+  "ID": "bottom-up", 
+  "time": 2471.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "may 2009", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2477.0
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 55", 
+  "time": 2481.5
+ }, 
+ {
+  "duration": 2.4, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 55", 
+  "time": 2482.6
+ }, 
+ {
+  "duration": 99.2, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 55", 
+  "time": 2485.1
+ }, 
+ {
+  "duration": 87.6, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 55", 
+  "time": 2485.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "It's about something that happend in Pakistan", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2503.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2534.4
+ }, 
+ {
+  "duration": 8.8, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 55", 
+  "time": 2573.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "/Dubai/Burj-Al-Arab", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 55", 
+  "time": 2583.0
+ }, 
+ {
+  "duration": 0, 
+  "Text": " /Dubai/Burj-Al-Arab", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 55", 
+  "time": 2584.3
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 88", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 88", 
+  "time": 2585.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Highlights Dubai", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2586.4
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 56", 
+  "time": 2587.8
+ }, 
+ {
+  "duration": 23.9, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 56", 
+  "time": 2589.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm reading from events in 2009 to see how the disease spreaed and I'm also seaing some meetings happend in Dubai and It might be related", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2607.4
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 56", 
+  "time": 2613.8
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 70", 
+  "time": 2615.7
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 70", 
+  "time": 2616.4
+ }, 
+ {
+  "duration": 29.0, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 70", 
+  "time": 2617.9
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 70", 
+  "time": 2618.6
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 70", 
+  "time": 2647.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "dubai", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2651.9
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 52", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 52", 
+  "time": 2659.5
+ }, 
+ {
+  "duration": 54.7, 
+  "Text": "Armsdealing 52", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 52", 
+  "time": 2661.3
+ }, 
+ {
+  "duration": 10.5, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 55", 
+  "time": 2664.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Going back one document to check some guys name", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2670.4
+ }, 
+ {
+  "duration": 0.5, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 55", 
+  "time": 2676.1
+ }, 
+ {
+  "duration": 0, 
+  "Text": " /Dubai/Burj-Al-Arab", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 55", 
+  "time": 2676.1
+ }, 
+ {
+  "duration": 37.1, 
+  "Text": "Armsdealing 52", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 52", 
+  "time": 2676.3
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 52", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 52", 
+  "time": 2686.4
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 52", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 52", 
+  "time": 2688.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "comes back to read new document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2688.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2714.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Dubai", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 52", 
+  "time": 2714.7
+ }, 
+ {
+  "duration": 0, 
+  "Text": " Dubai", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 52", 
+  "time": 2716.0
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 25", 
+  "time": 2718.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 25", 
+  "time": 2718.7
+ }, 
+ {
+  "duration": 248.7, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 25", 
+  "time": 2723.3
+ }, 
+ {
+  "duration": 62.4, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 25", 
+  "time": 2723.4
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 25", 
+  "time": 2724.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "It's suspicious that they talk about text books here why do they need this?", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2760.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2781.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Dubai.", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 52", 
+  "time": 2788.7
+ }, 
+ {
+  "duration": 4.8, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 25", 
+  "time": 2788.8
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 25", 
+  "time": 2790.7
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 25", 
+  "time": 2792.7
+ }, 
+ {
+  "duration": 20.1, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 25", 
+  "time": 2796.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "All Dubai stuff are related to Basra which is bodygaurd of bokhari and nothing is clear they talk about text book. Let me search for text book", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2798.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "textbook", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 2819.3
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 10", 
+  "time": 2820.7
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 10", 
+  "time": 2821.4
+ }, 
+ {
+  "duration": 0, 
+  "Text": " (Looking for textbooks) (type 1)[bottom-up]", 
+  "InteractionType": "topic_change", 
+  "ID": "bottom-up", 
+  "time": 2822.4
+ }, 
+ {
+  "duration": 148.7, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 10", 
+  "time": 2824.3
+ }, 
+ {
+  "duration": 4.5, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 10", 
+  "time": 2824.4
+ }, 
+ {
+  "duration": 39.0, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 25", 
+  "time": 2828.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Comparing new document with the last one and phone numbers are the same although we don't know the name are the same and they still talking about textbooks", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2848.4
+ }, 
+ {
+  "duration": 81.0, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 10", 
+  "time": 2868.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Reading the new document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2887.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "They are talking about a proffesor in Moscow and thta might be the same guy that I was reading the converstation with Pakistani people", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2905.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "It says that guy mosco has sales man who can many top quality text books I think the textbook is cover for guns!", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2922.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 17", 
+  "time": 2950.9
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 17", 
+  "time": 2951.6
+ }, 
+ {
+  "duration": 10.4, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 10", 
+  "time": 2954.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "textbook", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 10", 
+  "time": 2966.2
+ }, 
+ {
+  "duration": 2.6, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 25", 
+  "time": 2966.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "textbook", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 25", 
+  "time": 2970.5
+ }, 
+ {
+  "duration": 0, 
+  "Text": " textbook", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 25", 
+  "time": 2972.0
+ }, 
+ {
+  "duration": 0, 
+  "Text": " textbook", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 10", 
+  "time": 2973.0
+ }, 
+ {
+  "duration": 2.0, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 55", 
+  "time": 2976.6
+ }, 
+ {
+  "duration": 2.5, 
+  "Text": "Armsdealing 52", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 52", 
+  "time": 2980.5
+ }, 
+ {
+  "duration": 1.6, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 25", 
+  "time": 2983.9
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 52", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 52", 
+  "time": 2986.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Makes connection between two textbook documents and puts aside", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2987.4
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 10", 
+  "time": 2992.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Makes another connection between two textbook documents", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 2994.4
+ }, 
+ {
+  "duration": 8.0, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 10", 
+  "time": 2996.4
+ }, 
+ {
+  "duration": 0, 
+  "Text": " textbook", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 10", 
+  "time": 3004.4
+ }, 
+ {
+  "duration": 3.1, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 10", 
+  "time": 3005.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Puts this document a side", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3013.4
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 17", 
+  "time": 3014.0
+ }, 
+ {
+  "duration": 49.5, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 17", 
+  "time": 3015.0
+ }, 
+ {
+  "duration": 11.4, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 17", 
+  "time": 3015.1
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Makes new connection between last document and the other textbook documents", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3016.4
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 17", 
+  "time": 3066.5
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 17", 
+  "time": 3069.0
+ }, 
+ {
+  "duration": 8.3, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 17", 
+  "time": 3072.1
+ }, 
+ {
+  "duration": 1.8, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 17", 
+  "time": 3074.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Makes a link between new document and old Textbook ones and puts it aside", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3074.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "textbooks", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 17", 
+  "time": 3077.4
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 17", 
+  "time": 3081.2
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 75", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 75", 
+  "time": 3094.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "textbook", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 3100.0
+ }, 
+ {
+  "duration": 7.1, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 55", 
+  "time": 3107.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "basra", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 3118.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 49", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 49", 
+  "time": 3123.4
+ }, 
+ {
+  "duration": 43.8, 
+  "Text": "Armsdealing 49", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 49", 
+  "time": 3125.1
+ }, 
+ {
+  "duration": 15.6, 
+  "Text": "Armsdealing 49", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 49", 
+  "time": 3125.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I searched it because he was the guy called all these people and talking about textbooks and also he was bodygaurd of bokhari. I might search for bokhari too. he is leader of someplace in lashkarjangiri in Pakistan", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3140.4
+ }, 
+ {
+  "duration": 1.7, 
+  "Text": "Armsdealing 49", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 49", 
+  "time": 3146.7
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 55", 
+  "time": 3151.4
+ }, 
+ {
+  "duration": 11.4, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 55", 
+  "time": 3152.2
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 43", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 43", 
+  "time": 3170.5
+ }, 
+ {
+  "duration": 3.0, 
+  "Text": "Armsdealing 43", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 43", 
+  "time": 3171.8
+ }, 
+ {
+  "duration": 19.4, 
+  "Text": "Armsdealing 43", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 43", 
+  "time": 3175.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 36", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 36", 
+  "time": 3195.8
+ }, 
+ {
+  "duration": 21.7, 
+  "Text": "Armsdealing 36", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 36", 
+  "time": 3197.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "bukhari", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 3225.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 12", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 12", 
+  "time": 3229.0
+ }, 
+ {
+  "duration": 29.7, 
+  "Text": "Armsdealing 12", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 12", 
+  "time": 3230.6
+ }, 
+ {
+  "duration": 23.0, 
+  "Text": "Armsdealing 12", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 12", 
+  "time": 3230.7
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 12", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 12", 
+  "time": 3231.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Transaction Identification Number:\nFrom: EBILAEAD 51 0568 8001 1575 1710 0\nTo:\tSA80 8000 0375 6080 2632 0160\nDate: 11-11-08 15:56:19\nAmount:\tSAR1325548.3458", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 49", 
+  "time": 3255.6
+ }, 
+ {
+  "duration": 0, 
+  "Text": "", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 12", 
+  "time": 3260.3
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 2", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 2", 
+  "time": 3263.0
+ }, 
+ {
+  "duration": 52.8, 
+  "Text": "Armsdealing 2", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 2", 
+  "time": 3264.6
+ }, 
+ {
+  "duration": 41.3, 
+  "Text": "Armsdealing 2", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 2", 
+  "time": 3264.7
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 2", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 2", 
+  "time": 3267.9
+ }, 
+ {
+  "duration": 7.5, 
+  "Text": "Armsdealing 2", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 2", 
+  "time": 3306.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still nothing helpfull bacause I can not find anything related to disease here", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3314.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Transaction Identification Number:\nFrom: EBILAEAD 51 0568 8001 1575 1710 0\nTo:\tABNAPKKACKH 4230-1840-001194396527\nDate: 02-11-08 11:29:16\nAmount:\tPAK1571649.15", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 2", 
+  "time": 3314.8
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 2", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 2", 
+  "time": 3316.0
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 2", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 2", 
+  "time": 3318.5
+ }, 
+ {
+  "duration": 0, 
+  "Text": " Transaction Identification Number:\nFrom: EBILAEAD 51 0568 8001 1575 1710 0\nTo:\tABNAPKKACKH 4230-1840-001194396527\nDate: 02-11-08 11:29:16\nAmount:\tPAK1571649.15", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 2", 
+  "time": 3320.0
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 2", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 2", 
+  "time": 3320.8
+ }, 
+ {
+  "duration": 1.8, 
+  "Text": "Armsdealing 75", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 75", 
+  "time": 3327.1
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 83", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 83", 
+  "time": 3329.0
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 56", 
+  "time": 3330.5
+ }, 
+ {
+  "duration": 3.0, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 70", 
+  "time": 3331.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "death", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 3344.7
+ }, 
+ {
+  "duration": 0, 
+  "Text": " (What happened at the meeting in Dubai and who went there?) (type 3)[bottom-up]", 
+  "InteractionType": "topic_change", 
+  "ID": "bottom-up", 
+  "time": 3347.4
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 75", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 75", 
+  "time": 3349.6
+ }, 
+ {
+  "duration": 12.4, 
+  "Text": "Armsdealing 75", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 75", 
+  "time": 3351.1
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 56", 
+  "time": 3364.2
+ }, 
+ {
+  "duration": 12.2, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 56", 
+  "time": 3365.3
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 56", 
+  "time": 3374.0
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 76", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 76", 
+  "time": 3378.8
+ }, 
+ {
+  "duration": 11.8, 
+  "Text": "Armsdealing 76", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 76", 
+  "time": 3379.8
+ }, 
+ {
+  "duration": 2.2, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 70", 
+  "time": 3392.7
+ }, 
+ {
+  "duration": 3.4, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 70", 
+  "time": 3395.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "hospital", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 3404.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "burj", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 3413.8
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 29", 
+  "time": 3416.3
+ }, 
+ {
+  "duration": 206.0, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 29", 
+  "time": 3419.9
+ }, 
+ {
+  "duration": 41.2, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 29", 
+  "time": 3420.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "This one is from Mosco to Yemen", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3442.4
+ }, 
+ {
+  "duration": 1127.1, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 25", 
+  "time": 3465.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "April 18 and 19 are when all these guys are going to borj", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3476.4
+ }, 
+ {
+  "duration": 14.6, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 29", 
+  "time": 3482.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "continue reading the last document again", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3485.4
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 8", 
+  "time": 3497.4
+ }, 
+ {
+  "duration": 2.8, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3499.0
+ }, 
+ {
+  "duration": 203.0, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3503.4
+ }, 
+ {
+  "duration": 10.8, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3503.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "What I'm seeing is that a lot of these guys are sick with a disease when they have meeting in borj. Lets see when they exactly went to hospital", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3509.4
+ }, 
+ {
+  "duration": 5.4, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3515.0
+ }, 
+ {
+  "duration": 4.5, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3515.5
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 56", 
+  "time": 3520.8
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 71", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 71", 
+  "time": 3522.0
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 56", 
+  "time": 3523.0
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 75", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 75", 
+  "time": 3524.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Like some of them might got the disease from the other people", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3525.4
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 76", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 76", 
+  "time": 3526.0
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 70", 
+  "time": 3527.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 75", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 75", 
+  "time": 3530.8
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 56", 
+  "time": 3531.8
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 56", 
+  "time": 3533.0
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 56", 
+  "time": 3534.4
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 76", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 76", 
+  "time": 3535.9
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 76", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 76", 
+  "time": 3537.1
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 70", 
+  "time": 3540.6
+ }, 
+ {
+  "duration": 9.6, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 70", 
+  "time": 3541.9
+ }, 
+ {
+  "duration": 4.9, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 29", 
+  "time": 3551.9
+ }, 
+ {
+  "duration": 4.2, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3556.8
+ }, 
+ {
+  "duration": 1.7, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3557.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Yeah. I think something happend in borj is related to disease cause some people from that place went to hospital after the meeting", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3560.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 70", 
+  "time": 3561.3
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 56", 
+  "time": 3561.9
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 56", 
+  "time": 3563.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "All these people who had meeting in borj al arab in April 2009 and then couple of reports from May 2009 shows that some of them went to hospital. So now I think the perosn from Nigeria who was sick have met them and kind of transfered that sickness to all those people in the meeting", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3582.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm trying to read about people in borj al arab to see if I could find anything interesting", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3613.4
+ }, 
+ {
+  "duration": 8.3, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 29", 
+  "time": 3614.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 29", 
+  "time": 3617.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Burj ", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 29", 
+  "time": 3624.9
+ }, 
+ {
+  "duration": 0, 
+  "Text": " Burj ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 29", 
+  "time": 3625.9
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 29", 
+  "time": 3626.7
+ }, 
+ {
+  "duration": 71.9, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3628.0
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3628.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3669.4
+ }, 
+ {
+  "duration": 2.5, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3688.1
+ }, 
+ {
+  "duration": 1.9, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3691.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "This Kasem guy from Gaza. It's first time I'm seeing his name and he is also going to go to borj", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3697.4
+ }, 
+ {
+  "duration": 2.2, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3700.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Burj", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 8", 
+  "time": 3703.8
+ }, 
+ {
+  "duration": 0, 
+  "Text": " Burj", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 8", 
+  "time": 3706.4
+ }, 
+ {
+  "duration": 1.9, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 8", 
+  "time": 3707.4
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 12", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 12", 
+  "time": 3710.1
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "kasem", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 3715.8
+ }, 
+ {
+  "duration": 1.6, 
+  "Text": "Armsdealing 28", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 28", 
+  "time": 3722.6
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 28", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 28", 
+  "time": 3724.3
+ }, 
+ {
+  "duration": 210.5, 
+  "Text": "Armsdealing 28", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 28", 
+  "time": 3725.6
+ }, 
+ {
+  "duration": 3.7, 
+  "Text": "Armsdealing 28", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 28", 
+  "time": 3725.7
+ }, 
+ {
+  "duration": 45.1, 
+  "Text": "Armsdealing 28", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 28", 
+  "time": 3729.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3762.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 4", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 4", 
+  "time": 3775.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 4", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 4", 
+  "time": 3776.0
+ }, 
+ {
+  "duration": 154.6, 
+  "Text": "Armsdealing 4", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 4", 
+  "time": 3777.5
+ }, 
+ {
+  "duration": 61.6, 
+  "Text": "Armsdealing 4", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 4", 
+  "time": 3777.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I seems it also about guns and also related to Russia and they are talking about Dubai and thats where they are going to pay the money", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3811.4
+ }, 
+ {
+  "duration": 5.8, 
+  "Text": "Armsdealing 41", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 41", 
+  "time": 3841.2
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 41", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 41", 
+  "time": 3847.1
+ }, 
+ {
+  "duration": 76.5, 
+  "Text": "Armsdealing 41", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 41", 
+  "time": 3851.6
+ }, 
+ {
+  "duration": 26.9, 
+  "Text": "Armsdealing 41", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 41", 
+  "time": 3851.7
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 45", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 45", 
+  "time": 3880.0
+ }, 
+ {
+  "duration": 40.6, 
+  "Text": "Armsdealing 45", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 45", 
+  "time": 3881.9
+ }, 
+ {
+  "duration": 38.5, 
+  "Text": "Armsdealing 45", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 45", 
+  "time": 3882.0
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 4", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 4", 
+  "time": 3920.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3921.4
+ }, 
+ {
+  "duration": 3.4, 
+  "Text": "Armsdealing 45", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 45", 
+  "time": 3923.2
+ }, 
+ {
+  "duration": 2.1, 
+  "Text": "Armsdealing 28", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 28", 
+  "time": 3926.9
+ }, 
+ {
+  "duration": 1.7, 
+  "Text": "Armsdealing 41", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 41", 
+  "time": 3928.6
+ }, 
+ {
+  "duration": 1.9, 
+  "Text": "Armsdealing 28", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 28", 
+  "time": 3930.8
+ }, 
+ {
+  "duration": 2.2, 
+  "Text": "Armsdealing 4", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 4", 
+  "time": 3932.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "In the all artiles about Kasem and I've seen the name of Khouri a lot", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3936.4
+ }, 
+ {
+  "duration": 2.2, 
+  "Text": "Armsdealing 28", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 28", 
+  "time": 3936.6
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 57", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 57", 
+  "time": 3939.6
+ }, 
+ {
+  "duration": 26.8, 
+  "Text": "Armsdealing 57", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 57", 
+  "time": 3940.3
+ }, 
+ {
+  "duration": 25.1, 
+  "Text": "Armsdealing 57", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 57", 
+  "time": 3940.4
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 57", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 57", 
+  "time": 3967.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "khouri", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 3973.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Nothing else from Khouri other than these ones in Kasem search", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 3983.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 78", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 78", 
+  "time": 3988.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "dubai", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 3994.7
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 26", 
+  "time": 3998.8
+ }, 
+ {
+  "duration": 2.0, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 26", 
+  "time": 4000.4
+ }, 
+ {
+  "duration": 51.8, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 26", 
+  "time": 4002.5
+ }, 
+ {
+  "duration": 39.0, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 26", 
+  "time": 4002.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "They are talking about an arm exibition that is schadualeed in Dubai in April 17th that every one has meeting in borj. I think it's important", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4030.4
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 26", 
+  "time": 4037.3
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 26", 
+  "time": 4041.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Dubai ", 
+  "InteractionType": "highlight", 
+  "ID": "Armsdealing 26", 
+  "time": 4044.5
+ }, 
+ {
+  "duration": 0, 
+  "Text": " Dubai ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 26", 
+  "time": 4054.3
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4057.0
+ }, 
+ {
+  "duration": 261.3, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4059.6
+ }, 
+ {
+  "duration": 20.0, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 26", 
+  "time": 4063.3
+ }, 
+ {
+  "duration": 0.5, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 26", 
+  "time": 4085.5
+ }, 
+ {
+  "duration": 0, 
+  "Text": " Dubai ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 26", 
+  "time": 4085.6
+ }, 
+ {
+  "duration": 42.9, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4086.7
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4092.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4123.4
+ }, 
+ {
+  "duration": 4.5, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4123.8
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 70", 
+  "time": 4129.8
+ }, 
+ {
+  "duration": 406.2, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 70", 
+  "time": 4131.1
+ }, 
+ {
+  "duration": 6.0, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 70", 
+  "time": 4131.2
+ }, 
+ {
+  "duration": 0, 
+  "Text": " (Looking for disease) (type 2)[bottom-up]", 
+  "InteractionType": "topic_change", 
+  "ID": "bottom-up", 
+  "time": 4133.4
+ }, 
+ {
+  "duration": 5.3, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4137.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Nahid is the woman who died in the hospital in May 2009 and she is also going to the meeting in Dubai in April 17th", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4139.4
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 70", 
+  "time": 4143.4
+ }, 
+ {
+  "duration": 1.8, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4144.7
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 71", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 71", 
+  "time": 4146.8
+ }, 
+ {
+  "duration": 2.4, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4148.6
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 15", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 15", 
+  "time": 4152.4
+ }, 
+ {
+  "duration": 32.3, 
+  "Text": "Armsdealing 15", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 15", 
+  "time": 4155.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Again here is the same phone number", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4177.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "This time instead of textbooks they are talking about farming equipments", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4186.4
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 11", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 11", 
+  "time": 4189.4
+ }, 
+ {
+  "duration": 31.5, 
+  "Text": "Armsdealing 11", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 11", 
+  "time": 4194.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still reading the document", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4214.4
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 11", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 11", 
+  "time": 4226.7
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 15", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 15", 
+  "time": 4228.5
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 38", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 38", 
+  "time": 4230.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Also another phone call from Iran to Dubai in April", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4231.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "nahid", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4244.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 74", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 74", 
+  "time": 4247.6
+ }, 
+ {
+  "duration": 5.3, 
+  "Text": "Armsdealing 74", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 74", 
+  "time": 4248.7
+ }, 
+ {
+  "duration": 51.8, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4254.2
+ }, 
+ {
+  "duration": 29.1, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 100", 
+  "time": 4254.9
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 100", 
+  "time": 4255.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm reading an article about Kenya", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4266.4
+ }, 
+ {
+  "duration": 5.3, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 100", 
+  "time": 4284.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "They were once arrrested for something related to defense", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4290.4
+ }, 
+ {
+  "duration": 3.7, 
+  "Text": "Armsdealing 74", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 74", 
+  "time": 4291.1
+ }, 
+ {
+  "duration": 9.5, 
+  "Text": "Armsdealing 74", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 74", 
+  "time": 4294.9
+ }, 
+ {
+  "duration": 5.5, 
+  "Text": "Armsdealing 74", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 74", 
+  "time": 4295.0
+ }, 
+ {
+  "duration": 1.9, 
+  "Text": "Armsdealing 74", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 74", 
+  "time": 4300.3
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 74", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 74", 
+  "time": 4305.2
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 74", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 74", 
+  "time": 4305.8
+ }, 
+ {
+  "duration": 3.3, 
+  "Text": "Armsdealing 5", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 5", 
+  "time": 4307.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 53", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 53", 
+  "time": 4310.8
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 53", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 53", 
+  "time": 4312.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm trying to see if the Nigeiran guy who was in Dubai meeting If I can prove that he was sick at that time", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4323.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "george", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4338.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "funsho", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4347.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "kapolalum", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4356.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "niger", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4367.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 81", 
+  "time": 4373.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "sickness", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4378.8
+ }, 
+ {
+  "duration": 155.9, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 95", 
+  "time": 4382.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Feb 2009 thats the exactt time the disease started in Nigeria and the russian guy was told to come to the meeting", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4392.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I think that it! the Nigerian guy got the sickness in Feb and then in another email that Russan guy asked him to don't forget to come to the meeting and people from all listed countries where there", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4407.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Note", 
+  "InteractionType": "create_note", 
+  "ID": 0, 
+  "time": 4451.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Dr. George getting sick from Pakistan on Feb 2009 and then he went to Dubai in April where everyone from all those countries were present. That might be the reason they all got sick. We see later in May that a couple of them were in Hospital because of being sick", 
+  "InteractionType": "writing_notes", 
+  "ID": 0, 
+  "time": 4463.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Still typing the note", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4520.4
+ }, 
+ {
+  "duration": 2.8, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 72", 
+  "time": 4543.2
+ }, 
+ {
+  "duration": 4.7, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 72", 
+  "time": 4553.2
+ }, 
+ {
+  "duration": 2.5, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 84", 
+  "time": 4562.1
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 84", 
+  "time": 4570.5
+ }, 
+ {
+  "duration": 4.7, 
+  "Text": "Armsdealing 84", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 84", 
+  "time": 4572.8
+ }, 
+ {
+  "duration": 4.1, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 95", 
+  "time": 4578.6
+ }, 
+ {
+  "duration": 2.4, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 95", 
+  "time": 4583.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Let me find the most important ones", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4585.4
+ }, 
+ {
+  "duration": 3.3, 
+  "Text": "Armsdealing 52", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 52", 
+  "time": 4596.0
+ }, 
+ {
+  "duration": 1.6, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 17", 
+  "time": 4600.6
+ }, 
+ {
+  "duration": 2.1, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 10", 
+  "time": 4604.9
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 55", 
+  "time": 4608.0
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 25", 
+  "time": 4610.5
+ }, 
+ {
+  "duration": 2.4, 
+  "Text": "Armsdealing 52", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 52", 
+  "time": 4612.8
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 26", 
+  "time": 4618.0
+ }, 
+ {
+  "duration": 2.0, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 26", 
+  "time": 4619.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 95", 
+  "time": 4623.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 71", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 71", 
+  "time": 4625.5
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 70", 
+  "time": 4627.1
+ }, 
+ {
+  "duration": 5.1, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 70", 
+  "time": 4628.5
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 30", 
+  "time": 4634.5
+ }, 
+ {
+  "duration": 1.8, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4635.3
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 56", 
+  "time": 4638.2
+ }, 
+ {
+  "duration": 1.6, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 56", 
+  "time": 4639.1
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 56", 
+  "time": 4639.7
+ }, 
+ {
+  "duration": 1.6, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 56", 
+  "time": 4641.7
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 56", 
+  "time": 4643.5
+ }, 
+ {
+  "duration": 2.4, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 30", 
+  "time": 4645.1
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 70", 
+  "time": 4647.6
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4649.4
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 70", 
+  "time": 4651.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 26", 
+  "time": 4652.5
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 95", 
+  "time": 4654.1
+ }, 
+ {
+  "duration": 2.0, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 95", 
+  "time": 4654.8
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 26", 
+  "time": 4657.7
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 70", 
+  "time": 4659.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 70", 
+  "time": 4660.2
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4662.4
+ }, 
+ {
+  "duration": 1.6, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 56", 
+  "time": 4664.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "grouping documents by moving them aside", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4665.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 100", 
+  "time": 4675.1
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 26", 
+  "time": 4676.6
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 95", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 95", 
+  "time": 4677.2
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 17", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 17", 
+  "time": 4678.6
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 52", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 52", 
+  "time": 4679.7
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 52", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 52", 
+  "time": 4680.5
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 30", 
+  "time": 4687.4
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 56", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 56", 
+  "time": 4689.2
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 100", 
+  "time": 4691.3
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 98", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 98", 
+  "time": 4692.7
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 81", 
+  "time": 4696.7
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 25", 
+  "time": 4699.1
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 55", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 55", 
+  "time": 4700.5
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 10", 
+  "time": 4702.0
+ }, 
+ {
+  "duration": 3.5, 
+  "Text": "Armsdealing 10", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 10", 
+  "time": 4702.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "burj", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4712.3
+ }, 
+ {
+  "duration": 2.5, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 25", 
+  "time": 4714.2
+ }, 
+ {
+  "duration": 0, 
+  "Text": " (Looking at other places which all attended the meeting) (type 3)[bottom-up]", 
+  "InteractionType": "topic_change", 
+  "ID": "bottom-up", 
+  "time": 4715.4
+ }, 
+ {
+  "duration": 4.5, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 25", 
+  "time": 4717.3
+ }, 
+ {
+  "duration": 2.4, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 26", 
+  "time": 4722.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 70", 
+  "time": 4725.3
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 70", 
+  "time": 4727.2
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 25", 
+  "time": 4729.1
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "tabriz", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4734.5
+ }, 
+ {
+  "duration": 2.7, 
+  "Text": "Armsdealing 11", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 11", 
+  "time": 4736.7
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 70", 
+  "time": 4741.4
+ }, 
+ {
+  "duration": 2.6, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 26", 
+  "time": 4743.2
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 25", 
+  "time": 4746.4
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 25", 
+  "time": 4747.4
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 24", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 24", 
+  "time": 4749.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I'm connecting all the important one that show the results", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 4750.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 100", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 100", 
+  "time": 4751.6
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 26", 
+  "time": 4752.5
+ }, 
+ {
+  "duration": 4.0, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 29", 
+  "time": 4759.5
+ }, 
+ {
+  "duration": 2.3, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 29", 
+  "time": 4763.9
+ }, 
+ {
+  "duration": 0.5, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 29", 
+  "time": 4767.3
+ }, 
+ {
+  "duration": 0, 
+  "Text": " Burj ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 29", 
+  "time": 4767.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 70", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 70", 
+  "time": 4769.7
+ }, 
+ {
+  "duration": 1.6, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 26", 
+  "time": 4771.0
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 30", 
+  "time": 4776.8
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 96", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 96", 
+  "time": 4780.5
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 96", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 96", 
+  "time": 4781.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "burj", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4788.4
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 8", 
+  "time": 4791.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 30", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 30", 
+  "time": 4795.9
+ }, 
+ {
+  "duration": 1.7, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 26", 
+  "time": 4797.3
+ }, 
+ {
+  "duration": 2.5, 
+  "Text": "Armsdealing 80", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 80", 
+  "time": 4801.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 98", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 98", 
+  "time": 4805.2
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 88", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 88", 
+  "time": 4815.4
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 11", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 11", 
+  "time": 4823.7
+ }, 
+ {
+  "duration": 3.2, 
+  "Text": "Armsdealing 11", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 11", 
+  "time": 4824.5
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 25", 
+  "time": 4827.9
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 11", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 11", 
+  "time": 4830.6
+ }, 
+ {
+  "duration": 4.2, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 29", 
+  "time": 4834.5
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 29", 
+  "time": 4840.6
+ }, 
+ {
+  "duration": 0.5, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 29", 
+  "time": 4842.0
+ }, 
+ {
+  "duration": 0, 
+  "Text": " Burj ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 29", 
+  "time": 4842.0
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 8", 
+  "time": 4844.6
+ }, 
+ {
+  "duration": 0.5, 
+  "Text": "Armsdealing 8", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 8", 
+  "time": 4847.5
+ }, 
+ {
+  "duration": 0, 
+  "Text": " Burj", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Armsdealing 8", 
+  "time": 4847.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "syria", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4858.6
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 22", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 22", 
+  "time": 4864.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 22", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 22", 
+  "time": 4864.6
+ }, 
+ {
+  "duration": 9.0, 
+  "Text": "Armsdealing 22", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 22", 
+  "time": 4865.7
+ }, 
+ {
+  "duration": 2.5, 
+  "Text": "Armsdealing 22", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 22", 
+  "time": 4875.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 22", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 22", 
+  "time": 4878.9
+ }, 
+ {
+  "duration": 1.6, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 26", 
+  "time": 4880.7
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "lebanon", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4888.8
+ }, 
+ {
+  "duration": 1.9, 
+  "Text": "Armsdealing 28", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 28", 
+  "time": 4894.6
+ }, 
+ {
+  "duration": 6.6, 
+  "Text": "Armsdealing 28", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 28", 
+  "time": 4906.2
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "saudi arabia\\", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4923.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "saudi arabia", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 4926.8
+ }, 
+ {
+  "duration": 4.9, 
+  "Text": "Armsdealing 73", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 73", 
+  "time": 4932.7
+ }, 
+ {
+  "duration": 2.3, 
+  "Text": "Armsdealing 63", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 63", 
+  "time": 4938.4
+ }, 
+ {
+  "duration": 55.9, 
+  "Text": "Armsdealing 63", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 63", 
+  "time": 4940.8
+ }, 
+ {
+  "duration": 23.3, 
+  "Text": "Armsdealing 63", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 63", 
+  "time": 4940.9
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 63", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 63", 
+  "time": 4956.6
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 20", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 20", 
+  "time": 4966.0
+ }, 
+ {
+  "duration": 2.3, 
+  "Text": "Armsdealing 20", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 20", 
+  "time": 4967.2
+ }, 
+ {
+  "duration": 12.8, 
+  "Text": "Armsdealing 63", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 63", 
+  "time": 4969.8
+ }, 
+ {
+  "duration": 6.0, 
+  "Text": "Armsdealing 73", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 73", 
+  "time": 4984.0
+ }, 
+ {
+  "duration": 1.3, 
+  "Text": "Armsdealing 96", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 96", 
+  "time": 4990.5
+ }, 
+ {
+  "duration": 3.5, 
+  "Text": "Armsdealing 96", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 96", 
+  "time": 4991.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I couldn't find anything related to Saudi Arabia. There was some guy but I forget his name", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 5005.4
+ }, 
+ {
+  "duration": 1.8, 
+  "Text": "Armsdealing 64", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 64", 
+  "time": 5015.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "ahmed", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 5024.1
+ }, 
+ {
+  "duration": 6.0, 
+  "Text": "Armsdealing 29", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 29", 
+  "time": 5029.3
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 11", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 11", 
+  "time": 5036.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "venezuela", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 5049.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "So Ahmed had contacts with Kasem and that's how disease spreaded to Saudi Arabia", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 5050.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Next is Venezuela", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 5050.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 6", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 6", 
+  "time": 5054.0
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 9", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 9", 
+  "time": 5056.0
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 7", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 7", 
+  "time": 5057.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 9", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 9", 
+  "time": 5058.7
+ }, 
+ {
+  "duration": 18.8, 
+  "Text": "Armsdealing 9", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 9", 
+  "time": 5059.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 7", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 7", 
+  "time": 5078.8
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 7", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 7", 
+  "time": 5080.0
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 6", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 6", 
+  "time": 5081.5
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 5", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 5", 
+  "time": 5082.7
+ }, 
+ {
+  "duration": 1.4, 
+  "Text": "Armsdealing 6", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 6", 
+  "time": 5083.3
+ }, 
+ {
+  "duration": 4.5, 
+  "Text": "Armsdealing 6", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 6", 
+  "time": 5085.4
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Armsdealing 7", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 7", 
+  "time": 5090.8
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "meeting", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 5098.7
+ }, 
+ {
+  "duration": 7.5, 
+  "Text": "Armsdealing 9", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 9", 
+  "time": 5101.1
+ }, 
+ {
+  "duration": 2.5, 
+  "Text": "Armsdealing 9", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 9", 
+  "time": 5109.2
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Armsdealing 9", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 9", 
+  "time": 5112.3
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 26", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 26", 
+  "time": 5114.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "columbia", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 5124.8
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 62", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 62", 
+  "time": 5127.9
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 62", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 62", 
+  "time": 5128.8
+ }, 
+ {
+  "duration": 0.5, 
+  "Text": "Armsdealing 62", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 62", 
+  "time": 5129.9
+ }, 
+ {
+  "duration": 903.1, 
+  "Text": "Armsdealing 62", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 62", 
+  "time": 5132.8
+ }, 
+ {
+  "duration": 29.2, 
+  "Text": "Armsdealing 62", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 62", 
+  "time": 5132.9
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "I found people from each ine of those countries and they all attended that meeting so I connected all those people to the main meeting article but I can not find anybody from Columbia", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 5142.4
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 25", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 25", 
+  "time": 5163.5
+ }, 
+ {
+  "duration": 4.1, 
+  "Text": "Armsdealing 62", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 62", 
+  "time": 5174.0
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "meeting", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 5182.5
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "dubai", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 5212.3
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "columbia", 
+  "InteractionType": "search", 
+  "ID": 0, 
+  "time": 5220.2
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 62", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 62", 
+  "time": 5225.5
+ }, 
+ {
+  "duration": 1.9, 
+  "Text": "Armsdealing 62", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 62", 
+  "time": 5226.5
+ }, 
+ {
+  "duration": 10.9, 
+  "Text": "Armsdealing 62", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 62", 
+  "time": 5230.6
+ }, 
+ {
+  "duration": 1.0, 
+  "Text": "Reviewing his notes", 
+  "InteractionType": "think_aloud", 
+  "ID": 0, 
+  "time": 5255.4
+ }, 
+ {
+  "duration": 16.2, 
+  "Text": "Armsdealing 62", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 62", 
+  "time": 5258.7
+ }, 
+ {
+  "duration": 0.7, 
+  "Text": "Armsdealing 62", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 62", 
+  "time": 5259.5
+ }
+]

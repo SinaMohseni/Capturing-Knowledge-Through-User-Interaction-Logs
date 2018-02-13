@@ -1,0 +1,11440 @@
+[
+ {
+  "DocNum": "", 
+  "tags": [
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500000925359261
+   ], 
+   [
+    2, 
+    0.062503702098139449
+   ], 
+   [
+    3, 
+    0.062613758518056783
+   ], 
+   [
+    4, 
+    0.062603543041787224
+   ], 
+   [
+    5, 
+    0.56222347348423418
+   ], 
+   [
+    6, 
+    0.062554840170473636
+   ], 
+   [
+    7, 
+    0.062500000675775186
+   ], 
+   [
+    8, 
+    0.062500681086174223
+   ]
+  ], 
+  "Time": 10.0, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 15.9, 
+  "Duration": 1841.0, 
+  "Doc_open_weight": 1.3010776405344089, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 16.0, 
+  "Duration": 156.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 18.0, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98009843646193895
+   ]
+  ], 
+  "Time": 172.9, 
+  "Duration": 1.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 39", 
+  "tags": [
+   "gastech", 
+   "pok", 
+   "construction", 
+   "january", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.46826704309497552
+   ], 
+   [
+    3, 
+    0.50171313416897734
+   ]
+  ], 
+  "Time": 174.8, 
+  "Duration": 1.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 176.9, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 178.4, 
+  "Duration": 67.5, 
+  "Doc_open_weight": 1.457367027980842, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 178.5, 
+  "Duration": 66.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 179.1, 
+  "Duration": 1.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 246.6, 
+  "Duration": 2.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 251.0, 
+  "Duration": 9.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 262.6, 
+  "Duration": 2.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062564917417225946
+   ], 
+   [
+    2, 
+    0.062672431099827716
+   ], 
+   [
+    3, 
+    0.062584686735988146
+   ], 
+   [
+    4, 
+    0.062514881135970965
+   ], 
+   [
+    5, 
+    0.062507538943411114
+   ], 
+   [
+    6, 
+    0.56215554123346523
+   ], 
+   [
+    7, 
+    0.062500001765747673
+   ], 
+   [
+    8, 
+    0.062500001668363239
+   ]
+  ], 
+  "Time": 271.7, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 275.7, 
+  "Duration": 21.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500000924431351
+   ], 
+   [
+    2, 
+    0.062503698311002664
+   ], 
+   [
+    3, 
+    0.062609624255489493
+   ], 
+   [
+    4, 
+    0.062602325406022521
+   ], 
+   [
+    5, 
+    0.56222891149720788
+   ], 
+   [
+    6, 
+    0.062554758530063051
+   ], 
+   [
+    7, 
+    0.062500000675097547
+   ], 
+   [
+    8, 
+    0.062500680400685446
+   ]
+  ], 
+  "Time": 292.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 296.2, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 298.3, 
+  "Duration": 60.2, 
+  "Doc_open_weight": 1.457367027980842, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 298.4, 
+  "Duration": 8.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 298.9, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "gastech"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062612424832776375
+   ], 
+   [
+    2, 
+    0.56210799867899708
+   ], 
+   [
+    3, 
+    0.06262601206724136
+   ], 
+   [
+    4, 
+    0.062518164004125326
+   ], 
+   [
+    5, 
+    0.062507010325133547
+   ], 
+   [
+    6, 
+    0.062616769668673203
+   ], 
+   [
+    7, 
+    0.062500000491482688
+   ], 
+   [
+    8, 
+    0.062511619931570409
+   ]
+  ], 
+  "Time": 315.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "gas"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500001468967267
+   ], 
+   [
+    2, 
+    0.062536059443086503
+   ], 
+   [
+    3, 
+    0.062500000673929704
+   ], 
+   [
+    4, 
+    0.062532140655845198
+   ], 
+   [
+    5, 
+    0.062500000637336545
+   ], 
+   [
+    6, 
+    0.062620630130027902
+   ], 
+   [
+    7, 
+    0.56231116594688835
+   ], 
+   [
+    8, 
+    0.062500001043918438
+   ]
+  ], 
+  "Time": 329.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "environment"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500014440111037
+   ], 
+   [
+    2, 
+    0.062580018465597423
+   ], 
+   [
+    3, 
+    0.062534832869470314
+   ], 
+   [
+    4, 
+    0.062500008701361159
+   ], 
+   [
+    5, 
+    0.062500006356410134
+   ], 
+   [
+    6, 
+    0.062500006320912627
+   ], 
+   [
+    7, 
+    0.56238510243030426
+   ], 
+   [
+    8, 
+    0.062500010415833057
+   ]
+  ], 
+  "Time": 345.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 357.2, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 359.1, 
+  "Duration": 2.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 363.4, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "kronos", 
+   "employees", 
+   "demanding"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.97601397065931272
+   ]
+  ], 
+  "Time": 365.1, 
+  "Duration": 4.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 370.2, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 371.0, 
+  "Duration": 192.6, 
+  "Doc_open_weight": 1.239475674313083, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 371.1, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 371.7, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 373.0, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 373.4, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 374.7, 
+  "Duration": 150.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 375.6, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "Hundreds rural citizens suffer from important sicknesses which are apparently caused by exhibition to GAStech waste streams, although this no official gesubstanti\u00ebrd have been or recognize by or the company or government"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.44958467160443866
+   ], 
+   [
+    7, 
+    0.50871530597763659
+   ]
+  ], 
+  "Time": 526.5, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "highlight"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 565.0, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 566.2, 
+  "Duration": 0.5, 
+  "Doc_open_weight": 1.239475674313083, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": " Hundreds rural citizens suffer from important sicknesses which are apparently caused by exhibition to GAStech waste streams, although this no official gesubstanti\u00ebrd have been or recognize by or the company or government", 
+  "tags": [
+   " Hundreds rural citizens suffer from important sicknesses which are apparently caused by exhibition to GAStech waste streams, although this no official gesubstanti\u00ebrd have been or recognize by or the company or government"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 566.2, 
+  "Duration": 0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "bookmark_highlights"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 567.0, 
+  "Duration": 2.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 570.5, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 571.5, 
+  "Duration": 1269.6, 
+  "Doc_open_weight": 1.1829153012351903, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 571.6, 
+  "Duration": 1.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 572.1, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 575.7, 
+  "Duration": 2.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 576.2, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 578.6, 
+  "Duration": 24.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 603.3, 
+  "Duration": 2.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "the healthy group of the knowledge of the water, health for all (WFA), has condemned international GAStech and the government of Kronos"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.011379341756785883
+   ], 
+   [
+    2, 
+    0.011372968149149336
+   ], 
+   [
+    3, 
+    0.92033894445653497
+   ], 
+   [
+    4, 
+    0.011380316900151012
+   ], 
+   [
+    5, 
+    0.011370905904279117
+   ], 
+   [
+    6, 
+    0.011389641614962458
+   ], 
+   [
+    7, 
+    0.01138563417223268
+   ], 
+   [
+    8, 
+    0.011382247045904443
+   ]
+  ], 
+  "Time": 607.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "highlight"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 607.3, 
+  "Duration": 68.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 678.2, 
+  "Duration": 1.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 678.8, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 681.1, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 682.5, 
+  "Duration": 1182.5, 
+  "Doc_open_weight": 1.259484497101084, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 682.6, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 683.2, 
+  "Duration": 2.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 711.4, 
+  "Duration": 18.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 729.3, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 731.0, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 732.4, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 734.7, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 736.4, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 736.9, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 740.6, 
+  "Duration": 113.0, 
+  "Doc_open_weight": 1.1395891101588103, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 740.7, 
+  "Duration": 38.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 741.1, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 779.4, 
+  "Duration": 29.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 808.8, 
+  "Duration": 3.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 812.6, 
+  "Duration": 21.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   " The recent expenses of the subsoil water contamination against international GAStech and tightening environmental payments carry out by the interior minister of Tethan, Ivar Blanes, certainly play in the hearth of shift"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.95829434310467032
+   ]
+  ], 
+  "Time": 836.7, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "highlight"
+ }, 
+ {
+  "DocNum": "  The recent expenses of the subsoil water contamination against international GAStech and tightening environmental payments carry out by the interior minister of Tethan, Ivar Blanes, certainly play in the hearth of shift", 
+  "tags": [
+   "  The recent expenses of the subsoil water contamination against international GAStech and tightening environmental payments carry out by the interior minister of Tethan, Ivar Blanes, certainly play in the hearth of shift"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 853.6, 
+  "Duration": 0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "bookmark_highlights"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 854.2, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 856.9, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 83", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96763523545604646
+   ]
+  ], 
+  "Time": 860.2, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 83", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96763523545604646
+   ]
+  ], 
+  "Time": 861.5, 
+  "Duration": 39.2, 
+  "Doc_open_weight": 1.042695991933451, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 83", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96763523545604646
+   ]
+  ], 
+  "Time": 861.6, 
+  "Duration": 27.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 83", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96763523545604646
+   ]
+  ], 
+  "Time": 861.9, 
+  "Duration": 2.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 888.8, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 89", 
+  "tags": [
+   "employees", 
+   "people", 
+   "voices", 
+   "taken", 
+   "foreign"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99135655835159886
+   ]
+  ], 
+  "Time": 891.0, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 89", 
+  "tags": [
+   "employees", 
+   "people", 
+   "voices", 
+   "taken", 
+   "foreign"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99135655835159886
+   ]
+  ], 
+  "Time": 892.3, 
+  "Duration": 75.6, 
+  "Doc_open_weight": 1.097365767582556, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 89", 
+  "tags": [
+   "employees", 
+   "people", 
+   "voices", 
+   "taken", 
+   "foreign"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99135655835159886
+   ]
+  ], 
+  "Time": 892.4, 
+  "Duration": 2.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 89", 
+  "tags": [
+   "employees", 
+   "people", 
+   "voices", 
+   "taken", 
+   "foreign"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99135655835159886
+   ]
+  ], 
+  "Time": 892.8, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 83", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96763523545604646
+   ]
+  ], 
+  "Time": 901.6, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 89", 
+  "tags": [
+   "employees", 
+   "people", 
+   "voices", 
+   "taken", 
+   "foreign"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99135655835159886
+   ]
+  ], 
+  "Time": 902.5, 
+  "Duration": 57.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 959.7, 
+  "Duration": 2.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 89", 
+  "tags": [
+   "employees", 
+   "people", 
+   "voices", 
+   "taken", 
+   "foreign"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99135655835159886
+   ]
+  ], 
+  "Time": 960.3, 
+  "Duration": 1.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 89", 
+  "tags": [
+   "employees", 
+   "people", 
+   "voices", 
+   "taken", 
+   "foreign"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99135655835159886
+   ]
+  ], 
+  "Time": 962.0, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 964.0, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 968.8, 
+  "Duration": 5.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "new", 
+   "protesters"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99666437614557879
+   ]
+  ], 
+  "Time": 970.0, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "public", 
+   "kronos", 
+   "today"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.96363059445209676
+   ]
+  ], 
+  "Time": 972.3, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "public", 
+   "kronos", 
+   "today"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.96363059445209676
+   ]
+  ], 
+  "Time": 973.5, 
+  "Duration": 19.3, 
+  "Doc_open_weight": 1.0017330476430553, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "public", 
+   "kronos", 
+   "today"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.96363059445209676
+   ]
+  ], 
+  "Time": 973.6, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "public", 
+   "kronos", 
+   "today"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.96363059445209676
+   ]
+  ], 
+  "Time": 974.1, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "public", 
+   "kronos", 
+   "today"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.96363059445209676
+   ]
+  ], 
+  "Time": 993.3, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "public", 
+   "kronos", 
+   "today"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.96363059445209676
+   ]
+  ], 
+  "Time": 997.8, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "fire", 
+   "modernizations", 
+   "day", 
+   "respect"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9868547340245486
+   ]
+  ], 
+  "Time": 1000.9, 
+  "Duration": 2.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "fire", 
+   "modernizations", 
+   "construction"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.79173993362584971
+   ], 
+   [
+    4, 
+    0.1829115233178556
+   ]
+  ], 
+  "Time": 1003.0, 
+  "Duration": 1.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "fire", 
+   "modernizations", 
+   "construction"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.79173993362584971
+   ], 
+   [
+    4, 
+    0.1829115233178556
+   ]
+  ], 
+  "Time": 1004.9, 
+  "Duration": 89.9, 
+  "Doc_open_weight": 1.1219435341567936, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "fire", 
+   "modernizations", 
+   "construction"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.79173993362584971
+   ], 
+   [
+    4, 
+    0.1829115233178556
+   ]
+  ], 
+  "Time": 1005.0, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "fire", 
+   "modernizations", 
+   "construction"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.79173993362584971
+   ], 
+   [
+    4, 
+    0.1829115233178556
+   ]
+  ], 
+  "Time": 1005.4, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "fire", 
+   "modernizations", 
+   "construction"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.79173993362584971
+   ], 
+   [
+    4, 
+    0.1829115233178556
+   ]
+  ], 
+  "Time": 1014.4, 
+  "Duration": 33.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "fire", 
+   "modernizations", 
+   "construction"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.79173993362584971
+   ], 
+   [
+    4, 
+    0.1829115233178556
+   ]
+  ], 
+  "Time": 1048.5, 
+  "Duration": 42.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 1090.9, 
+  "Duration": 139.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 1091.8, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "fire", 
+   "modernizations", 
+   "day", 
+   "respect"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9868547340245486
+   ]
+  ], 
+  "Time": 1096.0, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1098.7, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1100.4, 
+  "Duration": 128.5, 
+  "Doc_open_weight": 1.2684648348878245, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1100.5, 
+  "Duration": 124.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1225.2, 
+  "Duration": 2.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1225.7, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1227.3, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 1231.5, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "fire", 
+   "modernizations", 
+   "day", 
+   "respect"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9868547340245486
+   ]
+  ], 
+  "Time": 1233.9, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "new", 
+   "protesters"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99666437614557879
+   ]
+  ], 
+  "Time": 1237.1, 
+  "Duration": 158.1, 
+  "Doc_open_weight": 1.2349067305268466, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "new", 
+   "protesters"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99666437614557879
+   ]
+  ], 
+  "Time": 1237.2, 
+  "Duration": 136.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "new", 
+   "protesters"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99666437614557879
+   ]
+  ], 
+  "Time": 1237.6, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "new", 
+   "protesters"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99666437614557879
+   ]
+  ], 
+  "Time": 1375.4, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 1378.5, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "new", 
+   "protesters"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99666437614557879
+   ]
+  ], 
+  "Time": 1381.1, 
+  "Duration": 10.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "dozen protesters being present guards of gathering of Kronos (POK) in front of the regional registered offices of GAStech in Abila was stopped for enfreindre this morning"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.26811751700643682
+   ], 
+   [
+    3, 
+    0.687719319682492
+   ]
+  ], 
+  "Time": 1393.9, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "highlight"
+ }, 
+ {
+  "DocNum": " dozen protesters being present guards of gathering of Kronos (POK) in front of the regional registered offices of GAStech in Abila was stopped for enfreindre this morning", 
+  "tags": [
+   " dozen protesters being present guards of gathering of Kronos (POK) in front of the regional registered offices of GAStech in Abila was stopped for enfreindre this morning"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99666437614557879
+   ]
+  ], 
+  "Time": 1395.2, 
+  "Duration": 0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "bookmark_highlights"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "new", 
+   "protesters"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99666437614557879
+   ]
+  ], 
+  "Time": 1397.0, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 135", 
+  "tags": [
+   "gastech", 
+   "answered", 
+   "modernizations", 
+   "try", 
+   "telephone"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.64643269780440571
+   ], 
+   [
+    3, 
+    0.32676563618442267
+   ]
+  ], 
+  "Time": 1398.4, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "fire", 
+   "modernizations", 
+   "day", 
+   "respect"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9868547340245486
+   ]
+  ], 
+  "Time": 1399.1, 
+  "Duration": 2.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "fire", 
+   "modernizations", 
+   "day", 
+   "respect"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9868547340245486
+   ]
+  ], 
+  "Time": 1401.2, 
+  "Duration": 102.4, 
+  "Doc_open_weight": 1.1559742878749686, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "fire", 
+   "modernizations", 
+   "day", 
+   "respect"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9868547340245486
+   ]
+  ], 
+  "Time": 1401.3, 
+  "Duration": 95.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "fire", 
+   "modernizations", 
+   "day", 
+   "respect"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9868547340245486
+   ]
+  ], 
+  "Time": 1401.8, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "fire", 
+   "modernizations", 
+   "day", 
+   "respect"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9868547340245486
+   ]
+  ], 
+  "Time": 1496.8, 
+  "Duration": 3.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "Sten Sanjorge, Jr declined to directly comment with respect to questions with respect protests and to the contamination of environment. It turned aside, is today a great day for GAStech. I will not let the day be made derail by infundado, border libelous, allegations."
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96632511754963091
+   ]
+  ], 
+  "Time": 1501.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "highlight"
+ }, 
+ {
+  "DocNum": " Sten Sanjorge, Jr declined to directly comment with respect to questions with respect protests and to the contamination of environment. It turned aside, is today a great day for GAStech. I will not let the day be made derail by infundado, border libelous, allegations.", 
+  "tags": [
+   " Sten Sanjorge, Jr declined to directly comment with respect to questions with respect protests and to the contamination of environment. It turned aside, is today a great day for GAStech. I will not let the day be made derail by infundado, border libelous, allegations."
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9868547340245486
+   ]
+  ], 
+  "Time": 1503.6, 
+  "Duration": 0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "bookmark_highlights"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 1505.4, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1508.6, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1510.2, 
+  "Duration": 245.7, 
+  "Doc_open_weight": 1.3798525334005545, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1510.3, 
+  "Duration": 184.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1510.9, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1694.6, 
+  "Duration": 54.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1705.9, 
+  "Duration": 6.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1715.1, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1718.2, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1757.9, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1759.1, 
+  "Duration": 88.0, 
+  "Doc_open_weight": 1.3798525334005545, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1759.2, 
+  "Duration": 1.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1762.4, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1762.9, 
+  "Duration": 6.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": [
+   ""
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1774.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "create_note"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "The company itself can be behind at this employee mising ", 
+  "ClassNum": [
+   [
+    1, 
+    0.031323558674001439
+   ], 
+   [
+    2, 
+    0.78104240020196458
+   ], 
+   [
+    3, 
+    0.031274036470392196
+   ], 
+   [
+    4, 
+    0.031274623569386061
+   ], 
+   [
+    5, 
+    0.031256178157975205
+   ], 
+   [
+    6, 
+    0.031319310488314378
+   ], 
+   [
+    7, 
+    0.031259887778893818
+   ], 
+   [
+    8, 
+    0.031250004659072447
+   ]
+  ], 
+  "Time": 1787.0, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "writing_notes"
+ }, 
+ {
+  "DocNum": " the healthy group of the knowledge of the water, health for all (WFA), has condemned international GAStech and the government of Kronos", 
+  "tags": [
+   " the healthy group of the knowledge of the water, health for all (WFA), has condemned international GAStech and the government of Kronos"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 1841.1, 
+  "Duration": 0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "bookmark_highlights"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1844.4, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1848.1, 
+  "Duration": 6.2, 
+  "Doc_open_weight": 1.3798525334005545, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 1855.1, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 1858.4, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "fire", 
+   "modernizations", 
+   "construction"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.79173993362584971
+   ], 
+   [
+    4, 
+    0.1829115233178556
+   ]
+  ], 
+  "Time": 1858.4, 
+  "Duration": 5.8999999999999995, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "sorting_documents"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1860.9, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98648401559205223
+   ]
+  ], 
+  "Time": 1863.0, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 89", 
+  "tags": [
+   "employees", 
+   "people", 
+   "voices", 
+   "taken", 
+   "foreign"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99135655835159886
+   ]
+  ], 
+  "Time": 1865.9, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "fire", 
+   "modernizations", 
+   "construction"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.79173993362584971
+   ], 
+   [
+    4, 
+    0.1829115233178556
+   ]
+  ], 
+  "Time": 1870.2, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "new", 
+   "protesters"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99666437614557879
+   ]
+  ], 
+  "Time": 1871.8, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 1871.8, 
+  "Duration": 3.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "sorting_documents"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 1873.4, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "gastech", 
+   "fire", 
+   "modernizations", 
+   "day", 
+   "respect"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9868547340245486
+   ]
+  ], 
+  "Time": 1875.0, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 1876.7, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 1878.1, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1880.9, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "modernizations", 
+   "scene", 
+   "groups"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.61836718395472112
+   ], 
+   [
+    2, 
+    0.36933775559661131
+   ]
+  ], 
+  "Time": 1886.0, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 83", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96763523545604646
+   ]
+  ], 
+  "Time": 1888.6, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "employee"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062580739978202446
+   ], 
+   [
+    2, 
+    0.56206249978179801
+   ], 
+   [
+    3, 
+    0.062605376484140884
+   ], 
+   [
+    4, 
+    0.062518485158496867
+   ], 
+   [
+    5, 
+    0.062509363075744478
+   ], 
+   [
+    6, 
+    0.062723531257380338
+   ], 
+   [
+    7, 
+    0.062500002192581061
+   ], 
+   [
+    8, 
+    0.06250000207165593
+   ]
+  ], 
+  "Time": 1895.7, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "abila", 
+   "kronos", 
+   "pok", 
+   "siopa", 
+   "district"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.7392733856682322
+   ], 
+   [
+    5, 
+    0.24467060220375708
+   ]
+  ], 
+  "Time": 1911.7, 
+  "Duration": 2.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "coo"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500008068036891
+   ], 
+   [
+    2, 
+    0.062500002000369495
+   ], 
+   [
+    3, 
+    0.062500003535975721
+   ], 
+   [
+    4, 
+    0.062500004856363992
+   ], 
+   [
+    5, 
+    0.062500003545526275
+   ], 
+   [
+    6, 
+    0.56249996628638965
+   ], 
+   [
+    7, 
+    0.062500005891034605
+   ], 
+   [
+    8, 
+    0.062500005816303467
+   ]
+  ], 
+  "Time": 1923.3, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98674615144798428
+   ]
+  ], 
+  "Time": 1939.4, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "fire", 
+   "modernizations", 
+   "construction"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.79173993362584971
+   ], 
+   [
+    4, 
+    0.1829115233178556
+   ]
+  ], 
+  "Time": 1944.7, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 1946.6, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 1947.5, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1949.2, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1950.0, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1952.6, 
+  "Duration": 506.5, 
+  "Doc_open_weight": 1.2684648348878245, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1952.7, 
+  "Duration": 7.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Sanjorge"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.56227574651379353
+   ], 
+   [
+    2, 
+    0.062545059414251633
+   ], 
+   [
+    3, 
+    0.06255755160946451
+   ], 
+   [
+    4, 
+    0.062500001528566093
+   ], 
+   [
+    5, 
+    0.062500001115080195
+   ], 
+   [
+    6, 
+    0.062621636141048348
+   ], 
+   [
+    7, 
+    0.062500001850151657
+   ], 
+   [
+    8, 
+    0.062500001827644203
+   ]
+  ], 
+  "Time": 1961.8, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 1964.5, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 3", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "sanjorge", 
+   "gas", 
+   "opening"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98652724244370471
+   ]
+  ], 
+  "Time": 1966.2, 
+  "Duration": 4.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 13", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "missing", 
+   "blog", 
+   "important"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.96511631281583277
+   ]
+  ], 
+  "Time": 1975.5, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 10", 
+  "tags": [
+   "gastech", 
+   "appear", 
+   "speaks", 
+   "blog", 
+   "important"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.76897168267258875
+   ], 
+   [
+    4, 
+    0.19689990308374972
+   ]
+  ], 
+  "Time": 1976.4, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1978.6, 
+  "Duration": 10.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Fluss"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500019052883757
+   ], 
+   [
+    2, 
+    0.062500004689344357
+   ], 
+   [
+    3, 
+    0.062500008298790391
+   ], 
+   [
+    4, 
+    0.062500011391460261
+   ], 
+   [
+    5, 
+    0.062500008320548334
+   ], 
+   [
+    6, 
+    0.56249992074628463
+   ], 
+   [
+    7, 
+    0.06250001382839207
+   ], 
+   [
+    8, 
+    0.062500013672296142
+   ]
+  ], 
+  "Time": 1990.8, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 1991.0, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "aiding", 
+   "funded", 
+   "people", 
+   "reporter", 
+   "press"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99143389478151567
+   ]
+  ], 
+  "Time": 1993.5, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "aiding", 
+   "funded", 
+   "people", 
+   "reporter", 
+   "press"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99143389478151567
+   ]
+  ], 
+  "Time": 1994.6, 
+  "Duration": 190.8, 
+  "Doc_open_weight": 1.29083690446181, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "aiding", 
+   "funded", 
+   "people", 
+   "reporter", 
+   "press"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99143389478151567
+   ]
+  ], 
+  "Time": 1994.7, 
+  "Duration": 3.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "aiding", 
+   "funded", 
+   "people", 
+   "reporter", 
+   "press"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99143389478151567
+   ]
+  ], 
+  "Time": 1995.6, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "aiding", 
+   "funded", 
+   "people", 
+   "reporter", 
+   "press"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99143389478151567
+   ]
+  ], 
+  "Time": 1998.5, 
+  "Duration": 137.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "aiding", 
+   "funded", 
+   "people", 
+   "reporter", 
+   "press"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99143389478151567
+   ]
+  ], 
+  "Time": 2136.6, 
+  "Duration": 43.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Sanjorge"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.56227371288505312
+   ], 
+   [
+    2, 
+    0.062545079966087214
+   ], 
+   [
+    3, 
+    0.062557606567337623
+   ], 
+   [
+    4, 
+    0.062500001529097016
+   ], 
+   [
+    5, 
+    0.062500001115467496
+   ], 
+   [
+    6, 
+    0.062623594257884052
+   ], 
+   [
+    7, 
+    0.062500001850794296
+   ], 
+   [
+    8, 
+    0.062500001828279028
+   ]
+  ], 
+  "Time": 2181.7, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "aiding", 
+   "funded", 
+   "people", 
+   "reporter", 
+   "press"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99143389478151567
+   ]
+  ], 
+  "Time": 2185.9, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 59", 
+  "tags": [
+   "gastech", 
+   "elodis", 
+   "ratio", 
+   "contamination", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99141268065073929
+   ]
+  ], 
+  "Time": 2190.5, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2192.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2193.7, 
+  "Duration": 86.8, 
+  "Doc_open_weight": 1.1224161835139905, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2193.8, 
+  "Duration": 57.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2252.0, 
+  "Duration": 6.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2258.4, 
+  "Duration": 2.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "The reporter they are levando in feet outside of the centers of GAStech that wait for the pictures of GAStech that they are believed that they appear in the hour. The CEO Sten <span class=\"highlight-pink\">Sanjorge</span> di GAStech is celebrating the public offer begins them succeeded of its company, that last month has happened"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.53474081156058928
+   ], 
+   [
+    3, 
+    0.43639616137262988
+   ]
+  ], 
+  "Time": 2262.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2262.3, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "The reporter they are levando in feet outside of the centers of GAStech that wait for the pictures of GAStech that they are believed that they appear in the hour. The CEO Sten Sanjorge di GAStech is celebrating the public offer begins them succeeded of its company, that last month has happened"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.53470502294347344
+   ], 
+   [
+    3, 
+    0.43643251596413979
+   ]
+  ], 
+  "Time": 2265.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "highlight"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2265.7, 
+  "Duration": 7.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Sanjorge"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.5622769542952093
+   ], 
+   [
+    2, 
+    0.062545048355276203
+   ], 
+   [
+    3, 
+    0.062557536648449791
+   ], 
+   [
+    4, 
+    0.062500001528253343
+   ], 
+   [
+    5, 
+    0.062500001114852044
+   ], 
+   [
+    6, 
+    0.062620454380915985
+   ], 
+   [
+    7, 
+    0.062500001849773126
+   ], 
+   [
+    8, 
+    0.06250000182727028
+   ]
+  ], 
+  "Time": 2275.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2276.4, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "aiding", 
+   "funded", 
+   "people", 
+   "reporter", 
+   "press"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99143389478151567
+   ]
+  ], 
+  "Time": 2278.1, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2283.1, 
+  "Duration": 0.5, 
+  "Doc_open_weight": 1.1224161835139905, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": " The reporter they are levando in feet outside of the centers of GAStech that wait for the pictures of GAStech that they are believed that they appear in the hour. The CEO Sten Sanjorge di GAStech is celebrating the public offer begins them succeeded of its company, that last month has happened", 
+  "tags": [
+   " The reporter they are levando in feet outside of the centers of GAStech that wait for the pictures of GAStech that they are believed that they appear in the hour. The CEO Sten Sanjorge di GAStech is celebrating the public offer begins them succeeded of its company, that last month has happened"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2283.1, 
+  "Duration": 0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "bookmark_highlights"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2283.7, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 10", 
+  "tags": [
+   "gastech", 
+   "appear", 
+   "speaks", 
+   "blog", 
+   "important"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.76897168267258875
+   ], 
+   [
+    4, 
+    0.19689990308374972
+   ]
+  ], 
+  "Time": 2286.6, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 43", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "tethys", 
+   "modernizations", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.67552300557463574
+   ], 
+   [
+    6, 
+    0.29946522868507708
+   ]
+  ], 
+  "Time": 2288.1, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 42", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "assembly", 
+   "increased"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98986210359676563
+   ]
+  ], 
+  "Time": 2288.7, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 65", 
+  "tags": [
+   "wfa", 
+   "kronos", 
+   "elodis", 
+   "groups", 
+   "international"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.17285133563165705
+   ], 
+   [
+    4, 
+    0.18757907262545026
+   ], 
+   [
+    6, 
+    0.42146446525512354
+   ], 
+   [
+    7, 
+    0.21221654992812336
+   ]
+  ], 
+  "Time": 2289.4, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 64", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "blog", 
+   "important", 
+   "people"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.96948915297077565
+   ]
+  ], 
+  "Time": 2290.0, 
+  "Duration": 3.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 64", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "blog", 
+   "important", 
+   "people"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.96948915297077565
+   ]
+  ], 
+  "Time": 2293.4, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 64", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "blog", 
+   "important", 
+   "people"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.96948915297077565
+   ]
+  ], 
+  "Time": 2295.3, 
+  "Duration": 98.9, 
+  "Doc_open_weight": 1.1296634736576758, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 64", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "blog", 
+   "important", 
+   "people"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.96948915297077565
+   ]
+  ], 
+  "Time": 2295.4, 
+  "Duration": 26.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "aiding", 
+   "funded", 
+   "people", 
+   "reporter", 
+   "press"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99143389478151567
+   ]
+  ], 
+  "Time": 2322.6, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 2324.1, 
+  "Duration": 11.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 64", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "blog", 
+   "important", 
+   "people"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.96948915297077565
+   ]
+  ], 
+  "Time": 2335.6, 
+  "Duration": 55.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 51", 
+  "tags": [
+   "employees", 
+   "pok", 
+   "gastech", 
+   "kidnapping", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.44919070050123333
+   ], 
+   [
+    5, 
+    0.071743585645426128
+   ], 
+   [
+    6, 
+    0.47104279007813588
+   ]
+  ], 
+  "Time": 2392.1, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 64", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "blog", 
+   "important", 
+   "people"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.96948915297077565
+   ]
+  ], 
+  "Time": 2394.6, 
+  "Duration": 3.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 2403.3, 
+  "Duration": 11.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 2415.7, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 2418.4, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 134", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "fire", 
+   "place", 
+   "gas"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99141317521175421
+   ]
+  ], 
+  "Time": 2419.8, 
+  "Duration": 3.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 65", 
+  "tags": [
+   "wfa", 
+   "kronos", 
+   "elodis", 
+   "groups", 
+   "international"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.17285133563165705
+   ], 
+   [
+    4, 
+    0.18757907262545026
+   ], 
+   [
+    6, 
+    0.42146446525512354
+   ], 
+   [
+    7, 
+    0.21221654992812336
+   ]
+  ], 
+  "Time": 2425.8, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 95", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "wfa", 
+   "water", 
+   "gastech"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.44341072680464383
+   ], 
+   [
+    6, 
+    0.55275871717558556
+   ]
+  ], 
+  "Time": 2427.5, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 2428.7, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "people", 
+   "employees", 
+   "fire"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.86740996936370984
+   ], 
+   [
+    4, 
+    0.11114471452529366
+   ]
+  ], 
+  "Time": 2429.6, 
+  "Duration": 2.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 112", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "removal", 
+   "sanjorge", 
+   "international"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.29556071621708907
+   ], 
+   [
+    3, 
+    0.69322932564565398
+   ]
+  ], 
+  "Time": 2432.3, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 101", 
+  "tags": [
+   "gastech", 
+   "sanjorge", 
+   "gas", 
+   "public", 
+   "international"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.66286438353634536
+   ], 
+   [
+    6, 
+    0.32462537641322403
+   ]
+  ], 
+  "Time": 2437.2, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 51", 
+  "tags": [
+   "employees", 
+   "pok", 
+   "gastech", 
+   "kidnapping", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.44919070050123333
+   ], 
+   [
+    5, 
+    0.071743585645426128
+   ], 
+   [
+    6, 
+    0.47104279007813588
+   ]
+  ], 
+  "Time": 2438.8, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "gastech", 
+   "elodis", 
+   "vehicles", 
+   "resulted", 
+   "driver"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.14428939089494291
+   ], 
+   [
+    2, 
+    0.33173172928914813
+   ], 
+   [
+    8, 
+    0.5043156472092607
+   ]
+  ], 
+  "Time": 2440.5, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "gastech", 
+   "elodis", 
+   "vehicles", 
+   "resulted", 
+   "driver"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.14428939089494291
+   ], 
+   [
+    2, 
+    0.33173172928914813
+   ], 
+   [
+    8, 
+    0.5043156472092607
+   ]
+  ], 
+  "Time": 2441.5, 
+  "Duration": 10.0, 
+  "Doc_open_weight": 1.0138643811444417, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "gastech", 
+   "elodis", 
+   "vehicles", 
+   "resulted", 
+   "driver"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.14428939089494291
+   ], 
+   [
+    2, 
+    0.33173172928914813
+   ], 
+   [
+    8, 
+    0.5043156472092607
+   ]
+  ], 
+  "Time": 2441.6, 
+  "Duration": 1.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "gastech", 
+   "elodis", 
+   "vehicles", 
+   "resulted", 
+   "driver"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.14428939089494291
+   ], 
+   [
+    2, 
+    0.33173172928914813
+   ], 
+   [
+    8, 
+    0.5043156472092607
+   ]
+  ], 
+  "Time": 2443.7, 
+  "Duration": 7.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "aiding", 
+   "funded", 
+   "people", 
+   "reporter", 
+   "press"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99143389478151567
+   ]
+  ], 
+  "Time": 2454.5, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 2456.4, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "gastech", 
+   "recent", 
+   "voices", 
+   "modernizations", 
+   "explainer"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98751932443548252
+   ]
+  ], 
+  "Time": 2457.0, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "gastech", 
+   "celebrating", 
+   "happened", 
+   "pictures", 
+   "succeeded"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.47038164033594865
+   ], 
+   [
+    3, 
+    0.52242401903115787
+   ]
+  ], 
+  "Time": 2462.5, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "gas"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500001471420805
+   ], 
+   [
+    2, 
+    0.062536126167609674
+   ], 
+   [
+    3, 
+    0.062500000675055345
+   ], 
+   [
+    4, 
+    0.062532199347210063
+   ], 
+   [
+    5, 
+    0.062500000638401054
+   ], 
+   [
+    6, 
+    0.062630584684280927
+   ], 
+   [
+    7, 
+    0.5623010859703601
+   ], 
+   [
+    8, 
+    0.062500001045662043
+   ]
+  ], 
+  "Time": 2482.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 2490.5, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 2492.5, 
+  "Duration": 5.2, 
+  "Doc_open_weight": 1.1395891101588103, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "headquarters", 
+   "executive", 
+   "alarm"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 2500.7, 
+  "Duration": 0.5, 
+  "Doc_open_weight": 1.1395891101588103, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "  The recent expenses of the subsoil water contamination against international GAStech and tightening environmental payments carry out by the interior minister of Tethan, Ivar Blanes, certainly play in the hearth of shift", 
+  "tags": [
+   "  The recent expenses of the subsoil water contamination against international GAStech and tightening environmental payments carry out by the interior minister of Tethan, Ivar Blanes, certainly play in the hearth of shift"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9905940955688739
+   ]
+  ], 
+  "Time": 2500.7, 
+  "Duration": 0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "bookmark_highlights"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "kidnapping", 
+   "kronos", 
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.99670015631360753
+   ]
+  ], 
+  "Time": 2504.9, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500006796760127
+   ], 
+   [
+    2, 
+    0.062500001681932871
+   ], 
+   [
+    3, 
+    0.062500002974262045
+   ], 
+   [
+    4, 
+    0.062500004088810859
+   ], 
+   [
+    5, 
+    0.062500002983809103
+   ], 
+   [
+    6, 
+    0.06250000296847219
+   ], 
+   [
+    7, 
+    0.062500004953607746
+   ], 
+   [
+    8, 
+    0.56249997355234505
+   ]
+  ], 
+  "Time": 2509.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 50", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96972988337012411
+   ]
+  ], 
+  "Time": 2512.4, 
+  "Duration": 17.7, 
+  "Doc_open_weight": 1.0170153768590875, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 50", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96972988337012411
+   ]
+  ], 
+  "Time": 2512.5, 
+  "Duration": 10.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 50", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96972988337012411
+   ]
+  ], 
+  "Time": 2513.1, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 50", 
+  "tags": [
+   "gastech", 
+   "building", 
+   "update", 
+   "kronos", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96972988337012411
+   ]
+  ], 
+  "Time": 2530.6, 
+  "Duration": 3.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "pok"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500000924458857
+   ], 
+   [
+    2, 
+    0.062503698423029261
+   ], 
+   [
+    3, 
+    0.062610018218292762
+   ], 
+   [
+    4, 
+    0.062602107886411351
+   ], 
+   [
+    5, 
+    0.56222873282696473
+   ], 
+   [
+    6, 
+    0.062554760624728867
+   ], 
+   [
+    7, 
+    0.062500000675117628
+   ], 
+   [
+    8, 
+    0.062500680420996518
+   ]
+  ], 
+  "Time": 2545.1, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 2550.0, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 2550.8, 
+  "Duration": 2.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 2553.5, 
+  "Duration": 347.6, 
+  "Doc_open_weight": 1.457367027980842, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 2553.6, 
+  "Duration": 43.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "KAREL"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500002481384778
+   ], 
+   [
+    2, 
+    0.062533595954651314
+   ], 
+   [
+    3, 
+    0.06254121199847594
+   ], 
+   [
+    4, 
+    0.56238378398091804
+   ], 
+   [
+    5, 
+    0.062534741403719937
+   ], 
+   [
+    6, 
+    0.062500315823513758
+   ], 
+   [
+    7, 
+    0.062506331257082118
+   ], 
+   [
+    8, 
+    0.062500017100254102
+   ]
+  ], 
+  "Time": 2598.8, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98009843646193895
+   ]
+  ], 
+  "Time": 2601.9, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 97", 
+  "tags": [
+   "gastech", 
+   "abila", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.95622172916571446
+   ]
+  ], 
+  "Time": 2606.6, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 100", 
+  "tags": [
+   "gastech", 
+   "pok", 
+   "kronos", 
+   "employees", 
+   "gathering"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.94173223448367371
+   ], 
+   [
+    7, 
+    0.053544348124664312
+   ]
+  ], 
+  "Time": 2607.7, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "illumination", 
+   "homeland", 
+   "jet", 
+   "airport", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.54269282094517868
+   ], 
+   [
+    5, 
+    0.4338517094289408
+   ]
+  ], 
+  "Time": 2608.9, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "illumination", 
+   "homeland", 
+   "jet", 
+   "airport", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.54269282094517868
+   ], 
+   [
+    5, 
+    0.4338517094289408
+   ]
+  ], 
+  "Time": 2610.5, 
+  "Duration": 88.2, 
+  "Doc_open_weight": 1.0, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "illumination", 
+   "homeland", 
+   "jet", 
+   "airport", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.54269282094517868
+   ], 
+   [
+    5, 
+    0.4338517094289408
+   ]
+  ], 
+  "Time": 2699.1, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 2700.2, 
+  "Duration": 17.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "illumination", 
+   "homeland", 
+   "jet", 
+   "airport", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.54269282094517868
+   ], 
+   [
+    5, 
+    0.4338517094289408
+   ]
+  ], 
+  "Time": 2718.8, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 2723.5, 
+  "Duration": 133.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 2877.1, 
+  "Duration": 20.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 2878.8, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "of June 19, Elian Karel died with unexplainable damage with the official cause of death. The report/ratio released by the death of Karel allotted of coroner of town of Abila in July 2010 to the sudden stop, and seeks it was enclosed soon then"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.72710036333577244
+   ], 
+   [
+    4, 
+    0.24163611777448643
+   ]
+  ], 
+  "Time": 2899.8, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "highlight"
+ }, 
+ {
+  "DocNum": " of June 19, Elian Karel died with unexplainable damage with the official cause of death. The report/ratio released by the death of Karel allotted of coroner of town of Abila in July 2010 to the sudden stop, and seeks it was enclosed soon then", 
+  "tags": [
+   " of June 19, Elian Karel died with unexplainable damage with the official cause of death. The report/ratio released by the death of Karel allotted of coroner of town of Abila in July 2010 to the sudden stop, and seeks it was enclosed soon then"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 2901.1, 
+  "Duration": 0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "bookmark_highlights"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "illumination", 
+   "homeland", 
+   "jet", 
+   "airport", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.54269282094517868
+   ], 
+   [
+    5, 
+    0.4338517094289408
+   ]
+  ], 
+  "Time": 2902.0, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 2903.7, 
+  "Duration": 1.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 116", 
+  "tags": [
+   "elodis", 
+   "gastech", 
+   "died", 
+   "car", 
+   "family"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.99115228297016889
+   ]
+  ], 
+  "Time": 2909.3, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 72", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "international"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98540213935345922
+   ]
+  ], 
+  "Time": 2914.1, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 24", 
+  "tags": [
+   "pok", 
+   "force", 
+   "protestors", 
+   "mob", 
+   "police"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.99264036232172392
+   ]
+  ], 
+  "Time": 2915.9, 
+  "Duration": 2.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98009843646193895
+   ]
+  ], 
+  "Time": 2919.0, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 62", 
+  "tags": [
+   "gas", 
+   "elodis", 
+   "health", 
+   "public", 
+   "drilling"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98712323940949509
+   ]
+  ], 
+  "Time": 2920.0, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98009843646193895
+   ]
+  ], 
+  "Time": 2920.9, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "international", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99457735441854089
+   ]
+  ], 
+  "Time": 2925.4, 
+  "Duration": 3.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 2929.3, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "international", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99457735441854089
+   ]
+  ], 
+  "Time": 2931.2, 
+  "Duration": 1.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 2933.8, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 2935.5, 
+  "Duration": 1799.0, 
+  "Doc_open_weight": 1.383791278043862, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 2935.6, 
+  "Duration": 104.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 2937.2, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vann"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.06250000817443345
+   ], 
+   [
+    2, 
+    0.062508192076484115
+   ], 
+   [
+    3, 
+    0.062624570535272775
+   ], 
+   [
+    4, 
+    0.56229958445894201
+   ], 
+   [
+    5, 
+    0.062567628266772368
+   ], 
+   [
+    6, 
+    0.062500004087057442
+   ], 
+   [
+    7, 
+    0.062500005968264605
+   ], 
+   [
+    8, 
+    0.062500006432773189
+   ]
+  ], 
+  "Time": 3042.4, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 7", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "kidnapping", 
+   "abila", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.43870378019927764
+   ], 
+   [
+    3, 
+    0.55743528999312453
+   ]
+  ], 
+  "Time": 3044.8, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 72", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "shifts", 
+   "hearth", 
+   "international"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98540213935345922
+   ]
+  ], 
+  "Time": 3047.3, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "international", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99457735441854089
+   ]
+  ], 
+  "Time": 3048.3, 
+  "Duration": 2.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3050.9, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3052.7, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "year", 
+   "karel", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.012561114389601171
+   ], 
+   [
+    3, 
+    0.80140502538653102
+   ], 
+   [
+    5, 
+    0.029509707185641606
+   ], 
+   [
+    7, 
+    0.15415511334802276
+   ]
+  ], 
+  "Time": 3054.3, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "year", 
+   "karel", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.012561114389601171
+   ], 
+   [
+    3, 
+    0.80140502538653102
+   ], 
+   [
+    5, 
+    0.029509707185641606
+   ], 
+   [
+    7, 
+    0.15415511334802276
+   ]
+  ], 
+  "Time": 3055.1, 
+  "Duration": 22.4, 
+  "Doc_open_weight": 1.008035039072347, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "year", 
+   "karel", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.012561114389601171
+   ], 
+   [
+    3, 
+    0.80140502538653102
+   ], 
+   [
+    5, 
+    0.029509707185641606
+   ], 
+   [
+    7, 
+    0.15415511334802276
+   ]
+  ], 
+  "Time": 3055.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 3079.1, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "year", 
+   "karel", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.012561114389601171
+   ], 
+   [
+    3, 
+    0.80140502538653102
+   ], 
+   [
+    5, 
+    0.029509707185641606
+   ], 
+   [
+    7, 
+    0.15415511334802276
+   ]
+  ], 
+  "Time": 3080.9, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "pok", 
+   "kapelou", 
+   "call", 
+   "president", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.98666199147886202
+   ]
+  ], 
+  "Time": 3085.6, 
+  "Duration": 1.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "international", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99457735441854089
+   ]
+  ], 
+  "Time": 3088.1, 
+  "Duration": 2.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "kronos", 
+   "gas", 
+   "country", 
+   "taxes", 
+   "projects"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.9909919335170474
+   ]
+  ], 
+  "Time": 3090.7, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "gastech", 
+   "juliana", 
+   "elodis", 
+   "poisoned", 
+   "family"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99421371649664902
+   ]
+  ], 
+  "Time": 3093.5, 
+  "Duration": 2.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "gastech", 
+   "juliana", 
+   "elodis", 
+   "poisoned", 
+   "family"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99421371649664902
+   ]
+  ], 
+  "Time": 3096.5, 
+  "Duration": 106.9, 
+  "Doc_open_weight": 1.0921666246533905, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "gastech", 
+   "juliana", 
+   "elodis", 
+   "poisoned", 
+   "family"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99421371649664902
+   ]
+  ], 
+  "Time": 3096.6, 
+  "Duration": 42.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "gastech", 
+   "juliana", 
+   "elodis", 
+   "poisoned", 
+   "family"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99421371649664902
+   ]
+  ], 
+  "Time": 3097.0, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "gastech", 
+   "juliana", 
+   "elodis", 
+   "poisoned", 
+   "family"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99421371649664902
+   ]
+  ], 
+  "Time": 3181.2, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "gastech", 
+   "juliana", 
+   "elodis", 
+   "poisoned", 
+   "family"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99421371649664902
+   ]
+  ], 
+  "Time": 3183.0, 
+  "Duration": 14.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   " Abila police quickly secured the building and interviewed the remaining GAStech employees. One employee, Edvard Vann of Abila, was questioned for hours because he shares a family name with several known POK members. Vann denied involvement with the POK and claimed to have no knowledge of the kidnapping. "
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.28413484858284505
+   ], 
+   [
+    4, 
+    0.5685909827854273
+   ], 
+   [
+    6, 
+    0.12641886646814962
+   ]
+  ], 
+  "Time": 3200.4, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "highlight"
+ }, 
+ {
+  "DocNum": "  Abila police quickly secured the building and interviewed the remaining GAStech employees. One employee, Edvard Vann of Abila, was questioned for hours because he shares a family name with several known POK members. Vann denied involvement with the POK and claimed to have no knowledge of the kidnapping. ", 
+  "tags": [
+   "  Abila police quickly secured the building and interviewed the remaining GAStech employees. One employee, Edvard Vann of Abila, was questioned for hours because he shares a family name with several known POK members. Vann denied involvement with the POK and claimed to have no knowledge of the kidnapping. "
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99421371649664902
+   ]
+  ], 
+  "Time": 3203.4, 
+  "Duration": 0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "bookmark_highlights"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "gastech", 
+   "juliana", 
+   "elodis", 
+   "poisoned", 
+   "family"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99421371649664902
+   ]
+  ], 
+  "Time": 3204.4, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "gastech", 
+   "juliana", 
+   "elodis", 
+   "poisoned", 
+   "family"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99421371649664902
+   ]
+  ], 
+  "Time": 3207.5, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "year", 
+   "karel", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.012561114389601171
+   ], 
+   [
+    3, 
+    0.80140502538653102
+   ], 
+   [
+    5, 
+    0.029509707185641606
+   ], 
+   [
+    7, 
+    0.15415511334802276
+   ]
+  ], 
+  "Time": 3210.5, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "people", 
+   "employees", 
+   "fire"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.86740996936370984
+   ], 
+   [
+    4, 
+    0.11114471452529366
+   ]
+  ], 
+  "Time": 3214.6, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "people", 
+   "employees", 
+   "fire"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.86740996936370984
+   ], 
+   [
+    4, 
+    0.11114471452529366
+   ]
+  ], 
+  "Time": 3216.2, 
+  "Duration": 2.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 76", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "gas", 
+   "kronos", 
+   "protectors"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99189269804265578
+   ]
+  ], 
+  "Time": 3219.5, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "pok", 
+   "kapelou", 
+   "call", 
+   "president", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.98666199147886202
+   ]
+  ], 
+  "Time": 3224.7, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "pok", 
+   "kapelou", 
+   "call", 
+   "president", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.98666199147886202
+   ]
+  ], 
+  "Time": 3226.7, 
+  "Duration": 21.5, 
+  "Doc_open_weight": 1.0300920090748678, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "pok", 
+   "kapelou", 
+   "call", 
+   "president", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.98666199147886202
+   ]
+  ], 
+  "Time": 3226.8, 
+  "Duration": 19.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "pok", 
+   "kapelou", 
+   "call", 
+   "president", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.98666199147886202
+   ]
+  ], 
+  "Time": 3248.8, 
+  "Duration": 2.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 130", 
+  "tags": [
+   "pok", 
+   "kapelou", 
+   "threat", 
+   "letters", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.9843624248429893
+   ]
+  ], 
+  "Time": 3252.4, 
+  "Duration": 2.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 3255.5, 
+  "Duration": 2.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Edvard <span class=\"highlight-pink\">Vann</span>"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.041666678673638734
+   ], 
+   [
+    2, 
+    0.041679474875551785
+   ], 
+   [
+    3, 
+    0.70819156469982436
+   ], 
+   [
+    4, 
+    0.041769708040616374
+   ], 
+   [
+    5, 
+    0.041692550606603367
+   ], 
+   [
+    6, 
+    0.041666672141287872
+   ], 
+   [
+    7, 
+    0.04166667542902041
+   ], 
+   [
+    8, 
+    0.041666675533457008
+   ]
+  ], 
+  "Time": 3264.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Edvard Vann"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.041666678680590402
+   ], 
+   [
+    2, 
+    0.041679482459265671
+   ], 
+   [
+    3, 
+    0.70818505710427893
+   ], 
+   [
+    4, 
+    0.041776192617617176
+   ], 
+   [
+    5, 
+    0.041692566021109385
+   ], 
+   [
+    6, 
+    0.041666672144456053
+   ], 
+   [
+    7, 
+    0.041666675434093504
+   ], 
+   [
+    8, 
+    0.041666675538589021
+   ]
+  ], 
+  "Time": 3272.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 7", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "kidnapping", 
+   "abila", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.43870378019927764
+   ], 
+   [
+    3, 
+    0.55743528999312453
+   ]
+  ], 
+  "Time": 3276.2, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 7", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "kidnapping", 
+   "abila", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.43870378019927764
+   ], 
+   [
+    3, 
+    0.55743528999312453
+   ]
+  ], 
+  "Time": 3277.9, 
+  "Duration": 122.3, 
+  "Doc_open_weight": 1.190792790521805, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 7", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "kidnapping", 
+   "abila", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.43870378019927764
+   ], 
+   [
+    3, 
+    0.55743528999312453
+   ]
+  ], 
+  "Time": 3278.0, 
+  "Duration": 121.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 3399.4, 
+  "Duration": 19.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 7", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "kidnapping", 
+   "abila", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.43870378019927764
+   ], 
+   [
+    3, 
+    0.55743528999312453
+   ]
+  ], 
+  "Time": 3400.5, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "pok", 
+   "sanjorge", 
+   "personal"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99434933304085993
+   ]
+  ], 
+  "Time": 3402.8, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "pok", 
+   "sanjorge", 
+   "personal"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99434933304085993
+   ]
+  ], 
+  "Time": 3403.7, 
+  "Duration": 14.8, 
+  "Doc_open_weight": 1.0, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "pok", 
+   "sanjorge", 
+   "personal"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99434933304085993
+   ]
+  ], 
+  "Time": 3404.2, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "pok", 
+   "sanjorge", 
+   "personal"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.99434933304085993
+   ]
+  ], 
+  "Time": 3419.0, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "kronos", 
+   "gas", 
+   "country", 
+   "taxes", 
+   "projects"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.9909919335170474
+   ]
+  ], 
+  "Time": 3422.2, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "kronos", 
+   "gas", 
+   "country", 
+   "taxes", 
+   "projects"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.9909919335170474
+   ]
+  ], 
+  "Time": 3422.9, 
+  "Duration": 19.1, 
+  "Doc_open_weight": 1.0285165112175447, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "kronos", 
+   "gas", 
+   "country", 
+   "taxes", 
+   "projects"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.9909919335170474
+   ]
+  ], 
+  "Time": 3423.0, 
+  "Duration": 18.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "kronos", 
+   "gas", 
+   "country", 
+   "taxes", 
+   "projects"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.9909919335170474
+   ]
+  ], 
+  "Time": 3423.4, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "kronos", 
+   "gas", 
+   "country", 
+   "taxes", 
+   "projects"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.9909919335170474
+   ]
+  ], 
+  "Time": 3442.4, 
+  "Duration": 2.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "kidnapping"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062516733242191577
+   ], 
+   [
+    2, 
+    0.062505971173208094
+   ], 
+   [
+    3, 
+    0.062632407522517433
+   ], 
+   [
+    4, 
+    0.062508138866748678
+   ], 
+   [
+    5, 
+    0.062500001210632178
+   ], 
+   [
+    6, 
+    0.56233674395470423
+   ], 
+   [
+    7, 
+    0.062500002046311107
+   ], 
+   [
+    8, 
+    0.062500001983686729
+   ]
+  ], 
+  "Time": 3453.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "kidnapp"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500021907659298
+   ], 
+   [
+    2, 
+    0.062500005440657022
+   ], 
+   [
+    3, 
+    0.56249990882713496
+   ], 
+   [
+    4, 
+    0.062500013122451972
+   ], 
+   [
+    5, 
+    0.06250000958356601
+   ], 
+   [
+    6, 
+    0.062500009508601767
+   ], 
+   [
+    7, 
+    0.062500015894099314
+   ], 
+   [
+    8, 
+    0.062500015715829582
+   ]
+  ], 
+  "Time": 3455.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3468.0, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3469.0, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3470.7, 
+  "Duration": 98.4, 
+  "Doc_open_weight": 1.1386438114444164, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3470.8, 
+  "Duration": 84.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3474.8, 
+  "Duration": 2.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3555.8, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3557.9, 
+  "Duration": 1.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3569.5, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "illumination", 
+   "homeland", 
+   "jet", 
+   "airport", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.54269282094517868
+   ], 
+   [
+    5, 
+    0.4338517094289408
+   ]
+  ], 
+  "Time": 3570.6, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3571.3, 
+  "Duration": 2.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3573.5, 
+  "Duration": 2.7, 
+  "Doc_open_weight": 1.1386438114444164, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "employees", 
+   "modernizations", 
+   "january"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.92721043703003481
+   ], 
+   [
+    7, 
+    0.048089382770005434
+   ]
+  ], 
+  "Time": 3576.7, 
+  "Duration": 2.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 136", 
+  "tags": [
+   "drug", 
+   "caramel", 
+   "cotton", 
+   "bianca", 
+   "designated"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.99779983248870607
+   ]
+  ], 
+  "Time": 3579.7, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 136", 
+  "tags": [
+   "drug", 
+   "caramel", 
+   "cotton", 
+   "bianca", 
+   "designated"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.99779983248870607
+   ]
+  ], 
+  "Time": 3581.2, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "people", 
+   "employees", 
+   "fire"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.86740996936370984
+   ], 
+   [
+    4, 
+    0.11114471452529366
+   ]
+  ], 
+  "Time": 3582.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3584.1, 
+  "Duration": 2.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3598.0, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 144", 
+  "tags": [
+   "gastech", 
+   "employs", 
+   "modernizations", 
+   "reunion", 
+   "scene"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98213288121185927
+   ]
+  ], 
+  "Time": 3599.8, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 146", 
+  "tags": [
+   "gastech", 
+   "construction", 
+   "police", 
+   "modernizations", 
+   "control"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83086564277027164
+   ], 
+   [
+    3, 
+    0.070153405074930161
+   ], 
+   [
+    5, 
+    0.075810505733920994
+   ]
+  ], 
+  "Time": 3601.0, 
+  "Duration": 3.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 98", 
+  "tags": [
+   "gastech", 
+   "arrived", 
+   "scene", 
+   "haneson", 
+   "blog"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.96498072809443802
+   ]
+  ], 
+  "Time": 3604.3, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 141", 
+  "tags": [
+   "elodis", 
+   "scene", 
+   "gastech", 
+   "police", 
+   "died"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.98631202630012738
+   ]
+  ], 
+  "Time": 3605.7, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 141", 
+  "tags": [
+   "elodis", 
+   "scene", 
+   "gastech", 
+   "police", 
+   "died"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.98631202630012738
+   ]
+  ], 
+  "Time": 3607.3, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 118", 
+  "tags": [
+   "force", 
+   "pok", 
+   "police", 
+   "crowd", 
+   "protestateurs"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.99276233488889898
+   ]
+  ], 
+  "Time": 3609.5, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "international", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99457735441854089
+   ]
+  ], 
+  "Time": 3610.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "tomorrow", 
+   "meet", 
+   "set", 
+   "morning", 
+   "public"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.95621502089224641
+   ]
+  ], 
+  "Time": 3611.2, 
+  "Duration": 1.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 115", 
+  "tags": [
+   "pok", 
+   "police", 
+   "offices", 
+   "abila", 
+   "vehicles"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.98847739436771975
+   ]
+  ], 
+  "Time": 3613.1, 
+  "Duration": 38.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "refuse"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.06250003380448689
+   ], 
+   [
+    2, 
+    0.56227529857977976
+   ], 
+   [
+    3, 
+    0.062500014832350376
+   ], 
+   [
+    4, 
+    0.062500020452078059
+   ], 
+   [
+    5, 
+    0.062500014880550903
+   ], 
+   [
+    6, 
+    0.062650340439060176
+   ], 
+   [
+    7, 
+    0.06257425262679929
+   ], 
+   [
+    8, 
+    0.062500024384894631
+   ]
+  ], 
+  "Time": 3679.8, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 141", 
+  "tags": [
+   "elodis", 
+   "scene", 
+   "gastech", 
+   "police", 
+   "died"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.98631202630012738
+   ]
+  ], 
+  "Time": 3688.8, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 26", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16747131142958796
+   ], 
+   [
+    3, 
+    0.80572401996960241
+   ]
+  ], 
+  "Time": 3690.3, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "death", 
+   "karel", 
+   "elian", 
+   "abila", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.83126454873500777
+   ], 
+   [
+    4, 
+    0.16638139995470064
+   ]
+  ], 
+  "Time": 3693.3, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3698.6, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "international", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99457735441854089
+   ]
+  ], 
+  "Time": 3700.5, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 93", 
+  "tags": [
+   "terrorist", 
+   "force", 
+   "task", 
+   "offices", 
+   "today"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.61027731304765853
+   ], 
+   [
+    6, 
+    0.37139898163465035
+   ]
+  ], 
+  "Time": 3701.9, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "explosion"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500006247024412
+   ], 
+   [
+    2, 
+    0.56249997271600116
+   ], 
+   [
+    3, 
+    0.062500002737738231
+   ], 
+   [
+    4, 
+    0.062500003759919723
+   ], 
+   [
+    5, 
+    0.062500002746350217
+   ], 
+   [
+    6, 
+    0.062500002730478954
+   ], 
+   [
+    7, 
+    0.062500004556767297
+   ], 
+   [
+    8, 
+    0.062500004505720019
+   ]
+  ], 
+  "Time": 3782.9, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "employees", 
+   "away", 
+   "cato"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3789.8, 
+  "Duration": 5.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "employees", 
+   "away", 
+   "cato"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3797.7, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "employees", 
+   "away", 
+   "cato"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3798.6, 
+  "Duration": 166.3, 
+  "Doc_open_weight": 1.254127804386186, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "employees", 
+   "away", 
+   "cato"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3798.7, 
+  "Duration": 149.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "employees", 
+   "away", 
+   "cato"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3799.2, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "employees", 
+   "away", 
+   "cato"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3948.6, 
+  "Duration": 5.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 3949.9, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3951.1, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3952.0, 
+  "Duration": 144.1, 
+  "Doc_open_weight": 1.0456894378623645, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3952.1, 
+  "Duration": 1.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3952.5, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3954.3, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3954.9, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "employees", 
+   "away", 
+   "cato"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3955.7, 
+  "Duration": 5.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "Rebecca Cato said, After sending us away without a single question answered, they came to our doors and told us to leave our homes"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.93747961519086009
+   ]
+  ], 
+  "Time": 3962.8, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "highlight"
+ }, 
+ {
+  "DocNum": " Rebecca Cato said, After sending us away without a single question answered, they came to our doors and told us to leave our homes", 
+  "tags": [
+   " Rebecca Cato said, After sending us away without a single question answered, they came to our doors and told us to leave our homes"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3964.9, 
+  "Duration": 0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "bookmark_highlights"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3965.7, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3966.3, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3968.3, 
+  "Duration": 3.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3970.1, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 3972.9, 
+  "Duration": 21.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "employees", 
+   "away", 
+   "cato"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3976.7, 
+  "Duration": 4.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "employees", 
+   "away", 
+   "cato"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3988.9, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 1.254127804386186, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": " Rebecca Cato said, After sending us away without a single question answered, they came to our doors and told us to leave our homes", 
+  "tags": [
+   " Rebecca Cato said, After sending us away without a single question answered, they came to our doors and told us to leave our homes"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3990.6, 
+  "Duration": 0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "bookmark_highlights"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "employees", 
+   "away", 
+   "cato"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 3991.3, 
+  "Duration": 3.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 3995.2, 
+  "Duration": 101.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 4096.7, 
+  "Duration": 2.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 4100.8, 
+  "Duration": 107.7, 
+  "Doc_open_weight": 1.1614885303755986, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 4100.9, 
+  "Duration": 75.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 4101.4, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 4155.1, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 4173.2, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 4176.5, 
+  "Duration": 27.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 4204.0, 
+  "Duration": 6.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 4210.4, 
+  "Duration": 2.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "update", 
+   "incidents", 
+   "cancer"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.055553506357074706
+   ], 
+   [
+    8, 
+    0.93488560521516884
+   ]
+  ], 
+  "Time": 4214.3, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 4215.8, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 4216.6, 
+  "Duration": 2.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 4222.8, 
+  "Duration": 0.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "gastech", 
+   "police", 
+   "employs", 
+   "blog", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.16922498597005164
+   ], 
+   [
+    3, 
+    0.81033602366015145
+   ]
+  ], 
+  "Time": 4223.7, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 1.1614885303755986, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 4226.2, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "year", 
+   "karel", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.012561114389601171
+   ], 
+   [
+    3, 
+    0.80140502538653102
+   ], 
+   [
+    5, 
+    0.029509707185641606
+   ], 
+   [
+    7, 
+    0.15415511334802276
+   ]
+  ], 
+  "Time": 4227.6, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "year", 
+   "karel", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.012561114389601171
+   ], 
+   [
+    3, 
+    0.80140502538653102
+   ], 
+   [
+    5, 
+    0.029509707185641606
+   ], 
+   [
+    7, 
+    0.15415511334802276
+   ]
+  ], 
+  "Time": 4228.3, 
+  "Duration": 6.2, 
+  "Doc_open_weight": 1.008035039072347, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "year", 
+   "karel", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.012561114389601171
+   ], 
+   [
+    3, 
+    0.80140502538653102
+   ], 
+   [
+    5, 
+    0.029509707185641606
+   ], 
+   [
+    7, 
+    0.15415511334802276
+   ]
+  ], 
+  "Time": 4228.4, 
+  "Duration": 5.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "year", 
+   "karel", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.012561114389601171
+   ], 
+   [
+    3, 
+    0.80140502538653102
+   ], 
+   [
+    5, 
+    0.029509707185641606
+   ], 
+   [
+    7, 
+    0.15415511334802276
+   ]
+  ], 
+  "Time": 4229.0, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "pok", 
+   "kronos", 
+   "year", 
+   "karel", 
+   "abila"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.012561114389601171
+   ], 
+   [
+    3, 
+    0.80140502538653102
+   ], 
+   [
+    5, 
+    0.029509707185641606
+   ], 
+   [
+    7, 
+    0.15415511334802276
+   ]
+  ], 
+  "Time": 4233.0, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 4235.1, 
+  "Duration": 2.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 4235.6, 
+  "Duration": 2.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Cato"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500010862202859
+   ], 
+   [
+    2, 
+    0.56249995259588859
+   ], 
+   [
+    3, 
+    0.062500004761218475
+   ], 
+   [
+    4, 
+    0.06250000653384323
+   ], 
+   [
+    5, 
+    0.062500004765535841
+   ], 
+   [
+    6, 
+    0.0625000047505435
+   ], 
+   [
+    7, 
+    0.062500007912855496
+   ], 
+   [
+    8, 
+    0.062500007817911971
+   ]
+  ], 
+  "Time": 4246.0, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 42", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "assembly", 
+   "increased"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98986210359676563
+   ]
+  ], 
+  "Time": 4248.6, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 42", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "assembly", 
+   "increased"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98986210359676563
+   ]
+  ], 
+  "Time": 4250.0, 
+  "Duration": 27.8, 
+  "Doc_open_weight": 1.0401751953617344, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 42", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "assembly", 
+   "increased"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98986210359676563
+   ]
+  ], 
+  "Time": 4250.1, 
+  "Duration": 25.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 42", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "assembly", 
+   "increased"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98986210359676563
+   ]
+  ], 
+  "Time": 4250.6, 
+  "Duration": 1.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 42", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "assembly", 
+   "increased"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98986210359676563
+   ]
+  ], 
+  "Time": 4274.3, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 42", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "assembly", 
+   "increased"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98986210359676563
+   ]
+  ], 
+  "Time": 4278.3, 
+  "Duration": 2.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 43", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "tethys", 
+   "modernizations", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.67552300557463574
+   ], 
+   [
+    6, 
+    0.29946522868507708
+   ]
+  ], 
+  "Time": 4282.2, 
+  "Duration": 2.5, 
+  "Doc_open_weight": 1.0, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "tomorrow", 
+   "meet", 
+   "set", 
+   "morning", 
+   "public"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.95621502089224641
+   ]
+  ], 
+  "Time": 4285.2, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "tomorrow", 
+   "meet", 
+   "set", 
+   "morning", 
+   "public"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.95621502089224641
+   ]
+  ], 
+  "Time": 4285.9, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 1.0, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 87", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "update", 
+   "kronos", 
+   "reporter"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.84612173295889126
+   ], 
+   [
+    4, 
+    0.1260773802018974
+   ]
+  ], 
+  "Time": 4288.6, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 1.0, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 53", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98652865855757454
+   ]
+  ], 
+  "Time": 4290.4, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 53", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "police", 
+   "abila", 
+   "news"
+  ], 
+  "ClassNum": [
+   [
+    6, 
+    0.98652865855757454
+   ]
+  ], 
+  "Time": 4291.2, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 1.0, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 79", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "international", 
+   "wfa", 
+   "claiming"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.52680662202696471
+   ], 
+   [
+    3, 
+    0.46164287045179087
+   ]
+  ], 
+  "Time": 4293.9, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 1.0, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 131", 
+  "tags": [
+   "illumination", 
+   "homeland", 
+   "gerhard", 
+   "limousine", 
+   "droves"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.44736812291190747
+   ], 
+   [
+    2, 
+    0.26086620878623579
+   ], 
+   [
+    5, 
+    0.27486636291016775
+   ]
+  ], 
+  "Time": 4296.6, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 1.0, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 76", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "gas", 
+   "kronos", 
+   "protectors"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99189269804265578
+   ]
+  ], 
+  "Time": 4298.1, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 76", 
+  "tags": [
+   "demonstration", 
+   "groups", 
+   "gas", 
+   "kronos", 
+   "protectors"
+  ], 
+  "ClassNum": [
+   [
+    4, 
+    0.99189269804265578
+   ]
+  ], 
+  "Time": 4299.3, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 1.0, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Rebecca <span class=\"highlight-pink\">Cato</span>"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.041666679986111121
+   ], 
+   [
+    2, 
+    0.70833327531132539
+   ], 
+   [
+    3, 
+    0.041666672457153872
+   ], 
+   [
+    4, 
+    0.041666674689609072
+   ], 
+   [
+    5, 
+    0.04166667247186305
+   ], 
+   [
+    6, 
+    0.041666672445035066
+   ], 
+   [
+    7, 
+    0.041666676380552686
+   ], 
+   [
+    8, 
+    0.041666676258349598
+   ]
+  ], 
+  "Time": 4308.3, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "gastech", 
+   "explosion", 
+   "employees", 
+   "away", 
+   "cato"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99502336365521138
+   ]
+  ], 
+  "Time": 4313.8, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 4315.2, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "explosion+"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500006245291964
+   ], 
+   [
+    2, 
+    0.56249997271787977
+   ], 
+   [
+    3, 
+    0.062500002736232504
+   ], 
+   [
+    4, 
+    0.062500003759425868
+   ], 
+   [
+    5, 
+    0.062500002746922259
+   ], 
+   [
+    6, 
+    0.062500002732527413
+   ], 
+   [
+    7, 
+    0.062500004556392333
+   ], 
+   [
+    8, 
+    0.062500004505327916
+   ]
+  ], 
+  "Time": 4319.5, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "explosion"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500006243979667
+   ], 
+   [
+    2, 
+    0.56249997273089114
+   ], 
+   [
+    3, 
+    0.062500002736442795
+   ], 
+   [
+    4, 
+    0.062500003758120815
+   ], 
+   [
+    5, 
+    0.062500002744605487
+   ], 
+   [
+    6, 
+    0.062500002731145032
+   ], 
+   [
+    7, 
+    0.062500004554681313
+   ], 
+   [
+    8, 
+    0.062500004500133627
+   ]
+  ], 
+  "Time": 4321.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "poison"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062500008207869634
+   ], 
+   [
+    2, 
+    0.062500002037544938
+   ], 
+   [
+    3, 
+    0.062500003600725662
+   ], 
+   [
+    4, 
+    0.56238071657268485
+   ], 
+   [
+    5, 
+    0.062619253574247802
+   ], 
+   [
+    6, 
+    0.062500003595403558
+   ], 
+   [
+    7, 
+    0.062500005988525245
+   ], 
+   [
+    8, 
+    0.062500006422998383
+   ]
+  ], 
+  "Time": 4333.9, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 57", 
+  "tags": [
+   "gastech", 
+   "abila", 
+   "january", 
+   "scene", 
+   "haneson"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9583106579431655
+   ]
+  ], 
+  "Time": 4338.4, 
+  "Duration": 5.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "pok", 
+   "kapelou", 
+   "call", 
+   "president", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.98666199147886202
+   ]
+  ], 
+  "Time": 4345.2, 
+  "Duration": 2.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "pok", 
+   "kapelou", 
+   "call", 
+   "president", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.98666199147886202
+   ]
+  ], 
+  "Time": 4350.1, 
+  "Duration": 5.5, 
+  "Doc_open_weight": 1.0300920090748678, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "pok", 
+   "kapelou", 
+   "call", 
+   "president", 
+   "kronos"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.98666199147886202
+   ]
+  ], 
+  "Time": 4356.0, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 140", 
+  "tags": [
+   "pok", 
+   "abila", 
+   "annual", 
+   "force", 
+   "riot"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.97667630453034626
+   ]
+  ], 
+  "Time": 4357.2, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 140", 
+  "tags": [
+   "pok", 
+   "abila", 
+   "annual", 
+   "force", 
+   "riot"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.97667630453034626
+   ]
+  ], 
+  "Time": 4358.2, 
+  "Duration": 5.7, 
+  "Doc_open_weight": 1.00756238971515, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 140", 
+  "tags": [
+   "pok", 
+   "abila", 
+   "annual", 
+   "force", 
+   "riot"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.97667630453034626
+   ]
+  ], 
+  "Time": 4358.3, 
+  "Duration": 4.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 140", 
+  "tags": [
+   "pok", 
+   "abila", 
+   "annual", 
+   "force", 
+   "riot"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.97667630453034626
+   ]
+  ], 
+  "Time": 4358.9, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 140", 
+  "tags": [
+   "pok", 
+   "abila", 
+   "annual", 
+   "force", 
+   "riot"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.97667630453034626
+   ]
+  ], 
+  "Time": 4364.4, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "international", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99457735441854089
+   ]
+  ], 
+  "Time": 4366.6, 
+  "Duration": 8.8, 
+  "Doc_open_weight": 1.0017330476430553, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "international", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99457735441854089
+   ]
+  ], 
+  "Time": 4366.7, 
+  "Duration": 1.1, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "international", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99457735441854089
+   ]
+  ], 
+  "Time": 4367.7, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "international", 
+   "employees"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.99457735441854089
+   ]
+  ], 
+  "Time": 4375.9, 
+  "Duration": 1.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 57", 
+  "tags": [
+   "gastech", 
+   "abila", 
+   "january", 
+   "scene", 
+   "haneson"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9583106579431655
+   ]
+  ], 
+  "Time": 4378.5, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 57", 
+  "tags": [
+   "gastech", 
+   "abila", 
+   "january", 
+   "scene", 
+   "haneson"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.9583106579431655
+   ]
+  ], 
+  "Time": 4380.0, 
+  "Duration": 4.6, 
+  "Doc_open_weight": 1.0, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 87", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "update", 
+   "kronos", 
+   "reporter"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.84612173295889126
+   ], 
+   [
+    4, 
+    0.1260773802018974
+   ]
+  ], 
+  "Time": 4385.3, 
+  "Duration": 0.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 136", 
+  "tags": [
+   "drug", 
+   "caramel", 
+   "cotton", 
+   "bianca", 
+   "designated"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.99779983248870607
+   ]
+  ], 
+  "Time": 4385.9, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "mystery"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.125
+   ], 
+   [
+    2, 
+    0.125
+   ], 
+   [
+    3, 
+    0.125
+   ], 
+   [
+    4, 
+    0.125
+   ], 
+   [
+    5, 
+    0.125
+   ], 
+   [
+    6, 
+    0.125
+   ], 
+   [
+    7, 
+    0.125
+   ], 
+   [
+    8, 
+    0.125
+   ]
+  ], 
+  "Time": 4419.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "mystery"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.125
+   ], 
+   [
+    2, 
+    0.125
+   ], 
+   [
+    3, 
+    0.125
+   ], 
+   [
+    4, 
+    0.125
+   ], 
+   [
+    5, 
+    0.125
+   ], 
+   [
+    6, 
+    0.125
+   ], 
+   [
+    7, 
+    0.125
+   ], 
+   [
+    8, 
+    0.125
+   ]
+  ], 
+  "Time": 4429.4, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "mystary"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.125
+   ], 
+   [
+    2, 
+    0.125
+   ], 
+   [
+    3, 
+    0.125
+   ], 
+   [
+    4, 
+    0.125
+   ], 
+   [
+    5, 
+    0.125
+   ], 
+   [
+    6, 
+    0.125
+   ], 
+   [
+    7, 
+    0.125
+   ], 
+   [
+    8, 
+    0.125
+   ]
+  ], 
+  "Time": 4433.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 4440.0, 
+  "Duration": 2.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "gas", 
+   "taxes", 
+   "health", 
+   "today", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    7, 
+    0.98958851722975805
+   ]
+  ], 
+  "Time": 4441.0, 
+  "Duration": 5.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "stewardship"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.125
+   ], 
+   [
+    2, 
+    0.125
+   ], 
+   [
+    3, 
+    0.125
+   ], 
+   [
+    4, 
+    0.125
+   ], 
+   [
+    5, 
+    0.125
+   ], 
+   [
+    6, 
+    0.125
+   ], 
+   [
+    7, 
+    0.125
+   ], 
+   [
+    8, 
+    0.125
+   ]
+  ], 
+  "Time": 4469.4, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "new-found"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.041666674349018953
+   ], 
+   [
+    2, 
+    0.04169766877369422
+   ], 
+   [
+    3, 
+    0.041685126465417416
+   ], 
+   [
+    4, 
+    0.041675255899713451
+   ], 
+   [
+    5, 
+    0.041710615544959841
+   ], 
+   [
+    6, 
+    0.70813169613343674
+   ], 
+   [
+    7, 
+    0.041688059679096098
+   ], 
+   [
+    8, 
+    0.041744903154663379
+   ]
+  ], 
+  "Time": 4480.7, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "missing"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.062556948616624572
+   ], 
+   [
+    2, 
+    0.06250676035984043
+   ], 
+   [
+    3, 
+    0.062573199931003728
+   ], 
+   [
+    4, 
+    0.062507942938593311
+   ], 
+   [
+    5, 
+    0.062500001945050593
+   ], 
+   [
+    6, 
+    0.56235513976709517
+   ], 
+   [
+    7, 
+    0.062500003254365014
+   ], 
+   [
+    8, 
+    0.062500003187427267
+   ]
+  ], 
+  "Time": 4498.6, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "kronos", 
+   "employees", 
+   "demanding"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.97601397065931272
+   ]
+  ], 
+  "Time": 4501.2, 
+  "Duration": 6.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 34", 
+  "tags": [
+   "hospital", 
+   "abila", 
+   "new", 
+   "construction", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.99192073534862213
+   ]
+  ], 
+  "Time": 4508.0, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "kronos", 
+   "employees", 
+   "demanding"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.97601397065931272
+   ]
+  ], 
+  "Time": 4510.7, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "kronos", 
+   "employees", 
+   "demanding"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.97601397065931272
+   ]
+  ], 
+  "Time": 4542.8, 
+  "Duration": 191.7, 
+  "Doc_open_weight": 1.0727880010083186, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "kronos", 
+   "employees", 
+   "demanding"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.97601397065931272
+   ]
+  ], 
+  "Time": 4542.9, 
+  "Duration": 38.8, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "kronos", 
+   "employees", 
+   "demanding"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.97601397065931272
+   ]
+  ], 
+  "Time": 4581.9, 
+  "Duration": 7.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "gastech", 
+   "kidnapping", 
+   "kronos", 
+   "employees", 
+   "demanding"
+  ], 
+  "ClassNum": [
+   [
+    3, 
+    0.97601397065931272
+   ]
+  ], 
+  "Time": 4588.7, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "tomorrow", 
+   "recent", 
+   "meet"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.98009843646193895
+   ]
+  ], 
+  "Time": 4590.5, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 34", 
+  "tags": [
+   "hospital", 
+   "abila", 
+   "new", 
+   "construction", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.99192073534862213
+   ]
+  ], 
+  "Time": 4591.6, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 34", 
+  "tags": [
+   "hospital", 
+   "abila", 
+   "new", 
+   "construction", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.99192073534862213
+   ]
+  ], 
+  "Time": 4592.9, 
+  "Duration": 141.6, 
+  "Doc_open_weight": 1.0018905974287875, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 34", 
+  "tags": [
+   "hospital", 
+   "abila", 
+   "new", 
+   "construction", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.99192073534862213
+   ]
+  ], 
+  "Time": 4593.0, 
+  "Duration": 1.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 34", 
+  "tags": [
+   "hospital", 
+   "abila", 
+   "new", 
+   "construction", 
+   "general"
+  ], 
+  "ClassNum": [
+   [
+    8, 
+    0.99192073534862213
+   ]
+  ], 
+  "Time": 4594.1, 
+  "Duration": 1.4, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 13", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "missing", 
+   "blog", 
+   "important"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.96511631281583277
+   ]
+  ], 
+  "Time": 4651.2, 
+  "Duration": 1.0, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 13", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "missing", 
+   "blog", 
+   "important"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.96511631281583277
+   ]
+  ], 
+  "Time": 4652.3, 
+  "Duration": 82.2, 
+  "Doc_open_weight": 1.0020481472145197, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 13", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "missing", 
+   "blog", 
+   "important"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.96511631281583277
+   ]
+  ], 
+  "Time": 4652.4, 
+  "Duration": 1.3, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 13", 
+  "tags": [
+   "gastech", 
+   "employees", 
+   "missing", 
+   "blog", 
+   "important"
+  ], 
+  "ClassNum": [
+   [
+    1, 
+    0.96511631281583277
+   ]
+  ], 
+  "Time": 4652.7, 
+  "Duration": 1.6, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 40", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "president", 
+   "celebrating"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.6512209882397435
+   ], 
+   [
+    6, 
+    0.34199472672060804
+   ]
+  ], 
+  "Time": 4667.3, 
+  "Duration": 67.2, 
+  "Doc_open_weight": 1.083816486009579, 
+  "InteractionType": "open_document"
+ }, 
+ {
+  "DocNum": "Disappearance 40", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "president", 
+   "celebrating"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.6512209882397435
+   ], 
+   [
+    6, 
+    0.34199472672060804
+   ]
+  ], 
+  "Time": 4667.4, 
+  "Duration": 53.2, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "reading_document"
+ }, 
+ {
+  "DocNum": "Disappearance 40", 
+  "tags": [
+   "gastech", 
+   "kronos", 
+   "abila", 
+   "president", 
+   "celebrating"
+  ], 
+  "ClassNum": [
+   [
+    2, 
+    0.6512209882397435
+   ], 
+   [
+    6, 
+    0.34199472672060804
+   ]
+  ], 
+  "Time": 4667.8, 
+  "Duration": 1.5, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "moving_document"
+ }, 
+ {
+  "DocNum": "Disappearance 24", 
+  "tags": [
+   "pok", 
+   "force", 
+   "protestors", 
+   "mob", 
+   "police"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.99264036232172392
+   ]
+  ], 
+  "Time": 4726.5, 
+  "Duration": 0.7, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }, 
+ {
+  "DocNum": "Disappearance 24", 
+  "tags": [
+   "pok", 
+   "force", 
+   "protestors", 
+   "mob", 
+   "police"
+  ], 
+  "ClassNum": [
+   [
+    5, 
+    0.99264036232172392
+   ]
+  ], 
+  "Time": 4727.5, 
+  "Duration": 0.9, 
+  "Doc_open_weight": 0, 
+  "InteractionType": "brush_document_title"
+ }
+]

@@ -1,5 +1,5 @@
 
-
+//---------------------------------- Top View --------------------
 d3.select("div#chart1")
    .append("div")
    .classed("svg-container", true) //container class to make it responsive
@@ -11,12 +11,10 @@ d3.select("div#chart1")
    //class to make it responsive
    .classed("svg-content-responsive", true); 
 
+//---------------------------------- Responsive SVG --------------------
 var svg = d3.select(".svg1");
-    // width = +svg.attr("width"),
-    // height = +svg.attr("height"),
     radius = 10;
-    // Aspect ratio is 100 35
-    var ratio = 25
+    var ratio = 25       // Aspect ratio starts with 100 25
     var width = 1200;
     var height = 1200 * ratio / 100;
     
@@ -24,12 +22,10 @@ var svg = d3.select(".svg1");
 
     d3.select(".svg-container").style("padding-bottom", ratio+"%") 
     
-    updateWindow();
-
-    d3.select(".svg1").attr("viewBox","0 0 " + width + " " + height)
-
+    updateWindow_top();
+    // updateWindow_down();
     
-    function updateWindow(){
+    function updateWindow_top(){
         var w = window,
             d = document,
             e = d.documentElement,
@@ -37,33 +33,33 @@ var svg = d3.select(".svg1");
             x = w.innerWidth || e.clientWidth || g.clientWidth,
             y = w.innerHeight|| e.clientHeight|| g.clientHeight;
 
-        console.log("window: ", w.innerHeight, "top: ", g.clientHeight, "down", down_height)     
-
         down_height = 1200 * ratio / 100;
+        // console.log("window: ", w.innerHeight,">",(g.clientHeight + down_height), "top: ", g.clientHeight, "down", down_height)     
 
-        if ( (w.innerHeight - (g.clientHeight + down_height)) > 100) {
+        // if ( (w.innerHeight - (g.clientHeight + down_height)) > 150) {
+        if ((ratio < 80) & ( (w.innerHeight - (g.clientHeight * 2)) > 50)) {
             ratio = ratio+0.5;
             d3.select(".svg-container").style("padding-bottom", ratio+"%") 
-            updateWindow()
+            // console.log("ratio ", ratio)
+            updateWindow_top()
         }
 
-        if ( ((g.clientHeight + down_height) - w.innerHeight) > 50) {
+        if ((ratio > 1) & ( ((g.clientHeight * 2) - w.innerHeight) > 20)) {
             ratio = ratio-0.5;
             d3.select(".svg-container").style("padding-bottom", ratio+"%") 
-            console.log("ratio ", ratio)
-
-            updateWindow()
+            // console.log("ratio ", ratio)
+            updateWindow_top()
         }
 
         height = 1200 * ratio / 100;
         d3.select(".svg1").attr("viewBox","0 0 " + width + " " + height)
-
         
     }
 
-    // d3.select(window).on('resize.updatesvg', updateWindow);
+    d3.select(window).on('resize.updatesvg', updateWindow_top);
 
     svg.append("rect")
+            .attr("class","top-rect")
             .attr("x", 0)
             .attr("y", 0)
             .attr("height", height)
