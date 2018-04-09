@@ -7,7 +7,7 @@ d3.select("div#chart1")
    .attr("class", "svg_data")
    //responsive SVG needs these 2 attributes and no width and height attr
    .attr("preserveAspectRatio", "xMinYMin meet")
-   .attr("viewBox", "0 0 600 600")
+   .attr("viewBox", "0 0 600 600")  
    //class to make it responsive
    .classed("svg-content-responsive", true); 
 
@@ -102,7 +102,7 @@ d3.select("div#chart1")
         .on("zoom", zoomed_up);
 
 
-    d3.csv('cities.csv', function (cities) {
+    d3.csv('./cluster/cities.csv', function (cities) {
 
         const data = cities
             .sort((a, b) => d3.descending(+a[2015], +b[2015]))
@@ -160,16 +160,16 @@ d3.select("div#chart1")
           .append('title')
           .text(d => d.name); 
           
-          enter
-          .filter(d => d.r > 7)
-          .append('text')
-          .attr('fill', 'white')
-          .attr("class", "docs")
-          .style('font-size', d => d.r > 9 ? '12px' : '9px')
-          .attr('text-anchor', 'middle')
-          .attr('dominant-baseline', 'middle')
-          .attr('pointer-events', 'none')
-          .text(d => d.name.substring(0,2));
+          // enter
+          // .filter(d => d.r > 7)
+          // .append('text')
+          // .attr('fill', 'white')
+          // .attr("class", "docs")
+          // .style('font-size', d => d.r > 9 ? '12px' : '9px')
+          // .attr('text-anchor', 'middle')
+          // .attr('dominant-baseline', 'middle')
+          // .attr('pointer-events', 'none')
+          // .text(d => d.name.substring(0,2));
           
           g.attr('transform', d => `translate(${d.x},${d.y})`);
 

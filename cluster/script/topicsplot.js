@@ -17,6 +17,7 @@ d3.select("div#chart2")
         xz_scale = d3.event.transform.rescaleX(x_scale);
         svg_topics.selectAll(".datapoints").attr("cx", function(d){return xz_scale(d.Time); });
         svg_topics.selectAll(".time_lapse").attr("x", function(d){return xz_scale(d);});
+        svg_topics.selectAll(".time_lapse2").attr("x", function(d){return xz_scale(d);});
 
       }
 
@@ -76,7 +77,7 @@ d3.select("div#chart2")
 //---------------------------------- View Elements and Variables --------------------
 
 
-    var topic_num = 6; dataset = "arms"; participant = "P1"
+    var topic_num = 6; dataset = "Arms"; participant = "P1"
     var time_weight = 100, topic_weight = 0, action_weight = 400, cluster_weight = 20;
     var each_time_sec;
     var points_size = 10;
@@ -132,7 +133,7 @@ d3.select("div#chart2")
 
       d3.select(".svg_topics").selectAll(".datapoint").remove();
 
-    d3.json("cluster/data/Dataset_1/Topic_Events_Provenance/"+dataset.toString()+"_"+participant.toString()+"_timetopics_"+topic_num.toString()+".json", function(jsondata) {
+    d3.json("cluster/data/Dataset_"+dataset+"/Topic_Events_Provenance/"+dataset.toString()+"_"+participant.toString()+"_timetopics_"+topic_num.toString()+".json", function(jsondata) {
       var full_jsondata = []
       dataXRange.min = 0 
       dataXRange.max = d3.max(jsondata, function(d) { return d.Time; }) * 1.00;
@@ -160,7 +161,7 @@ d3.select("div#chart2")
 
       v_scale = d3.scaleLinear().domain([0, 1.0]).range([1, 10]);
 
-      d3.select(".svg_topics").selectAll(".datapoint").data(full_jsondata).enter().append("circle")
+      d3.select(".svg_topics").selectAll(".datapoints").data(full_jsondata).enter().append("circle")
         .attr("class","datapoints")
         .attr("cx", function(d){return x_scale(d.Time);})
         .attr("cy", function(d){
@@ -174,7 +175,8 @@ d3.select("div#chart2")
 
      
       // ------------- Generating time laps --------------          
-      var time_lapse_dur = dataXRange.max / 20;  // 20 in total 
+      // var time_lapse_dur = dataXRange.max / 20;  // 20 in total 
+      time_lapse_dur = 5 * 60;
 
       var time_lapse_data = d3.range(20).map(function(i) {
                         return i * time_lapse_dur;
@@ -185,6 +187,15 @@ d3.select("div#chart2")
         .attr("class","time_lapse")
         .attr("x", function(d) {return x_scale(d);}) 
         .attr("y", height - 10)
+        .attr("width", 2)
+        .attr("height", 10)
+        .attr("fill", "red");
+
+      svg_topics.selectAll(".time_lapse2").data(time_lapse_data).enter()
+        .append("rect")
+        .attr("class","time_lapse2")
+        .attr("x", function(d) {return x_scale(d);}) 
+        .attr("y", 0)
         .attr("width", 2)
         .attr("height", 10)
         .attr("fill", "red");
