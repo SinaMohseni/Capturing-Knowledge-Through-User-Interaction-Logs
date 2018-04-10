@@ -37,7 +37,8 @@ d3.select("div#chart2")
     d3.select(".svg2-container").style("padding-bottom", ratio+"%") 
     // updateWindow_down();
     
-    
+    var full_jsondata = []
+
     function updateWindow_down(){
         var w = window,
             d = document,
@@ -54,10 +55,12 @@ d3.select("div#chart2")
 
 //---------------------------------- Input Elements --------------------
 
-    d3.select("#topic_time_slider").on("input", function() {
+    d3.select("#time_slider").on("input", function() {
       time_weight = +this.value;
-      // console.log("time_weight", time_weight)
-      distanceFunction();
+    });
+
+    d3.select("#topic_slider").on("input", function() {
+      topic_weight = +this.value;
     });
 
     d3.selectAll(".checkmark_container").on("change", function() {
@@ -78,7 +81,7 @@ d3.select("div#chart2")
 
 
     var topic_num = 6; dataset = "Arms"; participant = "P1"
-    var time_weight = 100, topic_weight = 0, action_weight = 400, cluster_weight = 20;
+    var time_weight = 50, topic_weight = 60, action_weight = 30, activity_weight = 30, cluster_weight = 20;
     var each_time_sec;
     var points_size = 10;
     var Axis_room = 50;
@@ -134,7 +137,7 @@ d3.select("div#chart2")
       d3.select(".svg_topics").selectAll(".datapoint").remove();
 
     d3.json("cluster/data/Dataset_"+dataset+"/Topic_Events_Provenance/"+dataset.toString()+"_"+participant.toString()+"_timetopics_"+topic_num.toString()+".json", function(jsondata) {
-      var full_jsondata = []
+      full_jsondata = []
       dataXRange.min = 0 
       dataXRange.max = d3.max(jsondata, function(d) { return d.Time; }) * 1.00;
       
@@ -171,7 +174,7 @@ d3.select("div#chart2")
         .attr("r",function(d){ return v_scale(d.value) ;}) //(points_size * d.value);})
         .style("stroke","none")
         .attr("fill",function(d, i) { return colors(d.topic); })
-        .style("fill-opacity",  function(d){ return 0.8; });
+        .style("fill-opacity",  function(d){ return 0.9; });
 
      
       // ------------- Generating time laps --------------          
@@ -209,7 +212,7 @@ d3.select("div#chart2")
       
       // -------------- Animated zoom in ---------------
       var d0 = 0; 
-          d1 = 3000; 
+          d1 = 5000; 
 
       svg_topics.transition().duration(150)
       .call(zoom.transform, d3.zoomIdentity
@@ -241,8 +244,8 @@ function minor_topics(jsondata){
       // for (j=0;j<Object.keys(jsondata).length;j++){    // Copy jsondata into a new array
       //   full_jsondata.push(jsondata[j])
       // }
-      console.log(Object.keys(jsondata).length , jsondata)      
-      test = 0
+      // console.log(Object.keys(jsondata).length , jsondata)      
+      index_counter = 0
       jsondata.forEach(function(d,i){
 
                  temp = [];
@@ -252,17 +255,12 @@ function minor_topics(jsondata){
                  }
 
                 index_ = d3.scan(temp, function(a, b) { return b - a; })   // maximum index;
-                // d["topic"] = d.ClassNum[index_][0]
                 this_topic = d.ClassNum[index_][0]
                 
                 for (var ii=0; ii<d.ClassNum.length; ii++){
                     temp2 = d.ClassNum[ii];
-                    new_jsondata.push({"DocNum":d.DocNum,"tags": d.tags,"y":temp2[0],"value":temp2[1],"topic": this_topic,"Time": d.Time, "InteractionType": d.InteractionType})
-                    test++;
-                    if (test == 7){
-                      console.log(new_jsondata)
-                      
-                    }
+                    new_jsondata.push({"DocNum":d.DocNum,"tags": d.tags,"y":temp2[0],"value":temp2[1],"topic": this_topic,"Time": d.Time, "InteractionType": d.InteractionType, cluster: 0, itr_index: index_counter})
+                    index_counter +=1
                 }
       })  // End of forEach loop ----------
 
@@ -272,6 +270,6 @@ function minor_topics(jsondata){
 
 function distanceFunction() {
 
-console.log("I'm here!@ ")
+console.log("I'm here!")
 
 }

@@ -13,22 +13,32 @@
     <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
       
-      <!-- Time/Topic slider  -->
       <a class="slidecontainer">
-        Time-Topic Ratio:
+        Time Ratio:
         <p2  style= "position: relative; top: 10px">
-        <input type="range" min="0" max="100" value = "100" id="topic_time_slider" class="slider";>
+        <input type="range" min="20" max="80" value = "50" id="time_slider" class="slider";>
+        </p2> 
+      </a>
+      <a class="slidecontainer">
+        Topic Transition Ratio:
+        <p2  style= "position: relative; top: 10px; font:bold; ">
+        <input type="range" min="1" max="100" value = "40" id="topic_slider" class="slider";>
+        </p2> 
+      </a>
+      <a class="slidecontainer">
+        Activity Ratio:
+        <p2  style= "position: relative; top: 10px">
+        <input type="range" min="1" max="100" value = "30" id="activity_slider" class="slider";>
         </p2> 
       </a>
 
-      <a onclick="distanceFunction()" style= "padding-top: 100px"> Cluster Numbers: </a>
-      <a onclick="distanceFunction()"> >> 1 </a>
-      <a onclick="distanceFunction()"> >> 2 </a>
-      <a onclick="distanceFunction()"> >> 3 </a>
-      <a onclick="distanceFunction()"> >> 4 </a>
-      <a onclick="distanceFunction()"> >> 5 </a>
-      <a onclick="distanceFunction()"> >> 6 </a>
-      <!-- <a href="#">Services</a> -->
+
+      <a style= "padding-top: 100px">  </a> <!-- Run Clustering: -->
+      <a onclick="time_clustering()"> Time Clustering </a>
+      <a onclick="topic_clustering1()"> Topics Clustering </a>
+      <a onclick="actions_clustering()"> User Action Clustering </a>
+      <a onclick="activity_clustering()"> Activity Clustering </a>
+      
 
     </div>
 
@@ -36,7 +46,7 @@
 
         <div class="navbar">
           <a onclick="openNav()"> Clustrting Ratio</a>
-          <a href="#news">Properties</a>
+          <a onclick="time_clustering()">Properties</a>
           <div class="dropdown">
             <button class="dropbtn">Number of Topics
               <i class="fa fa-caret-down"></i>
@@ -269,6 +279,9 @@
     
     <script src="./cluster/script/dataplot.js"> </script>
     <script src="./cluster/script/topicsplot.js"> </script>
+    <script src="./cluster/script/clustering.js"> </script>
+    <script src="./cluster/script/dbscan.js"> </script>
+
     
     <!-- <script src="./words.js"> </script> -->
 
