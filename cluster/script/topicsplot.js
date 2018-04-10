@@ -38,6 +38,7 @@ d3.select("div#chart2")
     // updateWindow_down();
     
     var full_jsondata = []
+    // var data = [];
 
     function updateWindow_down(){
         var w = window,
@@ -63,6 +64,18 @@ d3.select("div#chart2")
       topic_weight = +this.value;
     });
 
+    d3.select("#time_topic_slider").on("input", function() {
+      time_topic_weight = +this.value;
+    });
+
+    d3.select("#action_slider").on("input", function() {
+      action_weight = +this.value;
+    });
+
+    d3.select("#activity_slider").on("input", function() {
+      activity_weight = +this.value;
+    });
+
     d3.selectAll(".checkmark_container").on("change", function() {
       check_mark = +this.value;
       // console.log("time_weight", check_mark)
@@ -79,9 +92,8 @@ d3.select("div#chart2")
 
 //---------------------------------- View Elements and Variables --------------------
 
-
     var topic_num = 6; dataset = "Arms"; participant = "P1"
-    var time_weight = 50, topic_weight = 60, action_weight = 30, activity_weight = 30, cluster_weight = 20;
+    var time_weight = 50, topic_weight = 60, time_topic_weight = 60, action_weight = 30, activity_weight = 30;
     var each_time_sec;
     var points_size = 10;
     var Axis_room = 50;
@@ -134,22 +146,39 @@ d3.select("div#chart2")
 
     function init(){
 
-      d3.select(".svg_topics").selectAll(".datapoint").remove();
 
-    d3.json("cluster/data/Dataset_"+dataset+"/Topic_Events_Provenance/"+dataset.toString()+"_"+participant.toString()+"_timetopics_"+topic_num.toString()+".json", function(jsondata) {
+      d3.select(".svg_topics").selectAll(".datapoints").remove();
+      d3.select(".svg_topics").selectAll(".time_lapse").remove();
+      d3.select(".svg_topics").selectAll(".time_lapse2").remove();
+      d3.select(".svg_topics").selectAll(".time_line").remove();
+
       full_jsondata = []
-      dataXRange.min = 0 
-      dataXRange.max = d3.max(jsondata, function(d) { return d.Time; }) * 1.00;
-      
-      x_scale = d3.scaleLinear().domain([dataXRange.min, dataXRange.max]).range([points_size, width - points_size]);
+        
 
-      // Finding the maximum duration of documents reading time 
-      dur_max = d3.max(jsondata, function(d) { if (d.InteractionType == "reading_document") {return d.Duration;}else{return 0;} })
-      dur_min = d3.min(jsondata, function(d) { if (d.InteractionType == "reading_document") {return d.Duration;}else{return 1000;} })
+      dbscan_state = {eps: 50, minPoints: 4, cluster: 0, index: 0, neigh: [], phase: "choose"};
+      // data = [];
+        
+      new_json = []
       
-      full_jsondata = minor_topics(jsondata);
-      draw(full_jsondata)
 
+      d3.json("cluster/data/Dataset_"+dataset+"/Topic_Events_Provenance/"+dataset.toString()+"_"+participant.toString()+"_timetopics_"+topic_num.toString()+".json", function(jsondata) {
+
+        dataXRange.min = 0;
+        dataXRange.max = d3.max(jsondata, function(d) { return d.Time; }) * 1.00;
+        dataYRange.max = parseInt(topic_num) + 1;
+        console.log(height, dataYRange.max)
+
+        x_scale = d3.scaleLinear().domain([dataXRange.min, dataXRange.max]).range([points_size, width - points_size]);
+        y_scale = d3.scaleLinear().domain([dataYRange.min, dataYRange.max]).range([height - points_size, 0 + points_size]);
+
+        // Finding the maximum duration of documents reading time 
+        dur_max = d3.max(jsondata, function(d) { if (d.InteractionType == "reading_document") {return d.Duration;}else{return 0;} })
+        dur_min = d3.min(jsondata, function(d) { if (d.InteractionType == "reading_document") {return d.Duration;}else{return 1000;} })
+        
+
+        new_json = JSON.parse(JSON.stringify(jsondata));
+        full_jsondata = minor_topics(new_json);
+        draw(full_jsondata)
       });   //  --------- End of jsondata loop -----------
 
       
@@ -162,15 +191,12 @@ d3.select("div#chart2")
 
       // console.log(Object.keys(full_jsondata).length)
 
-      v_scale = d3.scaleLinear().domain([0, 1.0]).range([1, 10]);
+      v_scale = d3.scaleLinear().domain([0, 1.0]).range([2, 10]);
 
       d3.select(".svg_topics").selectAll(".datapoints").data(full_jsondata).enter().append("circle")
         .attr("class","datapoints")
         .attr("cx", function(d){return x_scale(d.Time);})
-        .attr("cy", function(d){
-                  // console.log(d.Time, d.y ,y_scale(d.y),d.topic)
-                  return y_scale(d.y); 
-                  })
+        .attr("cy", function(d){return y_scale(d.y);})
         .attr("r",function(d){ return v_scale(d.value) ;}) //(points_size * d.value);})
         .style("stroke","none")
         .attr("fill",function(d, i) { return colors(d.topic); })
@@ -202,7 +228,6 @@ d3.select("div#chart2")
         .attr("width", 2)
         .attr("height", 10)
         .attr("fill", "red");
-        
 
       // topicDistance(jsondata);
       
@@ -239,7 +264,7 @@ d3.select("div#chart2")
 
 function minor_topics(jsondata){
 
-      new_jsondata = []
+      var new_jsondata = []
 
       // for (j=0;j<Object.keys(jsondata).length;j++){    // Copy jsondata into a new array
       //   full_jsondata.push(jsondata[j])

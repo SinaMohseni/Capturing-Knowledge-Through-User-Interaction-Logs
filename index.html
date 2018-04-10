@@ -12,32 +12,58 @@
 
     <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-      
-      <a class="slidecontainer">
-        Time Ratio:
-        <p2  style= "position: relative; top: 10px">
-        <input type="range" min="20" max="80" value = "50" id="time_slider" class="slider";>
-        </p2> 
-      </a>
-      <a class="slidecontainer">
-        Topic Transition Ratio:
-        <p2  style= "position: relative; top: 10px; font:bold; ">
-        <input type="range" min="1" max="100" value = "40" id="topic_slider" class="slider";>
-        </p2> 
-      </a>
-      <a class="slidecontainer">
-        Activity Ratio:
-        <p2  style= "position: relative; top: 10px">
-        <input type="range" min="1" max="100" value = "30" id="activity_slider" class="slider";>
-        </p2> 
-      </a>
+        
+      <div style="border-left: 6px solid #333399;padding-bottom: 10px;">
+        <a onclick="time_clustering()" style="cursor: pointer;"> Time Clustering </a>
+        <a class="slidecontainer">
+          <div style="font-size: 10pt">Time Ratio:</div>
+          <p2  style= "position: relative; top: 5px">
+          <input type="range" min="20" max="80" value = "50" id="time_slider" class="slider";>
+          </p2> 
+        </a>
+      </div>
 
+      <a style= "padding-top: 50px">  </a>
 
-      <a style= "padding-top: 100px">  </a> <!-- Run Clustering: -->
-      <a onclick="time_clustering()"> Time Clustering </a>
-      <a onclick="topic_clustering1()"> Topics Clustering </a>
-      <a onclick="actions_clustering()"> User Action Clustering </a>
-      <a onclick="activity_clustering()"> Activity Clustering </a>
+      <div style="border-left: 6px solid #333399;padding-bottom: 10px;">
+        <a onclick="topic_clustering1()" style="cursor: pointer;"> Topics Clustering </a>
+        <a class="slidecontainer">
+          <div style="font-size: 10pt"> Time Ratio:</div>
+          <p2  style= "position: relative; top: 5px">
+          <input type="range" min="20" max="80" value = "50" id="time_slider" class="slider";>
+          </p2> 
+        </a>
+        <a class="slidecontainer">
+          <div style="font-size: 10pt"> Topic Transition Ratio: </div>
+          <p2  style= "position: relative; top: 5px; font:bold; ">
+          <input type="range" min="1" max="100" value = "40" id="topic_slider" class="slider";>
+          </p2> 
+        </a>
+      </div>
+
+      <a style= "padding-top: 50px"></a>
+
+      <div style="border-left: 6px solid #333399;padding-bottom: 10px;">
+        <a onclick="actions_clustering()" style="cursor: pointer;"> User Action Clustering </a>
+        <a class="slidecontainer">
+          <p2  style= "position: relative; top: 5px">
+          <input type="range" min="1" max="100" value = "30" id="action_slider" class="slider";>
+          </p2> 
+        </a>
+      </div>
+
+      <a style= "padding-top: 50px">  </a>
+
+      <div style="border-left: 6px solid #333399;padding-bottom: 10px;">
+        <a onclick= "activity_clustering()"> Activity Clustering </a>
+        <a class= "slidecontainer">
+            <div style="font-size: 10pt"> Activity Ratio:</div>
+            <p2  style= "position: relative; top: 5px">
+            <input type="range" min="1" max="100" value = "30" id="activity_slider" class="slider";>
+            </p2> 
+        </a>
+      </div>
+
       
 
     </div>
@@ -107,7 +133,7 @@
               <label class="radio_container">
                 <b>
                 10 Topics
-                <input type="radio" name="topics_radio" value=10>
+                <input type="radio" name="topics_radio" value=10 disabled>
                 <span class="radio"></span>
                 </b>
               </label>
@@ -281,8 +307,6 @@
     <script src="./cluster/script/topicsplot.js"> </script>
     <script src="./cluster/script/clustering.js"> </script>
     <script src="./cluster/script/dbscan.js"> </script>
-
-    
     <!-- <script src="./words.js"> </script> -->
 
 </body>

@@ -1,4 +1,4 @@
-var data = [];
+// var data = [];
 var dbscan_state = {eps: 50, minPoints: 4, cluster: 0, index: 0, neigh: [], phase: "choose"};
 var delay;
 var process = null; // For setInterval
@@ -13,14 +13,34 @@ function time_clustering(){
     // clone logs
     temp_json = []
     temp_json = JSON.parse(JSON.stringify(full_jsondata));
-    data = []
+    var data = []
 
     temp_json.forEach(function(d,i){
         data.push({"value": d.value, distance: d.Time, cluster: 0})  // itr_index: index_counter  (1/topic_num)
     });
+
+    console.log("data: ", data.length)
     interaction_clustering(data,0)
 
 }
+
+function activity_clustering(){   
+
+    dbscan_state.eps = activity_weight;
+    // clone logs
+    temp_json = []
+    temp_json = JSON.parse(JSON.stringify(full_jsondata));
+    var data = []
+
+    temp_json.forEach(function(d,i){
+        data.push({"value": d.value, distance: d.Time, cluster: 0})  // itr_index: index_counter  (1/topic_num)
+    });
+
+    console.log("data: ", data.length)
+    interaction_clustering(data,0)
+
+}
+
 
 // Distance is based on Topic here
 function topic_clustering1(){
@@ -29,7 +49,7 @@ function topic_clustering1(){
     // clone logs
     var temp_json = []
     var temp_json = JSON.parse(JSON.stringify(full_jsondata));
-    data = []
+    var data = []
     var time_tpoic = [0,0,0,0,0,0,0];
     var topic_last = [0,0,0,0,0,0,0];
     var time_dis = 0
@@ -38,7 +58,7 @@ function topic_clustering1(){
 
     temp_json.forEach(function(d,i){
 
-        time_dis = d.Time/(4*time_weight);// - time_tpoic[d.topic];
+        time_dis = d.Time/(10*time_weight);// - time_tpoic[d.topic];
 
         data.push({"value": d.value, topic: d.topic, distance: time_dis, cluster: 0})  // itr_index: index_counter  (1/topic_num)
 
@@ -59,7 +79,7 @@ function topic_clustering2(){
     // clone logs
     var temp_json = []
     var temp_json = JSON.parse(JSON.stringify(full_jsondata));
-    data = []
+    var data = []
     var time_tpoic = [0,0,0,0,0,0,0];
     var topic_last = [0,0,0,0,0,0,0];
     var time_dis = 0
@@ -92,7 +112,7 @@ function topic_clustering3(){
     // clone logs
     var temp_json = []
     var temp_json = JSON.parse(JSON.stringify(full_jsondata));
-    data = []
+    var data = []
     var time_tpoic = [0,0,0,0,0,0,0];
     var topic_last = [0,0,0,0,0,0,0];
     var time_dis = 0

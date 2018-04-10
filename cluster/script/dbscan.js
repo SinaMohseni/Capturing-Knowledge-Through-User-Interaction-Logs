@@ -11,7 +11,7 @@ function dbscan_clustering(data,type){
         // .transition()
         .style("fill", function(d,i) { 
             if (data[i].cluster == 0){
-            return "white";
+            return "black";
             }else{
             return colors(data[i].cluster); 
             }
