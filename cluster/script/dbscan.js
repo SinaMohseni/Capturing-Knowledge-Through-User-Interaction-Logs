@@ -88,7 +88,7 @@ function dbscan_iter(data,type) {
 
         if(neigh.length >= dbscan_state.minPoints) {
             dbscan_state.cluster += 1;
-            console.log("clusters!")
+            // console.log("clusters!")
             for(var j = 0; j < neigh.length; j++) {
                 neigh[j].cluster = dbscan_state.cluster;
                 if(neigh[j] != z) {

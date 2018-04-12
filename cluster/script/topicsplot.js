@@ -79,54 +79,53 @@ d3.select("div#chart2")
     d3.select(window).on('resize.updatesvg', updateWindow_down);
 
 //---------------------------------- Input Elements --------------------
+    var check_marks = {reading_document: true , open_document: true, highlight: true, brush_document_title: false, search: true, connect: false, bookmark_highlights: false,writing_notes: true,create_note:false};
+    var sliders = {time:50, topic: 60, time_topic: 60, action: 30, activity: 30};
+    // var time_weight = 50, topic_weight = 60, time_topic_weight = 60, action_weight = 30, activity_weight = 30;
 
-    d3.select("#time_slider").on("input", function() {
-      time_weight = +this.value;
+    d3.select("#time_slider").on("input", function() {time_weight = +this.value;});
+    d3.select("#topic_slider").on("input", function() {topic_weight = +this.value;});
+    d3.select("#time_topic_slider").on("input", function() {time_topic_weight = +this.value;});
+    d3.select("#action_slider").on("input", function() {action_weight = +this.value;});
+    d3.select("#activity_slider").on("input", function() {activity_weight = +this.value;});
+
+
+    d3.selectAll(".checkmark_container").on("change", function(d, i) {  
+      d3.select("input[value=read]").on("change", function() {check_marks.reading_document = this.checked;});
+      d3.select("input[value=open]").on("change", function() {check_marks.open_document = this.checked;});
+      d3.select("input[value=highlight]").on("change", function() {check_marks.highlight = this.checked;});
+      d3.select("input[value=brush]").on("change", function() {check_marks.brush_document_title = this.checked;});
+      d3.select("input[value=search]").on("change", function() {check_marks.search = this.checked;});
+      d3.select("input[value=connect]").on("change", function() {check_marks.connect = this.checked;});
+      d3.select("input[value=bookmark]").on("change", function() {check_marks.bookmark_highlights = this.checked;});
+      d3.select("input[value=write]").on("change", function() {check_marks.writing_notes = this.checked;});
+      d3.select("input[value=new]").on("change", function() {check_marks.create_note = this.checked;});
+      
+      init();
     });
-
-    d3.select("#topic_slider").on("input", function() {
-      topic_weight = +this.value;
-    });
-
-    d3.select("#time_topic_slider").on("input", function() {
-      time_topic_weight = +this.value;
-    });
-
-    d3.select("#action_slider").on("input", function() {
-      action_weight = +this.value;
-    });
-
-    d3.select("#activity_slider").on("input", function() {
-      activity_weight = +this.value;
-    });
-
-    d3.selectAll(".checkmark_container").on("change", function() {
-      check_mark = +this.value;
-    });
-
     
     d3.selectAll(".radio_container").on("change", function(d, i) {  
-      topic_num = d3.select('input[name="topics_radio"]:checked').property("value");
+      topic_num = parseInt(d3.select('input[name="topics_radio"]:checked').property("value"));
       dataset = d3.select('input[name="dataset_radio"]:checked').property("value");
       participant = d3.select('input[name="user_radio"]:checked').property("value");
-      // console.log(" ", topic_num," ", dataset, " ", participant)
+      
       init();
     });
 
 //---------------------------------- View Elements and Variables --------------------
 
     var topic_num = 6; dataset = "Arms"; participant = "P1"
-    var time_weight = 50, topic_weight = 60, time_topic_weight = 60, action_weight = 30, activity_weight = 30;
     var each_time_sec;
     var points_size = 10;
     var Axis_room = 50;
-    var max_y = topic_num + 1; // total number of topics + 2;
+
+    var dbscan_state = {mode:"time", eps: 50, minPoints: 4, cluster: 0, index: 0, neigh: [], phase: "choose"};
 
     var colors = d3.scaleOrdinal()
                   .range(d3.schemeCategory10);
 
     var dataXRange = {min: 0, max: 6000};
-    var dataYRange = {min: 0, max: max_y};
+    var dataYRange = {min: 0, max: (topic_num + 1)};
     var zone_s = 0;
     var zone_e = 0;
     var x_scale = d3.scaleLinear()
@@ -172,11 +171,8 @@ d3.select("div#chart2")
 
     function init(){
 
-
-      d3.select(".svg_topics").selectAll(".datapoints").remove();
-      d3.select(".svg_topics").selectAll(".time_lapse").remove();
-      d3.select(".svg_topics").selectAll(".time_lapse2").remove();
-      d3.select(".svg_topics").selectAll(".time_line").remove();
+      removeNclear();
+      
 
       full_jsondata = []
         
@@ -209,137 +205,7 @@ d3.select("div#chart2")
 
       }  //  --------- End of Init() -----------
 
-      function draw(full_jsondata){
 
-      // var json_length = Object.keys(full_jsondata).length;
-
-      // console.log(Object.keys(full_jsondata).length)
-
-      var message_width;
-      d3.select(".svg_topics").selectAll(".datapoints").data(full_jsondata).enter().append("circle")
-        .attr("class","datapoints")
-        .attr("cx", function(d){return x_scale(d.Time);})
-        .attr("cy", function(d){return y_scale(d.y);})
-        .attr("r",function(d){ return v_scale(d.value) ;}) //(points_size * d.value);})
-        .style("stroke","black")  // "none"
-        .attr("fill",function(d, i) { return "white"; }) //  colors(d.topic); })
-        .style("fill-opacity",  function(d){ return 0.9; })
-        .on("mouseover", function(d) { 
-          tooltip.style("display", null); 
-          if (d.InteractionType == "search" | d.InteractionType == "highlight" | d.InteractionType == "create_note" | d.InteractionType == "writing_notes"){
-            var message = d.InteractionType + " : " +d.tags + "      Time: "+ d.Time;
-          }else{
-            var message = d.InteractionType + " : " +d.DocNum + "     Time: "+ d.Time;
-          }
-          message_width = getWidthOfText(message, "sans-serif", "16px")
-          tooltip.select("rect").attr("width", message_width*1.1)
-          tooltip.select("text").text(message);
-        })
-        .on("mouseout", function() { tooltip.style("display", "none"); })
-        .on("mousemove", function(d) {
-              
-              tooltip.select("rect").attr("x", -0.55*message_width) 
-              tooltip.select("text").attr("x", -0.5*message_width)              
-              
-              var xPosition = d3.mouse(this)[0] - 5;
-              var yPosition = d3.mouse(this)[1] - 40;
-
-              if (xPosition + message_width/2 > width){
-                xPosition -= ((xPosition + message_width/2) - width + 20)
-                
-              }else if (xPosition - message_width/2 < 0){
-                xPosition += (message_width/2 - xPosition + 20)
-              }
-              tooltip.attr("transform", "translate(" + xPosition + "," + yPosition + ")");                   
-        })
-        .on("click", function(d){
-          prov_record(full_jsondata, d.cluster);  // this_zone = 
-          // console.log("----zone----", this_zone, d.cluster)
-
-          svg_topics.select(".zone").remove();
-
-          svg_topics.append("rect")
-            .attr("class","zone")
-            .attr("x", (xz_scale(zone_s) - points_size/2))  // this_zone[0]
-            .attr("width", (xz_scale(zone_e) - xz_scale(zone_s) + points_size))
-            .attr("y", function(){
-              // console.log('Mode: ', dbscan_state.mode)
-              if (dbscan_state.mode == "time") return y_scale(6.5);
-              else return y_scale((d.topic+1 - 0.60) )
-            })            
-            .attr("height", function(){            //    , 400)
-              if (dbscan_state.mode == "time") return 400;
-              else return 50;
-            })       
-            .attr("fill", colors(d.cluster))
-            .attr("opacity", 0.6)
-            .attr("rx", 7) 
-            .attr("ry", 7);
-
-          svg_topics.select(".zone").moveToBack();
-          // zoomed();
-        });
-
-
-      // ------------- Generating time laps --------------          
-   // var time_lapse_dur = dataXRange.max / 20;  // 20 in total 
-      time_lapse_dur = 5 * 60;
-
-      var time_lapse_data = d3.range(20).map(function(i) {
-                        return i * time_lapse_dur;
-                      });
-
-      time_lapse = svg_topics.selectAll(".time_lapse").data(time_lapse_data).enter()
-        .append("rect")
-        .attr("class","time_lapse")
-        .attr("x", function(d) {return x_scale(d);}) 
-        .attr("y", height - 10)
-        .attr("width", 2)
-        .attr("height", 10)
-        .attr("fill", "red");
-
-      svg_topics.selectAll(".time_lapse2").data(time_lapse_data).enter()
-        .append("rect")
-        .attr("class","time_lapse2")
-        .attr("x", function(d) {return x_scale(d);}) 
-        .attr("y", 0)
-        .attr("width", 2)
-        .attr("height", 10)
-        .attr("fill", "red");
-
-      // topicDistance(jsondata);
-      
-      // distanceFunction();     // define distance value for datapoints 
-        
-      // updateWindow()
-      
-      // -------------- Animated zoom in ---------------
-      var d0 = 0; 
-          d1 = 5000; 
-
-      svg_topics.transition().duration(150)
-      .call(zoom.transform, d3.zoomIdentity
-          .scale(width / (x_scale(d1) - x_scale(d0)))
-          .translate(-x_scale(d0), 0));                      
-
-      // ------------- Generating timelines --------------          
-
-      var time_line_data = d3.range(topic_num).map(function(i) {
-                  return (i + 1);
-                });
-
-      time_line = svg_topics.selectAll(".time_line").data(time_line_data).enter().append("line")
-                     .attr("class","time_line")
-                     .attr("stroke-dasharray", ("3, 3"))
-                     .attr("stroke","gray")
-                     .attr("height", 2)
-                     .attr("x1", 0) 
-                     .attr("y1", function(d) {return y_scale(d);})
-                     .attr("x2", width)    
-                     .attr("y2", function(d) {return y_scale(d);})
-
-      d3.select(".svg_topics").selectAll(".tooltip").moveToFront();
-   }  // End of Draw();
 
 
 function minor_topics(jsondata){
@@ -350,8 +216,13 @@ function minor_topics(jsondata){
       //   full_jsondata.push(jsondata[j])
       // }
       // console.log(Object.keys(jsondata).length , jsondata)      
+
       index_counter = 0
-      jsondata.forEach(function(d,i){
+      jsondata
+      .filter(function(d){
+        return (check_marks[d.InteractionType] == true)
+      })
+      .forEach(function(d,i){
 
                  temp = [];
                  for (var ii=0; ii<d.ClassNum.length; ii++){
@@ -373,12 +244,17 @@ function minor_topics(jsondata){
 
 }   //------------- End of minor_topics();
 
+function removeNclear(){
 
-function getWidthOfText(txt, fontname, fontsize){
-    if(getWidthOfText.c === undefined){
-        getWidthOfText.c=document.createElement('canvas');
-        getWidthOfText.ctx=getWidthOfText.c.getContext('2d');
-    }
-    getWidthOfText.ctx.font = fontsize + ' ' + fontname;
-    return getWidthOfText.ctx.measureText(txt).width;
+      d3.select(".svg_topics").selectAll(".datapoints").remove();
+      d3.select(".svg_topics").selectAll(".time_lapse").remove();
+      d3.select(".svg_topics").selectAll(".time_lapse2").remove();
+      d3.select(".svg_topics").selectAll(".time_line").remove();
+      d3.select(".svg_record").selectAll(".record_points").remove();
+      svg_topics.select(".zone").remove();
+      dbscan_state.minPoints = 4;
+      dbscan_state.cluster = 0;
+      dbscan_state.index = 0;
+      dbscan_state.phase = "choose";
+      dbscan_state.neigh = [];
 }

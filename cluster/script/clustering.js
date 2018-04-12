@@ -9,7 +9,7 @@ var process = null; // For setInterval
 // Distance is based on Time here 
 function time_clustering(){   
 
-    dbscan_state.eps = time_weight;
+    dbscan_state.eps = sliders.time;
     dbscan_state.mode = "time"
     // clone logs
     temp_json = []
@@ -20,14 +20,14 @@ function time_clustering(){
         data.push({"value": d.value, distance: d.Time, cluster: 0})  // itr_index: index_counter  (1/topic_num)
     });
 
-    console.log("data: ", data.length)
+    // console.log("data: ", data.length)
     interaction_clustering(data,0)
 
 }
 
 function activity_clustering(){   
 
-    dbscan_state.eps = activity_weight;
+    dbscan_state.eps = sliders.activity; //activity_weight;
     dbscan_state.mode = "activity"
     // clone logs
     temp_json = []
@@ -38,7 +38,7 @@ function activity_clustering(){
         data.push({"value": d.value, distance: d.Time, cluster: 0})  // itr_index: index_counter  (1/topic_num)
     });
 
-    console.log("data: ", data.length)
+    // console.log("data: ", data.length)
     interaction_clustering(data,0)
 
 }
@@ -47,7 +47,7 @@ function activity_clustering(){
 // Distance is based on Topic here
 function topic_clustering1(){
 
-    dbscan_state.eps = topic_weight/100;
+    dbscan_state.eps = sliders.topic/100;
     dbscan_state.mode = "topic"
     // clone logs
     var temp_json = []
@@ -57,11 +57,11 @@ function topic_clustering1(){
     var topic_last = [0,0,0,0,0,0,0];
     var time_dis = 0
 
-    console.log(time_weight,topic_weight)
+    // console.log(time_weight,topic_weight)
 
     temp_json.forEach(function(d,i){
 
-        time_dis = d.Time/(10*time_weight);// - time_tpoic[d.topic];
+        time_dis = d.Time/(10*sliders.time);// - time_tpoic[d.topic];
 
         data.push({"value": d.value, topic: d.topic, distance: time_dis, cluster: 0})  // itr_index: index_counter  (1/topic_num)
 
@@ -78,7 +78,7 @@ function topic_clustering1(){
 
 function topic_clustering2(){
 
-    dbscan_state.eps = topic_weight/100;
+    dbscan_state.eps = sliders.topic/100;
     dbscan_state.mode = "topic"
     // clone logs
     var temp_json = []
@@ -88,14 +88,14 @@ function topic_clustering2(){
     var topic_last = [0,0,0,0,0,0,0];
     var time_dis = 0
 
-    console.log(time_weight,topic_weight)
+    // console.log(time_weight,topic_weight)
     total = temp_json.length
     temp_json.forEach(function(d,i){
 
         
         // this_distance = d.topic + ((d.Time - time_tpoic[d.topic]));
 
-        this_distance = d.topic + 100*(d.Time/temp_json[total-1].Time)/time_weight;
+        this_distance = d.topic + 100*(d.Time/temp_json[total-1].Time)/sliders.time;
 
 
         data.push({"value": d.value, distance: this_distance, cluster: 0})  // itr_index: index_counter  (1/topic_num)
@@ -112,7 +112,7 @@ function topic_clustering2(){
 
 function topic_clustering3(){
 
-    dbscan_state.eps = topic_weight/100;
+    dbscan_state.eps = sliders.topic/100;
     dbscan_state.mode = "topic"
     // clone logs
     var temp_json = []
@@ -122,15 +122,13 @@ function topic_clustering3(){
     var topic_last = [0,0,0,0,0,0,0];
     var time_dis = 0
 
-    console.log(time_weight,topic_weight)
+    // console.log(time_weight,topic_weight)
     total = temp_json.length;
 
     temp_json.forEach(function(d,i){
 
 
         this_distance = d.topic + (d.Time - time_tpoic[d.topic]);
-        // this_distance = d.topic + 100*(d.Time/temp_json[total-1].Time)/time_weight;
-
 
         data.push({"value": d.value, distance: this_distance, cluster: 0})  // itr_index: index_counter  (1/topic_num)
         time_tpoic[d.topic] = d.Time;
@@ -143,7 +141,6 @@ function topic_clustering3(){
 
 
 function interaction_clustering(data,type) {
-    /* Reset global variables */
     
     dbscan_state.minPoints = 4;
     dbscan_state.cluster = 0;

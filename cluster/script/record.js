@@ -2,17 +2,14 @@
 
 function prov_record(full_jsondata, cluster_no){
     
-      // init_record();
-      console.log("cluster_no", cluster_no)
-
       d3.select(".svg_record").selectAll(".record_points").remove();
 
       var copy_data = JSON.parse(JSON.stringify(full_jsondata));
       
       filtered_data = copy_data.filter(function(d) { 
-           return ((d.cluster == cluster_no) & (d.InteractionType == "open_document" | d.InteractionType == "reading_document" | d.InteractionType == "search" | d.InteractionType == "highlight" | d.InteractionType == "create_note" | d.InteractionType == "writing_notes"));
-      }) ///| d.InteractionType == "moving_document"
-
+           return (check_marks[d.InteractionType] == true)
+           // return ((d.cluster == cluster_no) & (d.InteractionType == "open_document" | d.InteractionType == "reading_document" | d.InteractionType == "search" | d.InteractionType == "highlight" | d.InteractionType == "create_note" | d.InteractionType == "writing_notes"));
+      })
 
       dataXRange_record.min = filtered_data[0].Time;
       dataXRange_record.max = d3.max(filtered_data, function(d) { return d.Time; }) * 1.00;
@@ -33,9 +30,6 @@ function prov_record(full_jsondata, cluster_no){
                     .data(filtered_data).enter()
                     .append("image")  //.append("circle")
                     .attr("class","record_points")
-                    // .attr("cx", function(d){return x_scale_record(d.Time);})
-                    // .attr("cy", function(d){return y_scale_record(8);})
-                    // .attr("r",function(d){ return v_scale(d.value) ;})
                     .attr("x", function(d){return x_scale_record(d.Time);})
                     .attr("y", function(d){return y_scale_record(8);})
                     .attr('xlink:href',function(d){
@@ -47,9 +41,6 @@ function prov_record(full_jsondata, cluster_no){
                     ) 
                     .attr('height', icon_size)
                     .attr('width', icon_size)
-                    // .style("stroke","black")
-                    // .attr("fill",function(d, i) { return colors(d.cluster); })
-                    // .style("fill-opacity",  function(d){ return 0.9; })
                     .on("mouseover", function(d) { 
                       tooltip_top.style("display", null); 
                       if (d.InteractionType == "search" | d.InteractionType == "highlight" | d.InteractionType == "create_note" | d.InteractionType == "writing_notes"){
@@ -83,32 +74,3 @@ function prov_record(full_jsondata, cluster_no){
 
 }
 
-
-
-// records.append("g").selectAll(".pattIcon") 
-//                 .data(makeData2).enter().append('image')
-//                 .attr("class", "pattern_icon")
-//                 .each(function(d){  //  (d.source.y > d.target.y) & 
-//                         if (( (highlightInteract == d.InteractionType) || (noteInteract == d.InteractionType) ||  (searchInteract == d.InteractionType) || (ceartNoteInteract == d.InteractionType) || (openDocInteract == d.InteractionType) ) ) {
-//                             d.isSel = true;
-//                             // console.log("+++++++++++++", d.InteractionType)
-//                         } else if (d.InteractionType.split("")[0] == "f") {
-//                             // console.log("+++++++++", d.InteractionType)
-//                             d.isSel = false;
-//                             d3.select(this).remove();
-//                         } else {
-//                             // console.log("---------", d.InteractionType)
-//                             d.isSel = false;
-//                             d3.select(this).remove();
-//                         }
-
-//                 })
-//                 .attr('xlink:href',function(d){
-//                     svgfile = d.InteractionType
-//                     if (svgfile.split("")[0] == "f") {
-//                         svgfile = ""
-//                     }
-//                     return "./prov/styles/"+ svgfile + ".svg";}
-//                     ) 
-//                 .attr('height', '30')
-//                 .attr('width', '30')
