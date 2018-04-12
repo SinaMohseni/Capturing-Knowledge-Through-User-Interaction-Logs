@@ -48,7 +48,9 @@
           
         });
 
-        
+
+
+
       // ------------- Generating time laps --------------          
    // var time_lapse_dur = dataXRange.max / 20;  // 20 in total 
       time_lapse_dur = 5 * 60;
@@ -133,7 +135,7 @@ function choose_segment(d){
     .attr("x", (xz_scale(zone_s) - points_size/2))  // this_zone[0]
     .attr("width", (xz_scale(zone_e) - xz_scale(zone_s) + points_size))
     .attr("y", function(){
-      console.log('Mode: ', dbscan_state.mode, topic_num, y_scale(topic_num-2),y_scale(topic_num-1), y_scale(topic_num), y_scale(topic_num+1))
+      console.log('Mode: ', dbscan_state.mode, topic_num, zone_s, zone_e)
       if (dbscan_state.mode == "time") return (y_scale(topic_num+1-0.3));// + y_scale(0.5));  //+0.5
       else return y_scale((d.topic + 1 - 0.5))
     })            
