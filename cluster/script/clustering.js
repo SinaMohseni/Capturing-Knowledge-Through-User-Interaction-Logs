@@ -1,5 +1,5 @@
 // var data = [];
-var dbscan_state = {eps: 50, minPoints: 4, cluster: 0, index: 0, neigh: [], phase: "choose"};
+var dbscan_state = {mode:"time", eps: 50, minPoints: 4, cluster: 0, index: 0, neigh: [], phase: "choose"};
 var delay;
 var process = null; // For setInterval
 
@@ -10,6 +10,7 @@ var process = null; // For setInterval
 function time_clustering(){   
 
     dbscan_state.eps = time_weight;
+    dbscan_state.mode = "time"
     // clone logs
     temp_json = []
     temp_json = JSON.parse(JSON.stringify(full_jsondata));
@@ -27,6 +28,7 @@ function time_clustering(){
 function activity_clustering(){   
 
     dbscan_state.eps = activity_weight;
+    dbscan_state.mode = "activity"
     // clone logs
     temp_json = []
     temp_json = JSON.parse(JSON.stringify(full_jsondata));
@@ -46,6 +48,7 @@ function activity_clustering(){
 function topic_clustering1(){
 
     dbscan_state.eps = topic_weight/100;
+    dbscan_state.mode = "topic"
     // clone logs
     var temp_json = []
     var temp_json = JSON.parse(JSON.stringify(full_jsondata));
@@ -76,6 +79,7 @@ function topic_clustering1(){
 function topic_clustering2(){
 
     dbscan_state.eps = topic_weight/100;
+    dbscan_state.mode = "topic"
     // clone logs
     var temp_json = []
     var temp_json = JSON.parse(JSON.stringify(full_jsondata));
@@ -109,6 +113,7 @@ function topic_clustering2(){
 function topic_clustering3(){
 
     dbscan_state.eps = topic_weight/100;
+    dbscan_state.mode = "topic"
     // clone logs
     var temp_json = []
     var temp_json = JSON.parse(JSON.stringify(full_jsondata));
@@ -146,6 +151,8 @@ function interaction_clustering(data,type) {
     dbscan_state.phase = "choose";
     dbscan_state.neigh = [];
     
+    svg_topics.select(".zone").remove();  // remove pre-selected report zones 
+
     algo_delay = 0;
     clearInterval(process);
     process = null;

@@ -34,6 +34,7 @@ d3.select("div#chart2")
         .attr("font-size", "16px")
         .attr("font-weight", "bold");
 
+     var xz_scale;
      function zoomed() {
         xz_scale = d3.event.transform.rescaleX(x_scale);
         svg_topics.selectAll(".datapoints").attr("cx", function(d){return xz_scale(d.Time); });
@@ -101,7 +102,6 @@ d3.select("div#chart2")
 
     d3.selectAll(".checkmark_container").on("change", function() {
       check_mark = +this.value;
-      // console.log("time_weight", check_mark)
     });
 
     
@@ -109,7 +109,7 @@ d3.select("div#chart2")
       topic_num = d3.select('input[name="topics_radio"]:checked').property("value");
       dataset = d3.select('input[name="dataset_radio"]:checked').property("value");
       participant = d3.select('input[name="user_radio"]:checked').property("value");
-      console.log(" ", topic_num," ", dataset, " ", participant)
+      // console.log(" ", topic_num," ", dataset, " ", participant)
       init();
     });
 
@@ -192,7 +192,6 @@ d3.select("div#chart2")
         dataXRange.min = 0;
         dataXRange.max = d3.max(jsondata, function(d) { return d.Time; }) * 1.00;
         dataYRange.max = parseInt(topic_num) + 1;
-        console.log(height, dataYRange.max)
 
         x_scale = d3.scaleLinear().domain([dataXRange.min, dataXRange.max]).range([points_size, width - points_size]);
         y_scale = d3.scaleLinear().domain([dataYRange.min, dataYRange.max]).range([height - points_size, 0 + points_size]);
@@ -254,23 +253,31 @@ d3.select("div#chart2")
               tooltip.attr("transform", "translate(" + xPosition + "," + yPosition + ")");                   
         })
         .on("click", function(d){
-          this_zone = prov_record(full_jsondata, d.cluster);
-          console.log("----zone----", this_zone, d.cluster)
+          prov_record(full_jsondata, d.cluster);  // this_zone = 
+          // console.log("----zone----", this_zone, d.cluster)
 
           svg_topics.select(".zone").remove();
 
           svg_topics.append("rect")
             .attr("class","zone")
-            .attr("x", (x_scale(this_zone[0]) - points_size/2)) 
-            .attr("width", (x_scale(this_zone[1]) - x_scale(this_zone[0]) + points_size/2))
-            .attr("y", y_scale(6.5))            
-            .attr("height", 400)  // (y_scale(0) - y_scale(6))
+            .attr("x", (xz_scale(zone_s) - points_size/2))  // this_zone[0]
+            .attr("width", (xz_scale(zone_e) - xz_scale(zone_s) + points_size))
+            .attr("y", function(){
+              // console.log('Mode: ', dbscan_state.mode)
+              if (dbscan_state.mode == "time") return y_scale(6.5);
+              else return y_scale((d.topic+1 - 0.60) )
+            })            
+            .attr("height", function(){            //    , 400)
+              if (dbscan_state.mode == "time") return 400;
+              else return 50;
+            })       
             .attr("fill", colors(d.cluster))
             .attr("opacity", 0.6)
             .attr("rx", 7) 
             .attr("ry", 7);
 
           svg_topics.select(".zone").moveToBack();
+          // zoomed();
         });
 
 

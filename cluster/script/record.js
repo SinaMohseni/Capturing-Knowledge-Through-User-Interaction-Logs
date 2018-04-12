@@ -20,7 +20,7 @@ function prov_record(full_jsondata, cluster_no){
       zone_s = dataXRange_record.min;
       zone_e = dataXRange_record.max;
 
-      console.log("Time Range",dataXRange_record.min, dataXRange_record.max)
+      // console.log("Time Range",dataXRange_record.min, dataXRange_record.max)
 
       x_scale_record = d3.scaleLinear().domain([dataXRange_record.min, dataXRange_record.max]).range([2*icon_size, width - 2*icon_size]);
       y_scale_record = d3.scaleLinear().domain([dataYRange_record.min, dataYRange_record.max]).range([height - icon_size, 0 + icon_size]);
