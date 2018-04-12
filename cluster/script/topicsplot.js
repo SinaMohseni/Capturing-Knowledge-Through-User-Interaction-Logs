@@ -12,6 +12,27 @@ d3.select("div#chart2")
    //class to make it responsive
    .classed("svg2-content-responsive", true); 
 //---------------------------------- Responsive SVG + X-Zoom --------------------
+    
+     var tooltip = d3.select(".svg_topics")
+        .append("g")
+        .attr("class", "tooltip")
+        .style("display", "none");
+
+        tooltip.append("rect")
+        .attr("width", 60)
+        .attr("height", 30)
+        .attr("rx",6)
+        .attr("ry",6)
+        .attr("fill", "black")
+        .style("opacity", 0.6);
+
+        tooltip.append("text")
+        .attr("x", 30)
+        .attr("dy", "1.2em")
+        // .style("text-anchor", "middle")
+        .attr("fill","white")
+        .attr("font-size", "16px")
+        .attr("font-weight", "bold");
 
      function zoomed() {
         xz_scale = d3.event.transform.rescaleX(x_scale);
@@ -19,6 +40,8 @@ d3.select("div#chart2")
         svg_topics.selectAll(".time_lapse").attr("x", function(d){return xz_scale(d);});
         svg_topics.selectAll(".time_lapse2").attr("x", function(d){return xz_scale(d);});
 
+        svg_topics.select(".zone").attr("x", (xz_scale(zone_s) - points_size/2));
+        svg_topics.select(".zone").attr("width",(xz_scale(zone_e) - xz_scale(zone_s) + points_size/2));
       }
 
     var zoom = d3.zoom()
@@ -104,7 +127,8 @@ d3.select("div#chart2")
 
     var dataXRange = {min: 0, max: 6000};
     var dataYRange = {min: 0, max: max_y};
-
+    var zone_s = 0;
+    var zone_e = 0;
     var x_scale = d3.scaleLinear()
         .domain([dataXRange.min, dataXRange.max])
         .range([points_size, width - points_size]);
@@ -112,6 +136,8 @@ d3.select("div#chart2")
     var y_scale = d3.scaleLinear()
       .domain([dataYRange.min, dataYRange.max])
       .range([height - points_size, 0 + points_size]);
+
+    var v_scale = d3.scaleLinear().domain([0, 1.0]).range([2, 10]);
 
     d3.selection.prototype.moveToBack = function() {
         return this.each(function() {
@@ -181,7 +207,6 @@ d3.select("div#chart2")
         draw(full_jsondata)
       });   //  --------- End of jsondata loop -----------
 
-      
 
       }  //  --------- End of Init() -----------
 
@@ -191,20 +216,66 @@ d3.select("div#chart2")
 
       // console.log(Object.keys(full_jsondata).length)
 
-      v_scale = d3.scaleLinear().domain([0, 1.0]).range([2, 10]);
-
+      var message_width;
       d3.select(".svg_topics").selectAll(".datapoints").data(full_jsondata).enter().append("circle")
         .attr("class","datapoints")
         .attr("cx", function(d){return x_scale(d.Time);})
         .attr("cy", function(d){return y_scale(d.y);})
         .attr("r",function(d){ return v_scale(d.value) ;}) //(points_size * d.value);})
-        .style("stroke","none")
-        .attr("fill",function(d, i) { return colors(d.topic); })
-        .style("fill-opacity",  function(d){ return 0.9; });
+        .style("stroke","black")  // "none"
+        .attr("fill",function(d, i) { return "white"; }) //  colors(d.topic); })
+        .style("fill-opacity",  function(d){ return 0.9; })
+        .on("mouseover", function(d) { 
+          tooltip.style("display", null); 
+          if (d.InteractionType == "search" | d.InteractionType == "highlight" | d.InteractionType == "create_note" | d.InteractionType == "writing_notes"){
+            var message = d.InteractionType + " : " +d.tags + "      Time: "+ d.Time;
+          }else{
+            var message = d.InteractionType + " : " +d.DocNum + "     Time: "+ d.Time;
+          }
+          message_width = getWidthOfText(message, "sans-serif", "16px")
+          tooltip.select("rect").attr("width", message_width*1.1)
+          tooltip.select("text").text(message);
+        })
+        .on("mouseout", function() { tooltip.style("display", "none"); })
+        .on("mousemove", function(d) {
+              
+              tooltip.select("rect").attr("x", -0.55*message_width) 
+              tooltip.select("text").attr("x", -0.5*message_width)              
+              
+              var xPosition = d3.mouse(this)[0] - 5;
+              var yPosition = d3.mouse(this)[1] - 40;
 
-     
+              if (xPosition + message_width/2 > width){
+                xPosition -= ((xPosition + message_width/2) - width + 20)
+                
+              }else if (xPosition - message_width/2 < 0){
+                xPosition += (message_width/2 - xPosition + 20)
+              }
+              tooltip.attr("transform", "translate(" + xPosition + "," + yPosition + ")");                   
+        })
+        .on("click", function(d){
+          this_zone = prov_record(full_jsondata, d.cluster);
+          console.log("----zone----", this_zone, d.cluster)
+
+          svg_topics.select(".zone").remove();
+
+          svg_topics.append("rect")
+            .attr("class","zone")
+            .attr("x", (x_scale(this_zone[0]) - points_size/2)) 
+            .attr("width", (x_scale(this_zone[1]) - x_scale(this_zone[0]) + points_size/2))
+            .attr("y", y_scale(6.5))            
+            .attr("height", 400)  // (y_scale(0) - y_scale(6))
+            .attr("fill", colors(d.cluster))
+            .attr("opacity", 0.6)
+            .attr("rx", 7) 
+            .attr("ry", 7);
+
+          svg_topics.select(".zone").moveToBack();
+        });
+
+
       // ------------- Generating time laps --------------          
-      // var time_lapse_dur = dataXRange.max / 20;  // 20 in total 
+   // var time_lapse_dur = dataXRange.max / 20;  // 20 in total 
       time_lapse_dur = 5 * 60;
 
       var time_lapse_data = d3.range(20).map(function(i) {
@@ -260,7 +331,9 @@ d3.select("div#chart2")
                      .attr("x2", width)    
                      .attr("y2", function(d) {return y_scale(d);})
 
+      d3.select(".svg_topics").selectAll(".tooltip").moveToFront();
    }  // End of Draw();
+
 
 function minor_topics(jsondata){
 
@@ -293,8 +366,12 @@ function minor_topics(jsondata){
 
 }   //------------- End of minor_topics();
 
-function distanceFunction() {
 
-console.log("I'm here!")
-
+function getWidthOfText(txt, fontname, fontsize){
+    if(getWidthOfText.c === undefined){
+        getWidthOfText.c=document.createElement('canvas');
+        getWidthOfText.ctx=getWidthOfText.c.getContext('2d');
+    }
+    getWidthOfText.ctx.font = fontsize + ' ' + fontname;
+    return getWidthOfText.ctx.measureText(txt).width;
 }

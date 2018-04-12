@@ -10,6 +10,7 @@ function dbscan_clustering(data,type){
         d3.select(".svg_topics").selectAll(".datapoints")
         // .transition()
         .style("fill", function(d,i) { 
+            d.cluster = data[i].cluster;
             if (data[i].cluster == 0){
             return "black";
             }else{
